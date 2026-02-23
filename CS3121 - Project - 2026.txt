@@ -1,0 +1,150 @@
+
+4
+
+Automatic Zoom
+CS3121 – Project
+Last updated - 16th Feb 2026
+1. Project Overview
+This is a group-based project, with each team consisting of 5 students.
+The objective is to identify, design, and implement a real-world data science solution, and to
+prepare a research-style paper suitable for submission to a local or international conference.
+Students will experience the complete data science lifecycle, including:
+● Problem formulation
+● Data acquisition and preprocessing
+● Analysis and/or machine learning
+● Visualization and insight generation
+● Research writing and academic dissemination
+2. Data Requirements
+Groups may use one or more of the following approaches:
+2.1. Existing Datasets
+● Open datasets (Kaggle, UCI, government portals)
+● Public research repositories
+● Open APIs (weather, transport, finance, social data)
+● Examples
+○ LDF Datasets - https://ldflk.github.io/datasets/
+○ https://arxiv.org/pdf/2510.04124
+2.2. Dataset Creation via Integration
+● Combine multiple datasets (e.g., education + demographics, transport + weather)
+● Address challenges such as:
+○ Inconsistent formats
+○ Missing values
+○ Duplicate records
+○ Temporal or spatial misalignment
+2.3. New Data Collection
+● Surveys
+● Sensor-based or log data
+● Ethical data scraping (with justification)
+Data documentation is mandatory (source, limitations, assumptions, ethics).
+3. Analysis & Modelling Expectations
+Depending on the problem, projects may include:
+3.1. Data Analysis
+● Descriptive statistics
+● Exploratory Data Analysis (EDA)
+● Correlation and association analysis
+● Hypothesis testing
+3.2. Machine Learning (Optional but Encouraged)
+● Classification/regression
+● Clustering
+● Time-series analysis
+● Rule mining/pattern discovery
+● Model evaluation and validation
+Note: Model complexity must be justified. Simple, well-reasoned models are
+preferred over unjustified complexity.
+4. Visualization Requirements
+Students must use both:
+● Exploratory visualizations (for analysis)
+● Explanatory visualizations (for communication)
+5. Code Requirements
+● Language: Python (preferred) or as appropriate for the domain
+● Documentation: Comprehensive code comments and README
+● Reproducibility: All experiments must be reproducible
+● Repository: Clean, organized code structure
+6. Research Paper Requirement
+Each group must write a conference-style research paper, including:
+● Abstract
+● Introduction & Motivation
+● Related Work
+● Dataset Description
+● Methodology
+● Experiments, Results & Analysis
+● Discussion & Insights
+● Conclusion & Future Work
+● References
+The paper must be submitted to at least one conference. Teaching Assistants will
+provide you with a set of eligible conferences where you can submit the paper.
+7. Marks Allocation Based on Publication Outcome
+Paper Accepted
+● Accepted at a high-rank / high h-index conference: 100%
+● Accepted at any recognised conference: 95%
+Paper Rejected
+● The paper will be reviewed by module lecturers (Phase 1, Phase 2, and
+Phase 3)
+● Marks awarded using the research paper rubric. However, the maximum you
+can obtain is 84%.
+Paper Never Submitted
+● The paper will be reviewed by module lecturers (Phase 1 and Phase 2)
+● Marks awarded using the research paper rubric. However, the maximum you
+can obtain is 50%.
+8. Group Work & Individual Responsibility
+Each group must consist of exactly 5 students. Although this is a group project, each
+student must make a significant and identifiable contribution. Each student is expected
+to contribute meaningfully to at least one stage of the data science process (e.g., data
+collection, preprocessing, analysis, modeling, evaluation, or visualization). Mere writing,
+formatting, or minor edits alone are not considered sufficient contributions.
+Each team must submit a colour-highlighted version of the research paper for grading
+purposes, in addition to a clean version for conference submission. Assign one distinct
+colour to each team member (five or six colours depending on group size) and use these
+colours consistently throughout the document to indicate individual contributions. Students
+should highlight the sections to which they made substantial contributions, including text they
+wrote, figures or visualizations they created, tables they generated, methodology they
+implemented, and experimental analysis they conducted.
+Since research writing and technical implementation may be carried out by different team
+members, short margin comments should be added where necessary to clarify roles. For
+example, a student who implemented a machine learning model may be different from the
+student who wrote the corresponding section. In such cases, clearly indicate both
+contributions. You may also add short comments to clarify specific technical contributions
+and joint contributions (if multiple members worked together).
+9. Deliverables and Timeline (Submit to relevant Moodle links)
+● Phase 1: Project Proposal - Week 5 (11.59 PM Feb 22, 2026) - 25% of Project
+Marks
+○ The purpose of the proposal is to assess feasibility, scope, and suitability and
+to prevent over-ambitious or under-defined projects.
+○ The proposal must include:
+1. Problem Motivation
+○ Clearly define the real-world problem
+○ Explain why it matters and who benefits
+2. Identified Data Sources
+○ Existing datasets (links if available)
+○ APIs, surveys, sensors, or integrated datasets
+○ Expected size and type of data
+3. Proposed Methodology
+○ Planned data analysis techniques
+○ Possible machine learning approaches (if any)
+○ Expected outputs (insights, predictions, patterns)
+○ Page limit - 2 Pages excluding references.
+○ Template - ACM Conference Proceedings Primary Article Template -
+https://www.overleaf.com/latex/templates/acm-conference-proceedings-primar
+y-article-template/wbvnghjbzwpc
+● Phase 2: Short Paper - Week 8 (11.59 PM March 22, 2026) - 25% of Project
+Marks
+○ Short paper submission, preliminary results, technical validation
+○ Page limit - 4 Pages excluding references.
+○ Template - ACM Conference Proceedings Primary Article Template -
+https://www.overleaf.com/latex/templates/acm-conference-proceedings-prima
+ry-article-template/wbvnghjbzwpc
+● Phase 3: Complete Research Paper, LaTeX Zipfile and Code - Week 12 - (11.59
+PM April 26, 2026) - 34% of Project Marks
+○ Authorship requirements
+■ First five (or 6) authors - The group members. You can order as your
+preference. Ideally, we order based on the contribution to the paper:
+the most contributed student should come first.
+■ The next co-author should be your assigned TA.
+■ Last two co-authors - Dr Nisansa and Dr Sandareka. Please note that
+we do not include titles in the author list.
+○ Page limit - Depends on the conference you chose.
+○ Template - Depends on the conference you chose.
+● Conference notification/ conference submission proof - 11.59 PM June 8, 2026
+Important
+● This project simulates real-world applied data science
+● Collaboration, responsibility, and ethics matter
+● All work must be an original student contribution
