@@ -1,0 +1,3796 @@
+pollutant,urban_area,year,month,station,value_ug_m3
+NO2,Colombo,,JAN,Meteorology Department,37
+NO2,Colombo,,JAN,Colombo MC,70
+NO2,Colombo,,JAN,Gangarama Temple,54
+NO2,Colombo,,JAN,Fort Railway Station,130
+NO2,Colombo,,JAN,Gunasinghepura,23
+NO2,Colombo,,JAN,Jethawanaramaya,80
+NO2,Colombo,,JAN,Maligakanda,21
+NO2,Colombo,,JAN,Kelaniya,10
+NO2,Colombo,,JAN,Borella Police Station,33
+NO2,Colombo,,JAN,Ward Place,50
+NO2,Colombo,,JAN,CEA Kotte,44
+NO2,Colombo,,JAN,Kirulapana,44
+NO2,Colombo,,JAN,Dehiwala Junction,28
+NO2,Colombo,,JAN,Nugegoda Town,68
+NO2,Colombo,,JAN,Malabe,118
+NO2,Colombo,,JAN,Peliyagoda,118
+NO2,Colombo,,JAN,Waththala,58
+NO2,Colombo,,JAN,Maradana Railway Station,65
+NO2,Colombo,,JAN,Colombo District Average,83
+NO2,Colombo,,FEB,Meteorology Department,30
+NO2,Colombo,,FEB,Colombo MC,72
+NO2,Colombo,,FEB,Gangarama Temple,34
+NO2,Colombo,,FEB,Fort Railway Station,140
+NO2,Colombo,,FEB,Gunasinghepura,62
+NO2,Colombo,,FEB,Jethawanaramaya,85
+NO2,Colombo,,FEB,Maligakanda,38
+NO2,Colombo,,FEB,Kelaniya,59
+NO2,Colombo,,FEB,Borella Police Station,60
+NO2,Colombo,,FEB,Ward Place,57
+NO2,Colombo,,FEB,CEA Kotte,52
+NO2,Colombo,,FEB,Kirulapana,46
+NO2,Colombo,,FEB,Dehiwala Junction,36
+NO2,Colombo,,FEB,Nugegoda Town,77
+NO2,Colombo,,FEB,Malabe,75
+NO2,Colombo,,FEB,Peliyagoda,88
+NO2,Colombo,,FEB,Waththala,81
+NO2,Colombo,,FEB,Maradana Railway Station,75
+NO2,Colombo,,FEB,Colombo District Average,154
+NO2,Colombo,,MAR,Meteorology Department,47
+NO2,Colombo,,MAR,Colombo MC,53
+NO2,Colombo,,MAR,Gangarama Temple,55
+NO2,Colombo,,MAR,Fort Railway Station,119
+NO2,Colombo,,MAR,Gunasinghepura,62
+NO2,Colombo,,MAR,Jethawanaramaya,70
+NO2,Colombo,,MAR,Maligakanda,55
+NO2,Colombo,,MAR,Kelaniya,31
+NO2,Colombo,,MAR,Borella Police Station,62
+NO2,Colombo,,MAR,Ward Place,45
+NO2,Colombo,,MAR,CEA Kotte,47
+NO2,Colombo,,MAR,Kirulapana,50
+NO2,Colombo,,MAR,Dehiwala Junction,38
+NO2,Colombo,,MAR,Nugegoda Town,67
+NO2,Colombo,,MAR,Malabe,64
+NO2,Colombo,,MAR,Peliyagoda,99
+NO2,Colombo,,MAR,Waththala,72
+NO2,Colombo,,MAR,Maradana Railway Station,80
+NO2,Colombo,,MAR,Colombo District Average,132
+NO2,Colombo,,APR,Meteorology Department,49
+NO2,Colombo,,APR,Colombo MC,39
+NO2,Colombo,,APR,Gangarama Temple,58
+NO2,Colombo,,APR,Fort Railway Station,145
+NO2,Colombo,,APR,Gunasinghepura,80
+NO2,Colombo,,APR,Jethawanaramaya,115
+NO2,Colombo,,APR,Maligakanda,96
+NO2,Colombo,,APR,Kelaniya,66
+NO2,Colombo,,APR,Borella Police Station,92
+NO2,Colombo,,APR,Ward Place,64
+NO2,Colombo,,APR,CEA Kotte,66
+NO2,Colombo,,APR,Kirulapana,34
+NO2,Colombo,,APR,Dehiwala Junction,59
+NO2,Colombo,,APR,Nugegoda Town,77
+NO2,Colombo,,APR,Malabe,52
+NO2,Colombo,,APR,Peliyagoda,109
+NO2,Colombo,,APR,Waththala,76
+NO2,Colombo,,APR,Maradana Railway Station,197
+NO2,Colombo,,APR,Colombo District Average,197
+NO2,Colombo,,MAY,Meteorology Department,48
+NO2,Colombo,,MAY,Colombo MC,27
+NO2,Colombo,,MAY,Gangarama Temple,76
+NO2,Colombo,,MAY,Fort Railway Station,101
+NO2,Colombo,,MAY,Gunasinghepura,83
+NO2,Colombo,,MAY,Jethawanaramaya,19
+NO2,Colombo,,MAY,Maligakanda,68
+NO2,Colombo,,MAY,Kelaniya,47
+NO2,Colombo,,MAY,Borella Police Station,67
+NO2,Colombo,,MAY,Ward Place,28
+NO2,Colombo,,MAY,CEA Kotte,37
+NO2,Colombo,,MAY,Kirulapana,57
+NO2,Colombo,,MAY,Dehiwala Junction,44
+NO2,Colombo,,MAY,Nugegoda Town,57
+NO2,Colombo,,MAY,Malabe,54
+NO2,Colombo,,MAY,Peliyagoda,63
+NO2,Colombo,,MAY,Waththala,70
+NO2,Colombo,,MAY,Maradana Railway Station,27
+NO2,Colombo,,MAY,Colombo District Average,126
+NO2,Colombo,,JUN,Meteorology Department,84
+NO2,Colombo,,JUN,Colombo MC,57
+NO2,Colombo,,JUN,Gangarama Temple,72
+NO2,Colombo,,JUN,Fort Railway Station,93
+NO2,Colombo,,JUN,Gunasinghepura,78
+NO2,Colombo,,JUN,Jethawanaramaya,115
+NO2,Colombo,,JUN,Maligakanda,74
+NO2,Colombo,,JUN,Kelaniya,54
+NO2,Colombo,,JUN,Borella Police Station,81
+NO2,Colombo,,JUN,Ward Place,32
+NO2,Colombo,,JUN,CEA Kotte,30
+NO2,Colombo,,JUN,Kirulapana,43
+NO2,Colombo,,JUN,Dehiwala Junction,33
+NO2,Colombo,,JUN,Nugegoda Town,42
+NO2,Colombo,,JUN,Malabe,50
+NO2,Colombo,,JUN,Peliyagoda,92
+NO2,Colombo,,JUN,Waththala,94
+NO2,Colombo,,JUN,Maradana Railway Station,27
+NO2,Colombo,,JUN,Colombo District Average,89
+NO2,Colombo,,AUG,Meteorology Department,36
+NO2,Colombo,,AUG,Colombo MC,27
+NO2,Colombo,,AUG,Gangarama Temple,36
+NO2,Colombo,,AUG,Fort Railway Station,68
+NO2,Colombo,,AUG,Gunasinghepura,73
+NO2,Colombo,,AUG,Jethawanaramaya,97
+NO2,Colombo,,AUG,Maligakanda,81
+NO2,Colombo,,AUG,Kelaniya,43
+NO2,Colombo,,AUG,Borella Police Station,68
+NO2,Colombo,,AUG,Ward Place,22
+NO2,Colombo,,AUG,CEA Kotte,28
+NO2,Colombo,,AUG,Kirulapana,21
+NO2,Colombo,,AUG,Dehiwala Junction,37
+NO2,Colombo,,AUG,Nugegoda Town,60
+NO2,Colombo,,AUG,Malabe,40
+NO2,Colombo,,AUG,Peliyagoda,104
+NO2,Colombo,,AUG,Waththala,72
+NO2,Colombo,,AUG,Maradana Railway Station,107
+NO2,Colombo,,AUG,Colombo District Average,163
+NO2,Colombo,,SEP,Meteorology Department,67
+NO2,Colombo,,SEP,Colombo MC,35
+NO2,Colombo,,SEP,Gangarama Temple,30
+NO2,Colombo,,SEP,Fort Railway Station,67
+NO2,Colombo,,SEP,Gunasinghepura,103
+NO2,Colombo,,SEP,Jethawanaramaya,77
+NO2,Colombo,,SEP,Maligakanda,55
+NO2,Colombo,,SEP,Kelaniya,50
+NO2,Colombo,,SEP,Borella Police Station,77
+NO2,Colombo,,SEP,Ward Place,34
+NO2,Colombo,,SEP,CEA Kotte,25
+NO2,Colombo,,SEP,Kirulapana,21
+NO2,Colombo,,SEP,Dehiwala Junction,38
+NO2,Colombo,,SEP,Nugegoda Town,72
+NO2,Colombo,,SEP,Malabe,38
+NO2,Colombo,,SEP,Peliyagoda,61
+NO2,Colombo,,SEP,Waththala,71
+NO2,Colombo,,SEP,Maradana Railway Station,101
+NO2,Colombo,,SEP,Colombo District Average,189
+NO2,Colombo,,OCT,Meteorology Department,53
+NO2,Colombo,,OCT,Colombo MC,78
+NO2,Colombo,,OCT,Gangarama Temple,57
+NO2,Colombo,,OCT,Fort Railway Station,74
+NO2,Colombo,,OCT,Gunasinghepura,69
+NO2,Colombo,,OCT,Jethawanaramaya,81
+NO2,Colombo,,OCT,Maligakanda,83
+NO2,Colombo,,OCT,Kelaniya,72
+NO2,Colombo,,OCT,Borella Police Station,81
+NO2,Colombo,,OCT,Ward Place,42
+NO2,Colombo,,OCT,CEA Kotte,42
+NO2,Colombo,,OCT,Kirulapana,18
+NO2,Colombo,,OCT,Dehiwala Junction,60
+NO2,Colombo,,OCT,Nugegoda Town,65
+NO2,Colombo,,OCT,Malabe,51
+NO2,Colombo,,OCT,Peliyagoda,83
+NO2,Colombo,,OCT,Waththala,97
+NO2,Colombo,,OCT,Maradana Railway Station,112
+NO2,Colombo,,OCT,Colombo District Average,103
+NO2,Colombo,,NOV,Meteorology Department,63
+NO2,Colombo,,NOV,Colombo MC,83
+NO2,Colombo,,NOV,Gangarama Temple,60
+NO2,Colombo,,NOV,Fort Railway Station,109
+NO2,Colombo,,NOV,Gunasinghepura,71
+NO2,Colombo,,NOV,Jethawanaramaya,104
+NO2,Colombo,,NOV,Maligakanda,57
+NO2,Colombo,,NOV,Kelaniya,75
+NO2,Colombo,,NOV,Borella Police Station,78
+NO2,Colombo,,NOV,Ward Place,55
+NO2,Colombo,,NOV,CEA Kotte,51
+NO2,Colombo,,NOV,Kirulapana,30
+NO2,Colombo,,NOV,Dehiwala Junction,84
+NO2,Colombo,,NOV,Nugegoda Town,51
+NO2,Colombo,,NOV,Malabe,106
+NO2,Colombo,,NOV,Peliyagoda,64
+NO2,Colombo,,NOV,Waththala,88
+NO2,Colombo,,NOV,Maradana Railway Station,83
+NO2,Colombo,,NOV,Colombo District Average,104
+NO2,Colombo,,DEC,Meteorology Department,48
+NO2,Colombo,,DEC,Colombo MC,40
+NO2,Colombo,,DEC,Gangarama Temple,38
+NO2,Colombo,,DEC,Fort Railway Station,93
+NO2,Colombo,,DEC,Gunasinghepura,63
+NO2,Colombo,,DEC,Jethawanaramaya,79
+NO2,Colombo,,DEC,Maligakanda,50
+NO2,Colombo,,DEC,Kelaniya,60
+NO2,Colombo,,DEC,Borella Police Station,63
+NO2,Colombo,,DEC,Ward Place,49
+NO2,Colombo,,DEC,CEA Kotte,43
+NO2,Colombo,,DEC,Kirulapana,28
+NO2,Colombo,,DEC,Dehiwala Junction,70
+NO2,Colombo,,DEC,Nugegoda Town,60
+NO2,Colombo,,DEC,Malabe,92
+NO2,Colombo,,DEC,Peliyagoda,66
+NO2,Colombo,,DEC,Waththala,83
+NO2,Colombo,,DEC,Maradana Railway Station,78
+NO2,Colombo,,DEC,Colombo District Average,114
+NO2,Colombo,2013,AVG,Meteorology Department,53
+NO2,Colombo,2013,AVG,Colombo MC,52
+NO2,Colombo,2013,AVG,Gangarama Temple,53
+NO2,Colombo,2013,AVG,Fort Railway Station,101
+NO2,Colombo,2013,AVG,Gunasinghepura,70
+NO2,Colombo,2013,AVG,Jethawanaramaya,85
+NO2,Colombo,2013,AVG,Maligakanda,61
+NO2,Colombo,2013,AVG,Kelaniya,51
+NO2,Colombo,2013,AVG,Borella Police Station,69
+NO2,Colombo,2013,AVG,Ward Place,42
+NO2,Colombo,2013,AVG,CEA Kotte,41
+NO2,Colombo,2013,AVG,Kirulapana,36
+NO2,Colombo,2013,AVG,Dehiwala Junction,49
+NO2,Colombo,2013,AVG,Nugegoda Town,63
+NO2,Colombo,2013,AVG,Malabe,66
+NO2,Colombo,2013,AVG,Peliyagoda,86
+NO2,Colombo,2013,AVG,Waththala,78
+NO2,Colombo,2013,AVG,Maradana Railway Station,83
+NO2,Colombo,2013,AVG,Colombo District Average,130
+NO2,Colombo,2013,JAN,Meteorology Department,28
+NO2,Colombo,2013,JAN,Colombo MC,20
+NO2,Colombo,2013,JAN,Gangarama Temple,18
+NO2,Colombo,2013,JAN,Fort Railway Station,33
+NO2,Colombo,2013,JAN,Gunasinghepura,33
+NO2,Colombo,2013,JAN,Jethawanaramaya,29
+NO2,Colombo,2013,JAN,Maligakanda,60
+NO2,Colombo,2013,JAN,Kelaniya,30
+NO2,Colombo,2013,JAN,Borella Police Station,33
+NO2,Colombo,2013,JAN,Ward Place,19
+NO2,Colombo,2013,JAN,CEA Kotte,13
+NO2,Colombo,2013,JAN,Kirulapana,8
+NO2,Colombo,2013,JAN,Dehiwala Junction,30
+NO2,Colombo,2013,JAN,Nugegoda Town,70
+NO2,Colombo,2013,JAN,Malabe,22
+NO2,Colombo,2013,JAN,Peliyagoda,26
+NO2,Colombo,2013,JAN,Waththala,33
+NO2,Colombo,2013,JAN,Maradana Railway Station,28
+NO2,Colombo,2013,JAN,Colombo District Average,87
+NO2,Colombo,2013,FEB,Meteorology Department,49
+NO2,Colombo,2013,FEB,Colombo MC,35
+NO2,Colombo,2013,FEB,Gangarama Temple,34
+NO2,Colombo,2013,FEB,Fort Railway Station,64
+NO2,Colombo,2013,FEB,Gunasinghepura,65
+NO2,Colombo,2013,FEB,Jethawanaramaya,53
+NO2,Colombo,2013,FEB,Maligakanda,48
+NO2,Colombo,2013,FEB,Kelaniya,55
+NO2,Colombo,2013,FEB,Borella Police Station,63
+NO2,Colombo,2013,FEB,Ward Place,35
+NO2,Colombo,2013,FEB,CEA Kotte,29
+NO2,Colombo,2013,FEB,Kirulapana,18
+NO2,Colombo,2013,FEB,Dehiwala Junction,58
+NO2,Colombo,2013,FEB,Nugegoda Town,50
+NO2,Colombo,2013,FEB,Malabe,41
+NO2,Colombo,2013,FEB,Peliyagoda,47
+NO2,Colombo,2013,FEB,Waththala,59
+NO2,Colombo,2013,FEB,Maradana Railway Station,53
+NO2,Colombo,2013,FEB,Colombo District Average,153
+NO2,Colombo,2013,MAR,Meteorology Department,64
+NO2,Colombo,2013,MAR,Colombo MC,41
+NO2,Colombo,2013,MAR,Gangarama Temple,41
+NO2,Colombo,2013,MAR,Fort Railway Station,89
+NO2,Colombo,2013,MAR,Gunasinghepura,84
+NO2,Colombo,2013,MAR,Jethawanaramaya,70
+NO2,Colombo,2013,MAR,Maligakanda,65
+NO2,Colombo,2013,MAR,Kelaniya,75
+NO2,Colombo,2013,MAR,Borella Police Station,85
+NO2,Colombo,2013,MAR,Ward Place,41
+NO2,Colombo,2013,MAR,CEA Kotte,32
+NO2,Colombo,2013,MAR,Kirulapana,15
+NO2,Colombo,2013,MAR,Dehiwala Junction,80
+NO2,Colombo,2013,MAR,Nugegoda Town,92
+NO2,Colombo,2013,MAR,Malabe,52
+NO2,Colombo,2013,MAR,Peliyagoda,61
+NO2,Colombo,2013,MAR,Waththala,82
+NO2,Colombo,2013,MAR,Maradana Railway Station,70
+NO2,Colombo,2013,MAR,Colombo District Average,163
+NO2,Colombo,2013,APR,Meteorology Department,37
+NO2,Colombo,2013,APR,Colombo MC,48
+NO2,Colombo,2013,APR,Gangarama Temple,61
+NO2,Colombo,2013,APR,Fort Railway Station,84
+NO2,Colombo,2013,APR,Gunasinghepura,49
+NO2,Colombo,2013,APR,Jethawanaramaya,70
+NO2,Colombo,2013,APR,Maligakanda,48
+NO2,Colombo,2013,APR,Kelaniya,35
+NO2,Colombo,2013,APR,Borella Police Station,61
+NO2,Colombo,2013,APR,Ward Place,47
+NO2,Colombo,2013,APR,CEA Kotte,26
+NO2,Colombo,2013,APR,Kirulapana,30
+NO2,Colombo,2013,APR,Dehiwala Junction,44
+NO2,Colombo,2013,APR,Nugegoda Town,47
+NO2,Colombo,2013,APR,Malabe,18
+NO2,Colombo,2013,APR,Peliyagoda,47
+NO2,Colombo,2013,APR,Waththala,54
+NO2,Colombo,2013,APR,Maradana Railway Station,30
+NO2,Colombo,2013,APR,Colombo District Average,83
+NO2,Colombo,2013,MAY,Meteorology Department,44
+NO2,Colombo,2013,MAY,Colombo MC,29
+NO2,Colombo,2013,MAY,Gangarama Temple,37
+NO2,Colombo,2013,MAY,Fort Railway Station,48
+NO2,Colombo,2013,MAY,Gunasinghepura,40
+NO2,Colombo,2013,MAY,Jethawanaramaya,59
+NO2,Colombo,2013,MAY,Maligakanda,39
+NO2,Colombo,2013,MAY,Kelaniya,28
+NO2,Colombo,2013,MAY,Borella Police Station,42
+NO2,Colombo,2013,MAY,Ward Place,16
+NO2,Colombo,2013,MAY,CEA Kotte,15
+NO2,Colombo,2013,MAY,Kirulapana,22
+NO2,Colombo,2013,MAY,Dehiwala Junction,16
+NO2,Colombo,2013,MAY,Nugegoda Town,22
+NO2,Colombo,2013,MAY,Malabe,25
+NO2,Colombo,2013,MAY,Peliyagoda,48
+NO2,Colombo,2013,MAY,Waththala,49
+NO2,Colombo,2013,MAY,Maradana Railway Station,27
+NO2,Colombo,2013,MAY,Colombo District Average,46
+NO2,Colombo,2013,JUN,Meteorology Department,38
+NO2,Colombo,2013,JUN,Colombo MC,25
+NO2,Colombo,2013,JUN,Gangarama Temple,32
+NO2,Colombo,2013,JUN,Fort Railway Station,42
+NO2,Colombo,2013,JUN,Gunasinghepura,35
+NO2,Colombo,2013,JUN,Jethawanaramaya,51
+NO2,Colombo,2013,JUN,Maligakanda,34
+NO2,Colombo,2013,JUN,Kelaniya,24
+NO2,Colombo,2013,JUN,Borella Police Station,36
+NO2,Colombo,2013,JUN,Ward Place,14
+NO2,Colombo,2013,JUN,CEA Kotte,13
+NO2,Colombo,2013,JUN,Kirulapana,19
+NO2,Colombo,2013,JUN,Dehiwala Junction,14
+NO2,Colombo,2013,JUN,Nugegoda Town,19
+NO2,Colombo,2013,JUN,Malabe,22
+NO2,Colombo,2013,JUN,Peliyagoda,41
+NO2,Colombo,2013,JUN,Waththala,42
+NO2,Colombo,2013,JUN,Maradana Railway Station,24
+NO2,Colombo,2013,JUN,Colombo District Average,40
+NO2,Colombo,2013,AUG,Meteorology Department,31
+NO2,Colombo,2013,AUG,Colombo MC,36
+NO2,Colombo,2013,AUG,Gangarama Temple,37
+NO2,Colombo,2013,AUG,Fort Railway Station,25
+NO2,Colombo,2013,AUG,Gunasinghepura,64
+NO2,Colombo,2013,AUG,Jethawanaramaya,46
+NO2,Colombo,2013,AUG,Maligakanda,36
+NO2,Colombo,2013,AUG,Kelaniya,38
+NO2,Colombo,2013,AUG,Borella Police Station,43
+NO2,Colombo,2013,AUG,Ward Place,22
+NO2,Colombo,2013,AUG,CEA Kotte,42
+NO2,Colombo,2013,AUG,Kirulapana,40
+NO2,Colombo,2013,AUG,Dehiwala Junction,27
+NO2,Colombo,2013,AUG,Nugegoda Town,40
+NO2,Colombo,2013,AUG,Malabe,41
+NO2,Colombo,2013,AUG,Peliyagoda,34
+NO2,Colombo,2013,AUG,Waththala,40
+NO2,Colombo,2013,AUG,Maradana Railway Station,41
+NO2,Colombo,2013,AUG,Colombo District Average,56
+NO2,Colombo,2013,SEP,Meteorology Department,14
+NO2,Colombo,2013,SEP,Colombo MC,22
+NO2,Colombo,2013,SEP,Gangarama Temple,30
+NO2,Colombo,2013,SEP,Fort Railway Station,34
+NO2,Colombo,2013,SEP,Gunasinghepura,33
+NO2,Colombo,2013,SEP,Jethawanaramaya,28
+NO2,Colombo,2013,SEP,Maligakanda,33
+NO2,Colombo,2013,SEP,Kelaniya,32
+NO2,Colombo,2013,SEP,Borella Police Station,33
+NO2,Colombo,2013,SEP,Ward Place,20
+NO2,Colombo,2013,SEP,CEA Kotte,30
+NO2,Colombo,2013,SEP,Kirulapana,18
+NO2,Colombo,2013,SEP,Dehiwala Junction,24
+NO2,Colombo,2013,SEP,Nugegoda Town,31
+NO2,Colombo,2013,SEP,Malabe,29
+NO2,Colombo,2013,SEP,Peliyagoda,33
+NO2,Colombo,2013,SEP,Waththala,37
+NO2,Colombo,2013,SEP,Maradana Railway Station,37
+NO2,Colombo,2013,SEP,Colombo District Average,35
+NO2,Colombo,2013,OCT,Meteorology Department,26
+NO2,Colombo,2013,OCT,Colombo MC,22
+NO2,Colombo,2013,OCT,Gangarama Temple,22
+NO2,Colombo,2013,OCT,Fort Railway Station,43
+NO2,Colombo,2013,OCT,Gunasinghepura,24
+NO2,Colombo,2013,OCT,Jethawanaramaya,57
+NO2,Colombo,2013,OCT,Maligakanda,28
+NO2,Colombo,2013,OCT,Kelaniya,43
+NO2,Colombo,2013,OCT,Borella Police Station,34
+NO2,Colombo,2013,OCT,Ward Place,24
+NO2,Colombo,2013,OCT,CEA Kotte,23
+NO2,Colombo,2013,OCT,Kirulapana,16
+NO2,Colombo,2013,OCT,Dehiwala Junction,27
+NO2,Colombo,2013,OCT,Nugegoda Town,34
+NO2,Colombo,2013,OCT,Malabe,34
+NO2,Colombo,2013,OCT,Peliyagoda,33
+NO2,Colombo,2013,OCT,Waththala,39
+NO2,Colombo,2013,OCT,Maradana Railway Station,43
+NO2,Colombo,2013,OCT,Colombo District Average,58
+NO2,Colombo,2013,NOV,Meteorology Department,28
+NO2,Colombo,2013,NOV,Colombo MC,50
+NO2,Colombo,2013,NOV,Gangarama Temple,34
+NO2,Colombo,2013,NOV,Fort Railway Station,53
+NO2,Colombo,2013,NOV,Gunasinghepura,25
+NO2,Colombo,2013,NOV,Jethawanaramaya,37
+NO2,Colombo,2013,NOV,Maligakanda,27
+NO2,Colombo,2013,NOV,Kelaniya,33
+NO2,Colombo,2013,NOV,Borella Police Station,33
+NO2,Colombo,2013,NOV,Ward Place,23
+NO2,Colombo,2013,NOV,CEA Kotte,27
+NO2,Colombo,2013,NOV,Kirulapana,51
+NO2,Colombo,2013,NOV,Dehiwala Junction,55
+NO2,Colombo,2013,NOV,Nugegoda Town,43
+NO2,Colombo,2013,NOV,Malabe,36
+NO2,Colombo,2013,NOV,Peliyagoda,33
+NO2,Colombo,2013,NOV,Waththala,33
+NO2,Colombo,2013,NOV,Maradana Railway Station,51
+NO2,Colombo,2013,NOV,Colombo District Average,67
+NO2,Colombo,2013,DEC,Meteorology Department,28
+NO2,Colombo,2013,DEC,Colombo MC,47
+NO2,Colombo,2013,DEC,Gangarama Temple,37
+NO2,Colombo,2013,DEC,Fort Railway Station,50
+NO2,Colombo,2013,DEC,Gunasinghepura,33
+NO2,Colombo,2013,DEC,Jethawanaramaya,35
+NO2,Colombo,2013,DEC,Maligakanda,36
+NO2,Colombo,2013,DEC,Kelaniya,30
+NO2,Colombo,2013,DEC,Borella Police Station,34
+NO2,Colombo,2013,DEC,Ward Place,38
+NO2,Colombo,2013,DEC,CEA Kotte,26
+NO2,Colombo,2013,DEC,Kirulapana,20
+NO2,Colombo,2013,DEC,Dehiwala Junction,41
+NO2,Colombo,2013,DEC,Nugegoda Town,44
+NO2,Colombo,2013,DEC,Malabe,50
+NO2,Colombo,2013,DEC,Peliyagoda,53
+NO2,Colombo,2013,DEC,Waththala,77
+NO2,Colombo,2013,DEC,Maradana Railway Station,78
+NO2,Colombo,2013,DEC,Colombo District Average,78
+NO2,Colombo,2014,AVG,Meteorology Department,36
+NO2,Colombo,2014,AVG,Colombo MC,34
+NO2,Colombo,2014,AVG,Gangarama Temple,35
+NO2,Colombo,2014,AVG,Fort Railway Station,51
+NO2,Colombo,2014,AVG,Gunasinghepura,44
+NO2,Colombo,2014,AVG,Jethawanaramaya,50
+NO2,Colombo,2014,AVG,Maligakanda,41
+NO2,Colombo,2014,AVG,Kelaniya,38
+NO2,Colombo,2014,AVG,Borella Police Station,45
+NO2,Colombo,2014,AVG,Ward Place,28
+NO2,Colombo,2014,AVG,CEA Kotte,25
+NO2,Colombo,2014,AVG,Kirulapana,23
+NO2,Colombo,2014,AVG,Dehiwala Junction,36
+NO2,Colombo,2014,AVG,Nugegoda Town,44
+NO2,Colombo,2014,AVG,Malabe,33
+NO2,Colombo,2014,AVG,Peliyagoda,41
+NO2,Colombo,2014,AVG,Waththala,49
+NO2,Colombo,2014,AVG,Maradana Railway Station,43
+NO2,Colombo,2014,AVG,Colombo District Average,76
+NO2,Colombo,2014,JAN,Meteorology Department,36
+NO2,Colombo,2014,JAN,Colombo MC,70
+NO2,Colombo,2014,JAN,Gangarama Temple,48
+NO2,Colombo,2014,JAN,Fort Railway Station,58
+NO2,Colombo,2014,JAN,Gunasinghepura,50
+NO2,Colombo,2014,JAN,Jethawanaramaya,68
+NO2,Colombo,2014,JAN,Maligakanda,49
+NO2,Colombo,2014,JAN,Kelaniya,60
+NO2,Colombo,2014,JAN,Borella Police Station,70
+NO2,Colombo,2014,JAN,Ward Place,51
+NO2,Colombo,2014,JAN,CEA Kotte,40
+NO2,Colombo,2014,JAN,Kirulapana,30
+NO2,Colombo,2014,JAN,Dehiwala Junction,50
+NO2,Colombo,2014,JAN,Nugegoda Town,53
+NO2,Colombo,2014,JAN,Malabe,58
+NO2,Colombo,2014,JAN,Peliyagoda,56
+NO2,Colombo,2014,JAN,Waththala,51
+NO2,Colombo,2014,JAN,Maradana Railway Station,65
+NO2,Colombo,2014,JAN,Colombo District Average,71
+NO2,Colombo,2014,FEB,Meteorology Department,34
+NO2,Colombo,2014,FEB,Colombo MC,65
+NO2,Colombo,2014,FEB,Gangarama Temple,45
+NO2,Colombo,2014,FEB,Fort Railway Station,54
+NO2,Colombo,2014,FEB,Gunasinghepura,46
+NO2,Colombo,2014,FEB,Jethawanaramaya,63
+NO2,Colombo,2014,FEB,Maligakanda,46
+NO2,Colombo,2014,FEB,Kelaniya,56
+NO2,Colombo,2014,FEB,Borella Police Station,65
+NO2,Colombo,2014,FEB,Ward Place,47
+NO2,Colombo,2014,FEB,CEA Kotte,37
+NO2,Colombo,2014,FEB,Kirulapana,28
+NO2,Colombo,2014,FEB,Dehiwala Junction,47
+NO2,Colombo,2014,FEB,Nugegoda Town,50
+NO2,Colombo,2014,FEB,Malabe,54
+NO2,Colombo,2014,FEB,Peliyagoda,53
+NO2,Colombo,2014,FEB,Waththala,48
+NO2,Colombo,2014,FEB,Maradana Railway Station,60
+NO2,Colombo,2014,FEB,Colombo District Average,67
+NO2,Colombo,2014,MAR,Meteorology Department,34
+NO2,Colombo,2014,MAR,Colombo MC,48
+NO2,Colombo,2014,MAR,Gangarama Temple,30
+NO2,Colombo,2014,MAR,Fort Railway Station,57
+NO2,Colombo,2014,MAR,Gunasinghepura,34
+NO2,Colombo,2014,MAR,Jethawanaramaya,48
+NO2,Colombo,2014,MAR,Maligakanda,34
+NO2,Colombo,2014,MAR,Kelaniya,34
+NO2,Colombo,2014,MAR,Borella Police Station,49
+NO2,Colombo,2014,MAR,Ward Place,32
+NO2,Colombo,2014,MAR,CEA Kotte,30
+NO2,Colombo,2014,MAR,Kirulapana,26
+NO2,Colombo,2014,MAR,Dehiwala Junction,37
+NO2,Colombo,2014,MAR,Nugegoda Town,21
+NO2,Colombo,2014,MAR,Malabe,69
+NO2,Colombo,2014,MAR,Peliyagoda,49
+NO2,Colombo,2014,MAR,Waththala,45
+NO2,Colombo,2014,MAR,Maradana Railway Station,52
+NO2,Colombo,2014,MAR,Colombo District Average,62
+NO2,Colombo,2014,APR,Meteorology Department,25
+NO2,Colombo,2014,APR,Colombo MC,28
+NO2,Colombo,2014,APR,Gangarama Temple,32
+NO2,Colombo,2014,APR,Fort Railway Station,47
+NO2,Colombo,2014,APR,Gunasinghepura,32
+NO2,Colombo,2014,APR,Jethawanaramaya,10
+NO2,Colombo,2014,APR,Maligakanda,39
+NO2,Colombo,2014,APR,Kelaniya,28
+NO2,Colombo,2014,APR,Borella Police Station,28
+NO2,Colombo,2014,APR,Ward Place,27
+NO2,Colombo,2014,APR,CEA Kotte,23
+NO2,Colombo,2014,APR,Kirulapana,17
+NO2,Colombo,2014,APR,Dehiwala Junction,29
+NO2,Colombo,2014,APR,Nugegoda Town,23
+NO2,Colombo,2014,APR,Malabe,35
+NO2,Colombo,2014,APR,Peliyagoda,41
+NO2,Colombo,2014,APR,Waththala,43
+NO2,Colombo,2014,APR,Maradana Railway Station,45
+NO2,Colombo,2014,APR,Colombo District Average,59
+NO2,Colombo,2014,MAY,Meteorology Department,30
+NO2,Colombo,2014,MAY,Colombo MC,21
+NO2,Colombo,2014,MAY,Gangarama Temple,19
+NO2,Colombo,2014,MAY,Fort Railway Station,36
+NO2,Colombo,2014,MAY,Gunasinghepura,26
+NO2,Colombo,2014,MAY,Jethawanaramaya,9
+NO2,Colombo,2014,MAY,Maligakanda,39
+NO2,Colombo,2014,MAY,Kelaniya,19
+NO2,Colombo,2014,MAY,Borella Police Station,33
+NO2,Colombo,2014,MAY,Ward Place,18
+NO2,Colombo,2014,MAY,CEA Kotte,22
+NO2,Colombo,2014,MAY,Kirulapana,21
+NO2,Colombo,2014,MAY,Dehiwala Junction,34
+NO2,Colombo,2014,MAY,Nugegoda Town,20
+NO2,Colombo,2014,MAY,Malabe,24
+NO2,Colombo,2014,MAY,Peliyagoda,52
+NO2,Colombo,2014,MAY,Waththala,73
+NO2,Colombo,2014,MAY,Maradana Railway Station,48
+NO2,Colombo,2014,MAY,Colombo District Average,49
+NO2,Colombo,2014,JUN,Meteorology Department,27
+NO2,Colombo,2014,JUN,Colombo MC,19
+NO2,Colombo,2014,JUN,Gangarama Temple,17
+NO2,Colombo,2014,JUN,Fort Railway Station,32
+NO2,Colombo,2014,JUN,Gunasinghepura,23
+NO2,Colombo,2014,JUN,Jethawanaramaya,8
+NO2,Colombo,2014,JUN,Maligakanda,35
+NO2,Colombo,2014,JUN,Kelaniya,17
+NO2,Colombo,2014,JUN,Borella Police Station,30
+NO2,Colombo,2014,JUN,Ward Place,16
+NO2,Colombo,2014,JUN,CEA Kotte,20
+NO2,Colombo,2014,JUN,Kirulapana,19
+NO2,Colombo,2014,JUN,Dehiwala Junction,31
+NO2,Colombo,2014,JUN,Nugegoda Town,18
+NO2,Colombo,2014,JUN,Malabe,21
+NO2,Colombo,2014,JUN,Peliyagoda,47
+NO2,Colombo,2014,JUN,Waththala,60
+NO2,Colombo,2014,JUN,Maradana Railway Station,43
+NO2,Colombo,2014,JUN,Colombo District Average,44
+NO2,Colombo,2014,AUG,Meteorology Department,20
+NO2,Colombo,2014,AUG,Colombo MC,15
+NO2,Colombo,2014,AUG,Gangarama Temple,16
+NO2,Colombo,2014,AUG,Fort Railway Station,23
+NO2,Colombo,2014,AUG,Gunasinghepura,28
+NO2,Colombo,2014,AUG,Jethawanaramaya,36
+NO2,Colombo,2014,AUG,Maligakanda,30
+NO2,Colombo,2014,AUG,Kelaniya,30
+NO2,Colombo,2014,AUG,Borella Police Station,28
+NO2,Colombo,2014,AUG,Ward Place,15
+NO2,Colombo,2014,AUG,CEA Kotte,13
+NO2,Colombo,2014,AUG,Kirulapana,14
+NO2,Colombo,2014,AUG,Dehiwala Junction,12
+NO2,Colombo,2014,AUG,Nugegoda Town,36
+NO2,Colombo,2014,AUG,Malabe,19
+NO2,Colombo,2014,AUG,Peliyagoda,24
+NO2,Colombo,2014,AUG,Waththala,17
+NO2,Colombo,2014,AUG,Maradana Railway Station,45
+NO2,Colombo,2014,AUG,Colombo District Average,43
+NO2,Colombo,2014,SEP,Meteorology Department,21
+NO2,Colombo,2014,SEP,Colombo MC,13
+NO2,Colombo,2014,SEP,Gangarama Temple,19
+NO2,Colombo,2014,SEP,Fort Railway Station,36
+NO2,Colombo,2014,SEP,Gunasinghepura,21
+NO2,Colombo,2014,SEP,Jethawanaramaya,33
+NO2,Colombo,2014,SEP,Maligakanda,34
+NO2,Colombo,2014,SEP,Kelaniya,35
+NO2,Colombo,2014,SEP,Borella Police Station,35
+NO2,Colombo,2014,SEP,Ward Place,23
+NO2,Colombo,2014,SEP,CEA Kotte,18
+NO2,Colombo,2014,SEP,Kirulapana,18
+NO2,Colombo,2014,SEP,Dehiwala Junction,21
+NO2,Colombo,2014,SEP,Nugegoda Town,30
+NO2,Colombo,2014,SEP,Malabe,26
+NO2,Colombo,2014,SEP,Peliyagoda,29
+NO2,Colombo,2014,SEP,Waththala,22
+NO2,Colombo,2014,SEP,Maradana Railway Station,52
+NO2,Colombo,2014,SEP,Colombo District Average,38
+NO2,Colombo,2014,OCT,Meteorology Department,20
+NO2,Colombo,2014,OCT,Colombo MC,17
+NO2,Colombo,2014,OCT,Gangarama Temple,15
+NO2,Colombo,2014,OCT,Fort Railway Station,31
+NO2,Colombo,2014,OCT,Gunasinghepura,17
+NO2,Colombo,2014,OCT,Jethawanaramaya,26
+NO2,Colombo,2014,OCT,Maligakanda,27
+NO2,Colombo,2014,OCT,Kelaniya,28
+NO2,Colombo,2014,OCT,Borella Police Station,26
+NO2,Colombo,2014,OCT,Ward Place,18
+NO2,Colombo,2014,OCT,CEA Kotte,14
+NO2,Colombo,2014,OCT,Kirulapana,14
+NO2,Colombo,2014,OCT,Dehiwala Junction,17
+NO2,Colombo,2014,OCT,Nugegoda Town,23
+NO2,Colombo,2014,OCT,Malabe,21
+NO2,Colombo,2014,OCT,Peliyagoda,23
+NO2,Colombo,2014,OCT,Waththala,16
+NO2,Colombo,2014,OCT,Maradana Railway Station,41
+NO2,Colombo,2014,OCT,Colombo District Average,33
+NO2,Colombo,2014,NOV,Meteorology Department,41
+NO2,Colombo,2014,NOV,Colombo MC,17
+NO2,Colombo,2014,NOV,Gangarama Temple,21
+NO2,Colombo,2014,NOV,Fort Railway Station,62
+NO2,Colombo,2014,NOV,Gunasinghepura,56
+NO2,Colombo,2014,NOV,Jethawanaramaya,50
+NO2,Colombo,2014,NOV,Maligakanda,32
+NO2,Colombo,2014,NOV,Kelaniya,78
+NO2,Colombo,2014,NOV,Borella Police Station,52
+NO2,Colombo,2014,NOV,Ward Place,48
+NO2,Colombo,2014,NOV,CEA Kotte,41
+NO2,Colombo,2014,NOV,Kirulapana,38
+NO2,Colombo,2014,NOV,Dehiwala Junction,22
+NO2,Colombo,2014,NOV,Nugegoda Town,38
+NO2,Colombo,2014,NOV,Malabe,51
+NO2,Colombo,2014,NOV,Peliyagoda,50
+NO2,Colombo,2014,NOV,Waththala,44
+NO2,Colombo,2014,NOV,Maradana Railway Station,50
+NO2,Colombo,2014,NOV,Colombo District Average,75
+NO2,Colombo,2014,DEC,Meteorology Department,47
+NO2,Colombo,2014,DEC,Colombo MC,19
+NO2,Colombo,2014,DEC,Gangarama Temple,24
+NO2,Colombo,2014,DEC,Fort Railway Station,71
+NO2,Colombo,2014,DEC,Gunasinghepura,64
+NO2,Colombo,2014,DEC,Jethawanaramaya,57
+NO2,Colombo,2014,DEC,Maligakanda,36
+NO2,Colombo,2014,DEC,Kelaniya,89
+NO2,Colombo,2014,DEC,Borella Police Station,59
+NO2,Colombo,2014,DEC,Ward Place,55
+NO2,Colombo,2014,DEC,CEA Kotte,47
+NO2,Colombo,2014,DEC,Kirulapana,44
+NO2,Colombo,2014,DEC,Dehiwala Junction,26
+NO2,Colombo,2014,DEC,Nugegoda Town,43
+NO2,Colombo,2014,DEC,Malabe,58
+NO2,Colombo,2014,DEC,Peliyagoda,57
+NO2,Colombo,2014,DEC,Waththala,51
+NO2,Colombo,2014,DEC,Maradana Railway Station,57
+NO2,Colombo,2014,DEC,Colombo District Average,86
+NO2,Colombo,2015,AVG,Meteorology Department,30
+NO2,Colombo,2015,AVG,Colombo MC,29
+NO2,Colombo,2015,AVG,Gangarama Temple,24
+NO2,Colombo,2015,AVG,Fort Railway Station,45
+NO2,Colombo,2015,AVG,Gunasinghepura,35
+NO2,Colombo,2015,AVG,Jethawanaramaya,36
+NO2,Colombo,2015,AVG,Maligakanda,36
+NO2,Colombo,2015,AVG,Kelaniya,41
+NO2,Colombo,2015,AVG,Borella Police Station,42
+NO2,Colombo,2015,AVG,Ward Place,30
+NO2,Colombo,2015,AVG,CEA Kotte,27
+NO2,Colombo,2015,AVG,Kirulapana,24
+NO2,Colombo,2015,AVG,Dehiwala Junction,28
+NO2,Colombo,2015,AVG,Nugegoda Town,32
+NO2,Colombo,2015,AVG,Malabe,39
+NO2,Colombo,2015,AVG,Peliyagoda,42
+NO2,Colombo,2015,AVG,Waththala,42
+NO2,Colombo,2015,AVG,Maradana Railway Station,49
+NO2,Colombo,2015,AVG,Colombo District Average,55
+NO2,Colombo,2015,JAN,Meteorology Department,29
+NO2,Colombo,2015,JAN,Colombo MC,35
+NO2,Colombo,2015,JAN,Gangarama Temple,36
+NO2,Colombo,2015,JAN,Fort Railway Station,51
+NO2,Colombo,2015,JAN,Gunasinghepura,29
+NO2,Colombo,2015,JAN,Jethawanaramaya,38
+NO2,Colombo,2015,JAN,Maligakanda,16
+NO2,Colombo,2015,JAN,Kelaniya,36
+NO2,Colombo,2015,JAN,Borella Police Station,37
+NO2,Colombo,2015,JAN,Ward Place,31
+NO2,Colombo,2015,JAN,CEA Kotte,30
+NO2,Colombo,2015,JAN,Kirulapana,39
+NO2,Colombo,2015,JAN,Dehiwala Junction,40
+NO2,Colombo,2015,JAN,Nugegoda Town,20
+NO2,Colombo,2015,JAN,Malabe,44
+NO2,Colombo,2015,JAN,Peliyagoda,48
+NO2,Colombo,2015,JAN,Waththala,39
+NO2,Colombo,2015,JAN,Maradana Railway Station,50
+NO2,Colombo,2015,JAN,Colombo District Average,65
+NO2,Colombo,2015,FEB,Meteorology Department,17
+NO2,Colombo,2015,FEB,Colombo MC,42
+NO2,Colombo,2015,FEB,Gangarama Temple,24
+NO2,Colombo,2015,FEB,Fort Railway Station,32
+NO2,Colombo,2015,FEB,Gunasinghepura,50
+NO2,Colombo,2015,FEB,Jethawanaramaya,44
+NO2,Colombo,2015,FEB,Maligakanda,29
+NO2,Colombo,2015,FEB,Kelaniya,58
+NO2,Colombo,2015,FEB,Borella Police Station,46
+NO2,Colombo,2015,FEB,Ward Place,35
+NO2,Colombo,2015,FEB,CEA Kotte,33
+NO2,Colombo,2015,FEB,Kirulapana,27
+NO2,Colombo,2015,FEB,Dehiwala Junction,29
+NO2,Colombo,2015,FEB,Nugegoda Town,13
+NO2,Colombo,2015,FEB,Malabe,52
+NO2,Colombo,2015,FEB,Peliyagoda,36
+NO2,Colombo,2015,FEB,Waththala,37
+NO2,Colombo,2015,FEB,Maradana Railway Station,51
+NO2,Colombo,2015,FEB,Colombo District Average,67
+NO2,Colombo,2015,MAR,Meteorology Department,28
+NO2,Colombo,2015,MAR,Colombo MC,31
+NO2,Colombo,2015,MAR,Gangarama Temple,24
+NO2,Colombo,2015,MAR,Fort Railway Station,55
+NO2,Colombo,2015,MAR,Gunasinghepura,48
+NO2,Colombo,2015,MAR,Jethawanaramaya,50
+NO2,Colombo,2015,MAR,Maligakanda,32
+NO2,Colombo,2015,MAR,Kelaniya,54
+NO2,Colombo,2015,MAR,Borella Police Station,44
+NO2,Colombo,2015,MAR,Ward Place,27
+NO2,Colombo,2015,MAR,CEA Kotte,31
+NO2,Colombo,2015,MAR,Kirulapana,23
+NO2,Colombo,2015,MAR,Dehiwala Junction,28
+NO2,Colombo,2015,MAR,Nugegoda Town,54
+NO2,Colombo,2015,MAR,Malabe,42
+NO2,Colombo,2015,MAR,Peliyagoda,49
+NO2,Colombo,2015,MAR,Waththala,37
+NO2,Colombo,2015,MAR,Maradana Railway Station,53
+NO2,Colombo,2015,MAR,Colombo District Average,64
+NO2,Colombo,2015,APR,Meteorology Department,19
+NO2,Colombo,2015,APR,Colombo MC,25
+NO2,Colombo,2015,APR,Gangarama Temple,20
+NO2,Colombo,2015,APR,Fort Railway Station,29
+NO2,Colombo,2015,APR,Gunasinghepura,34
+NO2,Colombo,2015,APR,Jethawanaramaya,37
+NO2,Colombo,2015,APR,Maligakanda,28
+NO2,Colombo,2015,APR,Kelaniya,33
+NO2,Colombo,2015,APR,Borella Police Station,34
+NO2,Colombo,2015,APR,Ward Place,23
+NO2,Colombo,2015,APR,CEA Kotte,21
+NO2,Colombo,2015,APR,Kirulapana,24
+NO2,Colombo,2015,APR,Dehiwala Junction,22
+NO2,Colombo,2015,APR,Nugegoda Town,32
+NO2,Colombo,2015,APR,Malabe,29
+NO2,Colombo,2015,APR,Peliyagoda,34
+NO2,Colombo,2015,APR,Waththala,24
+NO2,Colombo,2015,APR,Maradana Railway Station,42
+NO2,Colombo,2015,APR,Colombo District Average,51
+NO2,Colombo,2015,MAY,Meteorology Department,27
+NO2,Colombo,2015,MAY,Colombo MC,25
+NO2,Colombo,2015,MAY,Gangarama Temple,30
+NO2,Colombo,2015,MAY,Fort Railway Station,16
+NO2,Colombo,2015,MAY,Gunasinghepura,40
+NO2,Colombo,2015,MAY,Jethawanaramaya,24
+NO2,Colombo,2015,MAY,Maligakanda,52
+NO2,Colombo,2015,MAY,Kelaniya,45
+NO2,Colombo,2015,MAY,Borella Police Station,43
+NO2,Colombo,2015,MAY,Ward Place,22
+NO2,Colombo,2015,MAY,CEA Kotte,25
+NO2,Colombo,2015,MAY,Kirulapana,26
+NO2,Colombo,2015,MAY,Dehiwala Junction,28
+NO2,Colombo,2015,MAY,Nugegoda Town,35
+NO2,Colombo,2015,MAY,Malabe,33
+NO2,Colombo,2015,MAY,Peliyagoda,35
+NO2,Colombo,2015,MAY,Waththala,29
+NO2,Colombo,2015,MAY,Maradana Railway Station,12
+NO2,Colombo,2015,MAY,Colombo District Average,56
+NO2,Colombo,2015,JUN,Meteorology Department,19
+NO2,Colombo,2015,JUN,Colombo MC,20
+NO2,Colombo,2015,JUN,Gangarama Temple,15
+NO2,Colombo,2015,JUN,Fort Railway Station,30
+NO2,Colombo,2015,JUN,Gunasinghepura,31
+NO2,Colombo,2015,JUN,Jethawanaramaya,41
+NO2,Colombo,2015,JUN,Maligakanda,33
+NO2,Colombo,2015,JUN,Kelaniya,37
+NO2,Colombo,2015,JUN,Borella Police Station,28
+NO2,Colombo,2015,JUN,Ward Place,16
+NO2,Colombo,2015,JUN,CEA Kotte,15
+NO2,Colombo,2015,JUN,Kirulapana,29
+NO2,Colombo,2015,JUN,Dehiwala Junction,32
+NO2,Colombo,2015,JUN,Nugegoda Town,31
+NO2,Colombo,2015,JUN,Malabe,30
+NO2,Colombo,2015,JUN,Peliyagoda,35
+NO2,Colombo,2015,JUN,Waththala,32
+NO2,Colombo,2015,JUN,Maradana Railway Station,33
+NO2,Colombo,2015,JUN,Colombo District Average,37
+NO2,Colombo,2015,AUG,Meteorology Department,16
+NO2,Colombo,2015,AUG,Colombo MC,16
+NO2,Colombo,2015,AUG,Gangarama Temple,15
+NO2,Colombo,2015,AUG,Fort Railway Station,34
+NO2,Colombo,2015,AUG,Gunasinghepura,26
+NO2,Colombo,2015,AUG,Jethawanaramaya,30
+NO2,Colombo,2015,AUG,Maligakanda,28
+NO2,Colombo,2015,AUG,Kelaniya,35
+NO2,Colombo,2015,AUG,Borella Police Station,35
+NO2,Colombo,2015,AUG,Ward Place,13
+NO2,Colombo,2015,AUG,CEA Kotte,14
+NO2,Colombo,2015,AUG,Kirulapana,14
+NO2,Colombo,2015,AUG,Dehiwala Junction,16
+NO2,Colombo,2015,AUG,Nugegoda Town,28
+NO2,Colombo,2015,AUG,Malabe,23
+NO2,Colombo,2015,AUG,Peliyagoda,29
+NO2,Colombo,2015,AUG,Waththala,33
+NO2,Colombo,2015,AUG,Maradana Railway Station,41
+NO2,Colombo,2015,AUG,Colombo District Average,38
+NO2,Colombo,2015,SEP,Meteorology Department,29
+NO2,Colombo,2015,SEP,Colombo MC,19
+NO2,Colombo,2015,SEP,Gangarama Temple,14
+NO2,Colombo,2015,SEP,Fort Railway Station,41
+NO2,Colombo,2015,SEP,Gunasinghepura,35
+NO2,Colombo,2015,SEP,Jethawanaramaya,40
+NO2,Colombo,2015,SEP,Maligakanda,41
+NO2,Colombo,2015,SEP,Kelaniya,35
+NO2,Colombo,2015,SEP,Borella Police Station,38
+NO2,Colombo,2015,SEP,Ward Place,16
+NO2,Colombo,2015,SEP,CEA Kotte,19
+NO2,Colombo,2015,SEP,Kirulapana,14
+NO2,Colombo,2015,SEP,Dehiwala Junction,19
+NO2,Colombo,2015,SEP,Nugegoda Town,43
+NO2,Colombo,2015,SEP,Malabe,26
+NO2,Colombo,2015,SEP,Peliyagoda,29
+NO2,Colombo,2015,SEP,Waththala,28
+NO2,Colombo,2015,SEP,Maradana Railway Station,53
+NO2,Colombo,2015,SEP,Colombo District Average,45
+NO2,Colombo,2015,OCT,Meteorology Department,24
+NO2,Colombo,2015,OCT,Colombo MC,24
+NO2,Colombo,2015,OCT,Gangarama Temple,18
+NO2,Colombo,2015,OCT,Fort Railway Station,41
+NO2,Colombo,2015,OCT,Gunasinghepura,32
+NO2,Colombo,2015,OCT,Jethawanaramaya,45
+NO2,Colombo,2015,OCT,Maligakanda,33
+NO2,Colombo,2015,OCT,Kelaniya,45
+NO2,Colombo,2015,OCT,Borella Police Station,40
+NO2,Colombo,2015,OCT,Ward Place,22
+NO2,Colombo,2015,OCT,CEA Kotte,21
+NO2,Colombo,2015,OCT,Kirulapana,6
+NO2,Colombo,2015,OCT,Dehiwala Junction,23
+NO2,Colombo,2015,OCT,Nugegoda Town,52
+NO2,Colombo,2015,OCT,Malabe,43
+NO2,Colombo,2015,OCT,Peliyagoda,40
+NO2,Colombo,2015,OCT,Waththala,38
+NO2,Colombo,2015,OCT,Maradana Railway Station,49
+NO2,Colombo,2015,OCT,Colombo District Average,59
+NO2,Colombo,2015,NOV,Meteorology Department,43
+NO2,Colombo,2015,NOV,Colombo MC,40
+NO2,Colombo,2015,NOV,Gangarama Temple,39
+NO2,Colombo,2015,NOV,Fort Railway Station,49
+NO2,Colombo,2015,NOV,Gunasinghepura,45
+NO2,Colombo,2015,NOV,Jethawanaramaya,40
+NO2,Colombo,2015,NOV,Maligakanda,32
+NO2,Colombo,2015,NOV,Kelaniya,52
+NO2,Colombo,2015,NOV,Borella Police Station,42
+NO2,Colombo,2015,NOV,Ward Place,45
+NO2,Colombo,2015,NOV,CEA Kotte,35
+NO2,Colombo,2015,NOV,Kirulapana,8
+NO2,Colombo,2015,NOV,Dehiwala Junction,42
+NO2,Colombo,2015,NOV,Nugegoda Town,42
+NO2,Colombo,2015,NOV,Malabe,39
+NO2,Colombo,2015,NOV,Peliyagoda,43
+NO2,Colombo,2015,NOV,Waththala,41
+NO2,Colombo,2015,NOV,Maradana Railway Station,48
+NO2,Colombo,2015,NOV,Colombo District Average,50
+NO2,Colombo,2015,DEC,Meteorology Department,29
+NO2,Colombo,2015,DEC,Colombo MC,52
+NO2,Colombo,2015,DEC,Gangarama Temple,50
+NO2,Colombo,2015,DEC,Fort Railway Station,66
+NO2,Colombo,2015,DEC,Gunasinghepura,45
+NO2,Colombo,2015,DEC,Jethawanaramaya,48
+NO2,Colombo,2015,DEC,Maligakanda,29
+NO2,Colombo,2015,DEC,Kelaniya,43
+NO2,Colombo,2015,DEC,Borella Police Station,46
+NO2,Colombo,2015,DEC,Ward Place,60
+NO2,Colombo,2015,DEC,CEA Kotte,31
+NO2,Colombo,2015,DEC,Kirulapana,47
+NO2,Colombo,2015,DEC,Dehiwala Junction,13
+NO2,Colombo,2015,DEC,Nugegoda Town,48
+NO2,Colombo,2015,DEC,Malabe,52
+NO2,Colombo,2015,DEC,Peliyagoda,59
+NO2,Colombo,2015,DEC,Waththala,59
+NO2,Colombo,2015,DEC,Maradana Railway Station,60
+NO2,Colombo,2015,DEC,Colombo District Average,51
+NO2,Colombo,2016,AVG,Meteorology Department,25
+NO2,Colombo,2016,AVG,Colombo MC,29
+NO2,Colombo,2016,AVG,Gangarama Temple,25
+NO2,Colombo,2016,AVG,Fort Railway Station,41
+NO2,Colombo,2016,AVG,Gunasinghepura,37
+NO2,Colombo,2016,AVG,Jethawanaramaya,39
+NO2,Colombo,2016,AVG,Maligakanda,32
+NO2,Colombo,2016,AVG,Kelaniya,43
+NO2,Colombo,2016,AVG,Borella Police Station,41
+NO2,Colombo,2016,AVG,Ward Place,27
+NO2,Colombo,2016,AVG,CEA Kotte,24
+NO2,Colombo,2016,AVG,Kirulapana,24
+NO2,Colombo,2016,AVG,Dehiwala Junction,26
+NO2,Colombo,2016,AVG,Nugegoda Town,36
+NO2,Colombo,2016,AVG,Malabe,37
+NO2,Colombo,2016,AVG,Peliyagoda,39
+NO2,Colombo,2016,AVG,Waththala,36
+NO2,Colombo,2016,AVG,Maradana Railway Station,45
+NO2,Colombo,2016,AVG,Colombo District Average,53
+NO2,Colombo,2016,JAN,Meteorology Department,39
+NO2,Colombo,2016,JAN,Colombo MC,50
+NO2,Colombo,2016,JAN,Gangarama Temple,43
+NO2,Colombo,2016,JAN,Fort Railway Station,78
+NO2,Colombo,2016,JAN,Gunasinghepura,40
+NO2,Colombo,2016,JAN,Jethawanaramaya,53
+NO2,Colombo,2016,JAN,Maligakanda,26
+NO2,Colombo,2016,JAN,Kelaniya,41
+NO2,Colombo,2016,JAN,Borella Police Station,50
+NO2,Colombo,2016,JAN,Ward Place,43
+NO2,Colombo,2016,JAN,CEA Kotte,42
+NO2,Colombo,2016,JAN,Kirulapana,40
+NO2,Colombo,2016,JAN,Dehiwala Junction,55
+NO2,Colombo,2016,JAN,Nugegoda Town,47
+NO2,Colombo,2016,JAN,Malabe,60
+NO2,Colombo,2016,JAN,Peliyagoda,40
+NO2,Colombo,2016,JAN,Waththala,63
+NO2,Colombo,2016,JAN,Maradana Railway Station,78
+NO2,Colombo,2016,JAN,Colombo District Average,76
+NO2,Colombo,2016,FEB,Meteorology Department,35
+NO2,Colombo,2016,FEB,Colombo MC,43
+NO2,Colombo,2016,FEB,Gangarama Temple,48
+NO2,Colombo,2016,FEB,Fort Railway Station,43
+NO2,Colombo,2016,FEB,Gunasinghepura,42
+NO2,Colombo,2016,FEB,Jethawanaramaya,48
+NO2,Colombo,2016,FEB,Maligakanda,33
+NO2,Colombo,2016,FEB,Kelaniya,38
+NO2,Colombo,2016,FEB,Borella Police Station,50
+NO2,Colombo,2016,FEB,Ward Place,51
+NO2,Colombo,2016,FEB,CEA Kotte,40
+NO2,Colombo,2016,FEB,Kirulapana,46
+NO2,Colombo,2016,FEB,Dehiwala Junction,35
+NO2,Colombo,2016,FEB,Nugegoda Town,51
+NO2,Colombo,2016,FEB,Malabe,45
+NO2,Colombo,2016,FEB,Peliyagoda,58
+NO2,Colombo,2016,FEB,Waththala,54
+NO2,Colombo,2016,FEB,Maradana Railway Station,70
+NO2,Colombo,2016,FEB,Colombo District Average,86
+NO2,Colombo,2016,MAR,Meteorology Department,31
+NO2,Colombo,2016,MAR,Colombo MC,33
+NO2,Colombo,2016,MAR,Gangarama Temple,43
+NO2,Colombo,2016,MAR,Fort Railway Station,73
+NO2,Colombo,2016,MAR,Gunasinghepura,37
+NO2,Colombo,2016,MAR,Jethawanaramaya,64
+NO2,Colombo,2016,MAR,Maligakanda,43
+NO2,Colombo,2016,MAR,Kelaniya,53
+NO2,Colombo,2016,MAR,Borella Police Station,40
+NO2,Colombo,2016,MAR,Ward Place,31
+NO2,Colombo,2016,MAR,CEA Kotte,34
+NO2,Colombo,2016,MAR,Kirulapana,37
+NO2,Colombo,2016,MAR,Dehiwala Junction,31
+NO2,Colombo,2016,MAR,Nugegoda Town,49
+NO2,Colombo,2016,MAR,Malabe,39
+NO2,Colombo,2016,MAR,Peliyagoda,48
+NO2,Colombo,2016,MAR,Waththala,36
+NO2,Colombo,2016,MAR,Maradana Railway Station,53
+NO2,Colombo,2016,MAR,Colombo District Average,65
+NO2,Colombo,2016,APR,Meteorology Department,26
+NO2,Colombo,2016,APR,Colombo MC,21
+NO2,Colombo,2016,APR,Gangarama Temple,23
+NO2,Colombo,2016,APR,Fort Railway Station,71
+NO2,Colombo,2016,APR,Gunasinghepura,45
+NO2,Colombo,2016,APR,Jethawanaramaya,45
+NO2,Colombo,2016,APR,Maligakanda,38
+NO2,Colombo,2016,APR,Kelaniya,49
+NO2,Colombo,2016,APR,Borella Police Station,39
+NO2,Colombo,2016,APR,Ward Place,14
+NO2,Colombo,2016,APR,CEA Kotte,24
+NO2,Colombo,2016,APR,Kirulapana,23
+NO2,Colombo,2016,APR,Dehiwala Junction,46
+NO2,Colombo,2016,APR,Nugegoda Town,45
+NO2,Colombo,2016,APR,Malabe,30
+NO2,Colombo,2016,APR,Peliyagoda,41
+NO2,Colombo,2016,APR,Waththala,29
+NO2,Colombo,2016,APR,Maradana Railway Station,43
+NO2,Colombo,2016,APR,Colombo District Average,59
+NO2,Colombo,2016,MAY,Meteorology Department,19
+NO2,Colombo,2016,MAY,Colombo MC,28
+NO2,Colombo,2016,MAY,Gangarama Temple,28
+NO2,Colombo,2016,MAY,Fort Railway Station,61
+NO2,Colombo,2016,MAY,Gunasinghepura,43
+NO2,Colombo,2016,MAY,Jethawanaramaya,39
+NO2,Colombo,2016,MAY,Maligakanda,47
+NO2,Colombo,2016,MAY,Kelaniya,38
+NO2,Colombo,2016,MAY,Borella Police Station,42
+NO2,Colombo,2016,MAY,Ward Place,16
+NO2,Colombo,2016,MAY,CEA Kotte,15
+NO2,Colombo,2016,MAY,Kirulapana,11
+NO2,Colombo,2016,MAY,Dehiwala Junction,19
+NO2,Colombo,2016,MAY,Nugegoda Town,42
+NO2,Colombo,2016,MAY,Malabe,45
+NO2,Colombo,2016,MAY,Peliyagoda,29
+NO2,Colombo,2016,MAY,Waththala,52
+NO2,Colombo,2016,MAY,Maradana Railway Station,39
+NO2,Colombo,2016,MAY,Colombo District Average,56
+NO2,Colombo,2016,JUN,Meteorology Department,17
+NO2,Colombo,2016,JUN,Colombo MC,16
+NO2,Colombo,2016,JUN,Gangarama Temple,29
+NO2,Colombo,2016,JUN,Fort Railway Station,72
+NO2,Colombo,2016,JUN,Gunasinghepura,41
+NO2,Colombo,2016,JUN,Jethawanaramaya,33
+NO2,Colombo,2016,JUN,Maligakanda,30
+NO2,Colombo,2016,JUN,Kelaniya,39
+NO2,Colombo,2016,JUN,Borella Police Station,34
+NO2,Colombo,2016,JUN,Ward Place,17
+NO2,Colombo,2016,JUN,CEA Kotte,21
+NO2,Colombo,2016,JUN,Kirulapana,11
+NO2,Colombo,2016,JUN,Dehiwala Junction,25
+NO2,Colombo,2016,JUN,Nugegoda Town,44
+NO2,Colombo,2016,JUN,Malabe,26
+NO2,Colombo,2016,JUN,Peliyagoda,34
+NO2,Colombo,2016,JUN,Waththala,26
+NO2,Colombo,2016,JUN,Maradana Railway Station,37
+NO2,Colombo,2016,JUN,Colombo District Average,46
+NO2,Colombo,2016,AUG,Meteorology Department,20
+NO2,Colombo,2016,AUG,Colombo MC,14
+NO2,Colombo,2016,AUG,Gangarama Temple,15
+NO2,Colombo,2016,AUG,Fort Railway Station,39
+NO2,Colombo,2016,AUG,Gunasinghepura,49
+NO2,Colombo,2016,AUG,Jethawanaramaya,34
+NO2,Colombo,2016,AUG,Maligakanda,31
+NO2,Colombo,2016,AUG,Kelaniya,31
+NO2,Colombo,2016,AUG,Borella Police Station,46
+NO2,Colombo,2016,AUG,Ward Place,14
+NO2,Colombo,2016,AUG,CEA Kotte,21
+NO2,Colombo,2016,AUG,Kirulapana,12
+NO2,Colombo,2016,AUG,Dehiwala Junction,18
+NO2,Colombo,2016,AUG,Nugegoda Town,40
+NO2,Colombo,2016,AUG,Malabe,27
+NO2,Colombo,2016,AUG,Peliyagoda,31
+NO2,Colombo,2016,AUG,Waththala,47
+NO2,Colombo,2016,AUG,Maradana Railway Station,44
+NO2,Colombo,2016,AUG,Colombo District Average,60
+NO2,Colombo,2016,SEP,Meteorology Department,25
+NO2,Colombo,2016,SEP,Colombo MC,19
+NO2,Colombo,2016,SEP,Gangarama Temple,20
+NO2,Colombo,2016,SEP,Fort Railway Station,43
+NO2,Colombo,2016,SEP,Gunasinghepura,44
+NO2,Colombo,2016,SEP,Jethawanaramaya,36
+NO2,Colombo,2016,SEP,Maligakanda,33
+NO2,Colombo,2016,SEP,Kelaniya,39
+NO2,Colombo,2016,SEP,Borella Police Station,38
+NO2,Colombo,2016,SEP,Ward Place,15
+NO2,Colombo,2016,SEP,CEA Kotte,21
+NO2,Colombo,2016,SEP,Kirulapana,15
+NO2,Colombo,2016,SEP,Dehiwala Junction,33
+NO2,Colombo,2016,SEP,Nugegoda Town,34
+NO2,Colombo,2016,SEP,Malabe,26
+NO2,Colombo,2016,SEP,Peliyagoda,27
+NO2,Colombo,2016,SEP,Waththala,25
+NO2,Colombo,2016,SEP,Maradana Railway Station,47
+NO2,Colombo,2016,SEP,Colombo District Average,62
+NO2,Colombo,2016,OCT,Meteorology Department,27
+NO2,Colombo,2016,OCT,Colombo MC,28
+NO2,Colombo,2016,OCT,Gangarama Temple,35
+NO2,Colombo,2016,OCT,Fort Railway Station,67
+NO2,Colombo,2016,OCT,Gunasinghepura,42
+NO2,Colombo,2016,OCT,Jethawanaramaya,43
+NO2,Colombo,2016,OCT,Maligakanda,25
+NO2,Colombo,2016,OCT,Kelaniya,29
+NO2,Colombo,2016,OCT,Borella Police Station,49
+NO2,Colombo,2016,OCT,Ward Place,30
+NO2,Colombo,2016,OCT,CEA Kotte,31
+NO2,Colombo,2016,OCT,Kirulapana,12
+NO2,Colombo,2016,OCT,Dehiwala Junction,34
+NO2,Colombo,2016,OCT,Nugegoda Town,37
+NO2,Colombo,2016,OCT,Malabe,35
+NO2,Colombo,2016,OCT,Peliyagoda,48
+NO2,Colombo,2016,OCT,Waththala,30
+NO2,Colombo,2016,OCT,Maradana Railway Station,63
+NO2,Colombo,2016,OCT,Colombo District Average,76
+NO2,Colombo,2016,NOV,Meteorology Department,21
+NO2,Colombo,2016,NOV,Colombo MC,19
+NO2,Colombo,2016,NOV,Gangarama Temple,25
+NO2,Colombo,2016,NOV,Fort Railway Station,61
+NO2,Colombo,2016,NOV,Gunasinghepura,41
+NO2,Colombo,2016,NOV,Jethawanaramaya,38
+NO2,Colombo,2016,NOV,Maligakanda,24
+NO2,Colombo,2016,NOV,Kelaniya,27
+NO2,Colombo,2016,NOV,Borella Police Station,44
+NO2,Colombo,2016,NOV,Ward Place,28
+NO2,Colombo,2016,NOV,CEA Kotte,37
+NO2,Colombo,2016,NOV,Kirulapana,15
+NO2,Colombo,2016,NOV,Dehiwala Junction,28
+NO2,Colombo,2016,NOV,Nugegoda Town,48
+NO2,Colombo,2016,NOV,Malabe,40
+NO2,Colombo,2016,NOV,Peliyagoda,50
+NO2,Colombo,2016,NOV,Waththala,41
+NO2,Colombo,2016,NOV,Maradana Railway Station,57
+NO2,Colombo,2016,NOV,Colombo District Average,83
+NO2,Colombo,2016,DEC,Meteorology Department,37
+NO2,Colombo,2016,DEC,Colombo MC,46
+NO2,Colombo,2016,DEC,Gangarama Temple,62
+NO2,Colombo,2016,DEC,Fort Railway Station,62
+NO2,Colombo,2016,DEC,Gunasinghepura,46
+NO2,Colombo,2016,DEC,Jethawanaramaya,36
+NO2,Colombo,2016,DEC,Maligakanda,20
+NO2,Colombo,2016,DEC,Kelaniya,33
+NO2,Colombo,2016,DEC,Borella Police Station,44
+NO2,Colombo,2016,DEC,Ward Place,38
+NO2,Colombo,2016,DEC,CEA Kotte,35
+NO2,Colombo,2016,DEC,Kirulapana,20
+NO2,Colombo,2016,DEC,Dehiwala Junction,53
+NO2,Colombo,2016,DEC,Nugegoda Town,49
+NO2,Colombo,2016,DEC,Malabe,45
+NO2,Colombo,2016,DEC,Peliyagoda,53
+NO2,Colombo,2016,DEC,Waththala,40
+NO2,Colombo,2016,DEC,Maradana Railway Station,57
+NO2,Colombo,2016,DEC,Colombo District Average,88
+NO2,Colombo,2017,AVG,Meteorology Department,26
+NO2,Colombo,2017,AVG,Colombo MC,28
+NO2,Colombo,2017,AVG,Gangarama Temple,32
+NO2,Colombo,2017,AVG,Fort Railway Station,59
+NO2,Colombo,2017,AVG,Gunasinghepura,43
+NO2,Colombo,2017,AVG,Jethawanaramaya,42
+NO2,Colombo,2017,AVG,Maligakanda,32
+NO2,Colombo,2017,AVG,Kelaniya,38
+NO2,Colombo,2017,AVG,Borella Police Station,43
+NO2,Colombo,2017,AVG,Ward Place,26
+NO2,Colombo,2017,AVG,CEA Kotte,28
+NO2,Colombo,2017,AVG,Kirulapana,21
+NO2,Colombo,2017,AVG,Dehiwala Junction,33
+NO2,Colombo,2017,AVG,Nugegoda Town,44
+NO2,Colombo,2017,AVG,Malabe,37
+NO2,Colombo,2017,AVG,Peliyagoda,41
+NO2,Colombo,2017,AVG,Waththala,40
+NO2,Colombo,2017,AVG,Maradana Railway Station,52
+NO2,Colombo,2017,AVG,Colombo District Average,68
+NO2,Kandy,,JAN,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,JAN,Super Market Junction / Clock Tower,
+NO2,Kandy,,JAN,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,JAN,Childrens Park,
+NO2,Kandy,,JAN,Wels Park,
+NO2,Kandy,,JAN,Goodshed Junction / Post Office,
+NO2,Kandy,,JAN,Colombo Street / George E. Silva,
+NO2,Kandy,,JAN,Kandy Municipal Council,
+NO2,Kandy,,JAN,High School Junction / B.C.A.S. School,
+NO2,Kandy,,JAN,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,JAN,Kandy District Average,
+NO2,Kandy,,FEB,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,FEB,Super Market Junction / Clock Tower,
+NO2,Kandy,,FEB,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,FEB,Childrens Park,
+NO2,Kandy,,FEB,Wels Park,
+NO2,Kandy,,FEB,Goodshed Junction / Post Office,
+NO2,Kandy,,FEB,Colombo Street / George E. Silva,
+NO2,Kandy,,FEB,Kandy Municipal Council,
+NO2,Kandy,,FEB,High School Junction / B.C.A.S. School,
+NO2,Kandy,,FEB,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,FEB,Kandy District Average,
+NO2,Kandy,,MAR,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,MAR,Super Market Junction / Clock Tower,
+NO2,Kandy,,MAR,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,MAR,Childrens Park,
+NO2,Kandy,,MAR,Wels Park,
+NO2,Kandy,,MAR,Goodshed Junction / Post Office,
+NO2,Kandy,,MAR,Colombo Street / George E. Silva,
+NO2,Kandy,,MAR,Kandy Municipal Council,
+NO2,Kandy,,MAR,High School Junction / B.C.A.S. School,
+NO2,Kandy,,MAR,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,MAR,Kandy District Average,
+NO2,Kandy,,APR,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,APR,Super Market Junction / Clock Tower,
+NO2,Kandy,,APR,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,APR,Childrens Park,
+NO2,Kandy,,APR,Wels Park,
+NO2,Kandy,,APR,Goodshed Junction / Post Office,
+NO2,Kandy,,APR,Colombo Street / George E. Silva,
+NO2,Kandy,,APR,Kandy Municipal Council,
+NO2,Kandy,,APR,High School Junction / B.C.A.S. School,
+NO2,Kandy,,APR,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,APR,Kandy District Average,
+NO2,Kandy,,MAY,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,MAY,Super Market Junction / Clock Tower,
+NO2,Kandy,,MAY,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,MAY,Childrens Park,
+NO2,Kandy,,MAY,Wels Park,
+NO2,Kandy,,MAY,Goodshed Junction / Post Office,
+NO2,Kandy,,MAY,Colombo Street / George E. Silva,
+NO2,Kandy,,MAY,Kandy Municipal Council,
+NO2,Kandy,,MAY,High School Junction / B.C.A.S. School,
+NO2,Kandy,,MAY,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,MAY,Kandy District Average,
+NO2,Kandy,,JUN,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,JUN,Super Market Junction / Clock Tower,
+NO2,Kandy,,JUN,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,JUN,Childrens Park,
+NO2,Kandy,,JUN,Wels Park,
+NO2,Kandy,,JUN,Goodshed Junction / Post Office,
+NO2,Kandy,,JUN,Colombo Street / George E. Silva,
+NO2,Kandy,,JUN,Kandy Municipal Council,
+NO2,Kandy,,JUN,High School Junction / B.C.A.S. School,
+NO2,Kandy,,JUN,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,JUN,Kandy District Average,
+NO2,Kandy,,AUG,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,AUG,Super Market Junction / Clock Tower,
+NO2,Kandy,,AUG,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,AUG,Childrens Park,
+NO2,Kandy,,AUG,Wels Park,
+NO2,Kandy,,AUG,Goodshed Junction / Post Office,
+NO2,Kandy,,AUG,Colombo Street / George E. Silva,
+NO2,Kandy,,AUG,Kandy Municipal Council,
+NO2,Kandy,,AUG,High School Junction / B.C.A.S. School,
+NO2,Kandy,,AUG,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,AUG,Kandy District Average,
+NO2,Kandy,,SEP,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,SEP,Super Market Junction / Clock Tower,
+NO2,Kandy,,SEP,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,SEP,Childrens Park,
+NO2,Kandy,,SEP,Wels Park,
+NO2,Kandy,,SEP,Goodshed Junction / Post Office,
+NO2,Kandy,,SEP,Colombo Street / George E. Silva,
+NO2,Kandy,,SEP,Kandy Municipal Council,
+NO2,Kandy,,SEP,High School Junction / B.C.A.S. School,
+NO2,Kandy,,SEP,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,SEP,Kandy District Average,
+NO2,Kandy,,OCT,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,OCT,Super Market Junction / Clock Tower,
+NO2,Kandy,,OCT,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,OCT,Childrens Park,
+NO2,Kandy,,OCT,Wels Park,
+NO2,Kandy,,OCT,Goodshed Junction / Post Office,
+NO2,Kandy,,OCT,Colombo Street / George E. Silva,
+NO2,Kandy,,OCT,Kandy Municipal Council,
+NO2,Kandy,,OCT,High School Junction / B.C.A.S. School,
+NO2,Kandy,,OCT,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,OCT,Kandy District Average,
+NO2,Kandy,,NOV,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,NOV,Super Market Junction / Clock Tower,
+NO2,Kandy,,NOV,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,NOV,Childrens Park,
+NO2,Kandy,,NOV,Wels Park,
+NO2,Kandy,,NOV,Goodshed Junction / Post Office,
+NO2,Kandy,,NOV,Colombo Street / George E. Silva,
+NO2,Kandy,,NOV,Kandy Municipal Council,
+NO2,Kandy,,NOV,High School Junction / B.C.A.S. School,
+NO2,Kandy,,NOV,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,NOV,Kandy District Average,
+NO2,Kandy,,DEC,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,,DEC,Super Market Junction / Clock Tower,
+NO2,Kandy,,DEC,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,,DEC,Childrens Park,
+NO2,Kandy,,DEC,Wels Park,
+NO2,Kandy,,DEC,Goodshed Junction / Post Office,
+NO2,Kandy,,DEC,Colombo Street / George E. Silva,
+NO2,Kandy,,DEC,Kandy Municipal Council,
+NO2,Kandy,,DEC,High School Junction / B.C.A.S. School,
+NO2,Kandy,,DEC,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,,DEC,Kandy District Average,
+NO2,Kandy,2013,AVG,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,2013,AVG,Super Market Junction / Clock Tower,
+NO2,Kandy,2013,AVG,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,2013,AVG,Childrens Park,
+NO2,Kandy,2013,AVG,Wels Park,
+NO2,Kandy,2013,AVG,Goodshed Junction / Post Office,
+NO2,Kandy,2013,AVG,Colombo Street / George E. Silva,
+NO2,Kandy,2013,AVG,Kandy Municipal Council,
+NO2,Kandy,2013,AVG,High School Junction / B.C.A.S. School,
+NO2,Kandy,2013,AVG,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,2013,AVG,Kandy District Average,
+NO2,Kandy,2013,JAN,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,2013,JAN,Super Market Junction / Clock Tower,
+NO2,Kandy,2013,JAN,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,2013,JAN,Childrens Park,
+NO2,Kandy,2013,JAN,Wels Park,
+NO2,Kandy,2013,JAN,Goodshed Junction / Post Office,
+NO2,Kandy,2013,JAN,Colombo Street / George E. Silva,
+NO2,Kandy,2013,JAN,Kandy Municipal Council,
+NO2,Kandy,2013,JAN,High School Junction / B.C.A.S. School,
+NO2,Kandy,2013,JAN,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,2013,JAN,Kandy District Average,
+NO2,Kandy,2013,FEB,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,2013,FEB,Super Market Junction / Clock Tower,
+NO2,Kandy,2013,FEB,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,2013,FEB,Childrens Park,
+NO2,Kandy,2013,FEB,Wels Park,
+NO2,Kandy,2013,FEB,Goodshed Junction / Post Office,
+NO2,Kandy,2013,FEB,Colombo Street / George E. Silva,
+NO2,Kandy,2013,FEB,Kandy Municipal Council,
+NO2,Kandy,2013,FEB,High School Junction / B.C.A.S. School,
+NO2,Kandy,2013,FEB,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,2013,FEB,Kandy District Average,
+NO2,Kandy,2013,MAR,Maligaawa Junction / Temple of Tooth,
+NO2,Kandy,2013,MAR,Super Market Junction / Clock Tower,
+NO2,Kandy,2013,MAR,Ampitiya Junction / E. L. Senanayake,
+NO2,Kandy,2013,MAR,Childrens Park,
+NO2,Kandy,2013,MAR,Wels Park,
+NO2,Kandy,2013,MAR,Goodshed Junction / Post Office,
+NO2,Kandy,2013,MAR,Colombo Street / George E. Silva,
+NO2,Kandy,2013,MAR,Kandy Municipal Council,
+NO2,Kandy,2013,MAR,High School Junction / B.C.A.S. School,
+NO2,Kandy,2013,MAR,Gatambe Junction / Gatambe Temple,
+NO2,Kandy,2013,MAR,Kandy District Average,
+NO2,Kandy,2013,APR,Maligaawa Junction / Temple of Tooth,33
+NO2,Kandy,2013,APR,Super Market Junction / Clock Tower,69
+NO2,Kandy,2013,APR,Ampitiya Junction / E. L. Senanayake,34
+NO2,Kandy,2013,APR,Childrens Park,48
+NO2,Kandy,2013,APR,Wels Park,96
+NO2,Kandy,2013,APR,Goodshed Junction / Post Office,66
+NO2,Kandy,2013,APR,Colombo Street / George E. Silva,40
+NO2,Kandy,2013,APR,Kandy Municipal Council,51
+NO2,Kandy,2013,APR,High School Junction / B.C.A.S. School,57
+NO2,Kandy,2013,APR,Gatambe Junction / Gatambe Temple,45
+NO2,Kandy,2013,APR,Kandy District Average,54
+NO2,Kandy,2013,MAY,Maligaawa Junction / Temple of Tooth,32
+NO2,Kandy,2013,MAY,Super Market Junction / Clock Tower,69
+NO2,Kandy,2013,MAY,Ampitiya Junction / E. L. Senanayake,35
+NO2,Kandy,2013,MAY,Childrens Park,51
+NO2,Kandy,2013,MAY,Wels Park,86
+NO2,Kandy,2013,MAY,Goodshed Junction / Post Office,56
+NO2,Kandy,2013,MAY,Colombo Street / George E. Silva,39
+NO2,Kandy,2013,MAY,Kandy Municipal Council,52
+NO2,Kandy,2013,MAY,High School Junction / B.C.A.S. School,61
+NO2,Kandy,2013,MAY,Gatambe Junction / Gatambe Temple,43
+NO2,Kandy,2013,MAY,Kandy District Average,52
+NO2,Kandy,2013,JUN,Maligaawa Junction / Temple of Tooth,35
+NO2,Kandy,2013,JUN,Super Market Junction / Clock Tower,70
+NO2,Kandy,2013,JUN,Ampitiya Junction / E. L. Senanayake,31
+NO2,Kandy,2013,JUN,Childrens Park,51
+NO2,Kandy,2013,JUN,Wels Park,87
+NO2,Kandy,2013,JUN,Goodshed Junction / Post Office,66
+NO2,Kandy,2013,JUN,Colombo Street / George E. Silva,42
+NO2,Kandy,2013,JUN,Kandy Municipal Council,45
+NO2,Kandy,2013,JUN,High School Junction / B.C.A.S. School,49
+NO2,Kandy,2013,JUN,Gatambe Junction / Gatambe Temple,43
+NO2,Kandy,2013,JUN,Kandy District Average,52
+NO2,Kandy,2013,AUG,Maligaawa Junction / Temple of Tooth,35
+NO2,Kandy,2013,AUG,Super Market Junction / Clock Tower,71
+NO2,Kandy,2013,AUG,Ampitiya Junction / E. L. Senanayake,35
+NO2,Kandy,2013,AUG,Childrens Park,52
+NO2,Kandy,2013,AUG,Wels Park,87
+NO2,Kandy,2013,AUG,Goodshed Junction / Post Office,65
+NO2,Kandy,2013,AUG,Colombo Street / George E. Silva,41
+NO2,Kandy,2013,AUG,Kandy Municipal Council,48
+NO2,Kandy,2013,AUG,High School Junction / B.C.A.S. School,60
+NO2,Kandy,2013,AUG,Gatambe Junction / Gatambe Temple,45
+NO2,Kandy,2013,AUG,Kandy District Average,54
+NO2,Kandy,2013,SEP,Maligaawa Junction / Temple of Tooth,33
+NO2,Kandy,2013,SEP,Super Market Junction / Clock Tower,70
+NO2,Kandy,2013,SEP,Ampitiya Junction / E. L. Senanayake,32
+NO2,Kandy,2013,SEP,Childrens Park,51
+NO2,Kandy,2013,SEP,Wels Park,86
+NO2,Kandy,2013,SEP,Goodshed Junction / Post Office,62
+NO2,Kandy,2013,SEP,Colombo Street / George E. Silva,40
+NO2,Kandy,2013,SEP,Kandy Municipal Council,49
+NO2,Kandy,2013,SEP,High School Junction / B.C.A.S. School,58
+NO2,Kandy,2013,SEP,Gatambe Junction / Gatambe Temple,42
+NO2,Kandy,2013,SEP,Kandy District Average,52
+NO2,Kandy,2013,OCT,Maligaawa Junction / Temple of Tooth,32
+NO2,Kandy,2013,OCT,Super Market Junction / Clock Tower,67
+NO2,Kandy,2013,OCT,Ampitiya Junction / E. L. Senanayake,34
+NO2,Kandy,2013,OCT,Childrens Park,50
+NO2,Kandy,2013,OCT,Wels Park,85
+NO2,Kandy,2013,OCT,Goodshed Junction / Post Office,57
+NO2,Kandy,2013,OCT,Colombo Street / George E. Silva,40
+NO2,Kandy,2013,OCT,Kandy Municipal Council,51
+NO2,Kandy,2013,OCT,High School Junction / B.C.A.S. School,60
+NO2,Kandy,2013,OCT,Gatambe Junction / Gatambe Temple,42
+NO2,Kandy,2013,OCT,Kandy District Average,52
+NO2,Kandy,2013,NOV,Maligaawa Junction / Temple of Tooth,36
+NO2,Kandy,2013,NOV,Super Market Junction / Clock Tower,71
+NO2,Kandy,2013,NOV,Ampitiya Junction / E. L. Senanayake,35
+NO2,Kandy,2013,NOV,Childrens Park,52
+NO2,Kandy,2013,NOV,Wels Park,85
+NO2,Kandy,2013,NOV,Goodshed Junction / Post Office,66
+NO2,Kandy,2013,NOV,Colombo Street / George E. Silva,41
+NO2,Kandy,2013,NOV,Kandy Municipal Council,52
+NO2,Kandy,2013,NOV,High School Junction / B.C.A.S. School,62
+NO2,Kandy,2013,NOV,Gatambe Junction / Gatambe Temple,44
+NO2,Kandy,2013,NOV,Kandy District Average,54
+NO2,Kandy,2013,DEC,Maligaawa Junction / Temple of Tooth,35
+NO2,Kandy,2013,DEC,Super Market Junction / Clock Tower,68
+NO2,Kandy,2013,DEC,Ampitiya Junction / E. L. Senanayake,32
+NO2,Kandy,2013,DEC,Childrens Park,49
+NO2,Kandy,2013,DEC,Wels Park,81
+NO2,Kandy,2013,DEC,Goodshed Junction / Post Office,64
+NO2,Kandy,2013,DEC,Colombo Street / George E. Silva,40
+NO2,Kandy,2013,DEC,Kandy Municipal Council,50
+NO2,Kandy,2013,DEC,High School Junction / B.C.A.S. School,61
+NO2,Kandy,2013,DEC,Gatambe Junction / Gatambe Temple,41
+NO2,Kandy,2013,DEC,Kandy District Average,52
+NO2,Kandy,2014,AVG,Maligaawa Junction / Temple of Tooth,34
+NO2,Kandy,2014,AVG,Super Market Junction / Clock Tower,69
+NO2,Kandy,2014,AVG,Ampitiya Junction / E. L. Senanayake,33
+NO2,Kandy,2014,AVG,Childrens Park,50
+NO2,Kandy,2014,AVG,Wels Park,86
+NO2,Kandy,2014,AVG,Goodshed Junction / Post Office,62
+NO2,Kandy,2014,AVG,Colombo Street / George E. Silva,40
+NO2,Kandy,2014,AVG,Kandy Municipal Council,49
+NO2,Kandy,2014,AVG,High School Junction / B.C.A.S. School,58
+NO2,Kandy,2014,AVG,Gatambe Junction / Gatambe Temple,43
+NO2,Kandy,2014,AVG,Kandy District Average,53
+NO2,Kandy,2014,JAN,Maligaawa Junction / Temple of Tooth,56
+NO2,Kandy,2014,JAN,Super Market Junction / Clock Tower,82
+NO2,Kandy,2014,JAN,Ampitiya Junction / E. L. Senanayake,48
+NO2,Kandy,2014,JAN,Childrens Park,81
+NO2,Kandy,2014,JAN,Wels Park,132
+NO2,Kandy,2014,JAN,Goodshed Junction / Post Office,92
+NO2,Kandy,2014,JAN,Colombo Street / George E. Silva,63
+NO2,Kandy,2014,JAN,Kandy Municipal Council,65
+NO2,Kandy,2014,JAN,High School Junction / B.C.A.S. School,56
+NO2,Kandy,2014,JAN,Gatambe Junction / Gatambe Temple,52
+NO2,Kandy,2014,JAN,Kandy District Average,74
+NO2,Kandy,2014,FEB,Maligaawa Junction / Temple of Tooth,48
+NO2,Kandy,2014,FEB,Super Market Junction / Clock Tower,80
+NO2,Kandy,2014,FEB,Ampitiya Junction / E. L. Senanayake,45
+NO2,Kandy,2014,FEB,Childrens Park,76
+NO2,Kandy,2014,FEB,Wels Park,123
+NO2,Kandy,2014,FEB,Goodshed Junction / Post Office,85
+NO2,Kandy,2014,FEB,Colombo Street / George E. Silva,49
+NO2,Kandy,2014,FEB,Kandy Municipal Council,62
+NO2,Kandy,2014,FEB,High School Junction / B.C.A.S. School,60
+NO2,Kandy,2014,FEB,Gatambe Junction / Gatambe Temple,57
+NO2,Kandy,2014,FEB,Kandy District Average,70
+NO2,Kandy,2014,MAY,Maligaawa Junction / Temple of Tooth,32
+NO2,Kandy,2014,MAY,Super Market Junction / Clock Tower,59
+NO2,Kandy,2014,MAY,Ampitiya Junction / E. L. Senanayake,43
+NO2,Kandy,2014,MAY,Childrens Park,52
+NO2,Kandy,2014,MAY,Wels Park,85
+NO2,Kandy,2014,MAY,Goodshed Junction / Post Office,67
+NO2,Kandy,2014,MAY,Colombo Street / George E. Silva,42
+NO2,Kandy,2014,MAY,Kandy Municipal Council,52
+NO2,Kandy,2014,MAY,High School Junction / B.C.A.S. School,61
+NO2,Kandy,2014,MAY,Gatambe Junction / Gatambe Temple,45
+NO2,Kandy,2014,MAY,Kandy District Average,56
+NO2,Kandy,2014,JUN,Maligaawa Junction / Temple of Tooth,32
+NO2,Kandy,2014,JUN,Super Market Junction / Clock Tower,63
+NO2,Kandy,2014,JUN,Ampitiya Junction / E. L. Senanayake,30
+NO2,Kandy,2014,JUN,Childrens Park,47
+NO2,Kandy,2014,JUN,Wels Park,77
+NO2,Kandy,2014,JUN,Goodshed Junction / Post Office,60
+NO2,Kandy,2014,JUN,Colombo Street / George E. Silva,38
+NO2,Kandy,2014,JUN,Kandy Municipal Council,47
+NO2,Kandy,2014,JUN,High School Junction / B.C.A.S. School,55
+NO2,Kandy,2014,JUN,Gatambe Junction / Gatambe Temple,41
+NO2,Kandy,2014,JUN,Kandy District Average,49
+NO2,Kandy,2014,JUL,Maligaawa Junction / Temple of Tooth,27
+NO2,Kandy,2014,JUL,Super Market Junction / Clock Tower,67
+NO2,Kandy,2014,JUL,Ampitiya Junction / E. L. Senanayake,29
+NO2,Kandy,2014,JUL,Childrens Park,48
+NO2,Kandy,2014,JUL,Wels Park,92
+NO2,Kandy,2014,JUL,Goodshed Junction / Post Office,68
+NO2,Kandy,2014,JUL,Colombo Street / George E. Silva,45
+NO2,Kandy,2014,JUL,Kandy Municipal Council,56
+NO2,Kandy,2014,JUL,High School Junction / B.C.A.S. School,66
+NO2,Kandy,2014,JUL,Gatambe Junction / Gatambe Temple,49
+NO2,Kandy,2014,JUL,Kandy District Average,57
+NO2,Kandy,2014,AUG,Maligaawa Junction / Temple of Tooth,29
+NO2,Kandy,2014,AUG,Super Market Junction / Clock Tower,72
+NO2,Kandy,2014,AUG,Ampitiya Junction / E. L. Senanayake,42
+NO2,Kandy,2014,AUG,Childrens Park,51
+NO2,Kandy,2014,AUG,Wels Park,83
+NO2,Kandy,2014,AUG,Goodshed Junction / Post Office,65
+NO2,Kandy,2014,AUG,Colombo Street / George E. Silva,41
+NO2,Kandy,2014,AUG,Kandy Municipal Council,51
+NO2,Kandy,2014,AUG,High School Junction / B.C.A.S. School,59
+NO2,Kandy,2014,AUG,Gatambe Junction / Gatambe Temple,44
+NO2,Kandy,2014,AUG,Kandy District Average,55
+NO2,Kandy,2014,SEP,Maligaawa Junction / Temple of Tooth,37
+NO2,Kandy,2014,SEP,Super Market Junction / Clock Tower,67
+NO2,Kandy,2014,SEP,Ampitiya Junction / E. L. Senanayake,35
+NO2,Kandy,2014,SEP,Childrens Park,48
+NO2,Kandy,2014,SEP,Wels Park,91
+NO2,Kandy,2014,SEP,Goodshed Junction / Post Office,72
+NO2,Kandy,2014,SEP,Colombo Street / George E. Silva,45
+NO2,Kandy,2014,SEP,Kandy Municipal Council,56
+NO2,Kandy,2014,SEP,High School Junction / B.C.A.S. School,57
+NO2,Kandy,2014,SEP,Gatambe Junction / Gatambe Temple,48
+NO2,Kandy,2014,SEP,Kandy District Average,57
+NO2,Kandy,2014,OCT,Maligaawa Junction / Temple of Tooth,30
+NO2,Kandy,2014,OCT,Super Market Junction / Clock Tower,60
+NO2,Kandy,2014,OCT,Ampitiya Junction / E. L. Senanayake,38
+NO2,Kandy,2014,OCT,Childrens Park,52
+NO2,Kandy,2014,OCT,Wels Park,82
+NO2,Kandy,2014,OCT,Goodshed Junction / Post Office,64
+NO2,Kandy,2014,OCT,Colombo Street / George E. Silva,40
+NO2,Kandy,2014,OCT,Kandy Municipal Council,50
+NO2,Kandy,2014,OCT,High School Junction / B.C.A.S. School,59
+NO2,Kandy,2014,OCT,Gatambe Junction / Gatambe Temple,43
+NO2,Kandy,2014,OCT,Kandy District Average,54
+NO2,Kandy,2014,NOV,Maligaawa Junction / Temple of Tooth,34
+NO2,Kandy,2014,NOV,Super Market Junction / Clock Tower,55
+NO2,Kandy,2014,NOV,Ampitiya Junction / E. L. Senanayake,56
+NO2,Kandy,2014,NOV,Childrens Park,49
+NO2,Kandy,2014,NOV,Wels Park,57
+NO2,Kandy,2014,NOV,Goodshed Junction / Post Office,72
+NO2,Kandy,2014,NOV,Colombo Street / George E. Silva,42
+NO2,Kandy,2014,NOV,Kandy Municipal Council,45
+NO2,Kandy,2014,NOV,High School Junction / B.C.A.S. School,60
+NO2,Kandy,2014,NOV,Gatambe Junction / Gatambe Temple,43
+NO2,Kandy,2014,NOV,Kandy District Average,53
+NO2,Kandy,2014,DEC,Maligaawa Junction / Temple of Tooth,45
+NO2,Kandy,2014,DEC,Super Market Junction / Clock Tower,72
+NO2,Kandy,2014,DEC,Ampitiya Junction / E. L. Senanayake,62
+NO2,Kandy,2014,DEC,Childrens Park,52
+NO2,Kandy,2014,DEC,Wels Park,90
+NO2,Kandy,2014,DEC,Goodshed Junction / Post Office,88
+NO2,Kandy,2014,DEC,Colombo Street / George E. Silva,52
+NO2,Kandy,2014,DEC,Kandy Municipal Council,58
+NO2,Kandy,2014,DEC,High School Junction / B.C.A.S. School,50
+NO2,Kandy,2014,DEC,Gatambe Junction / Gatambe Temple,53
+NO2,Kandy,2014,DEC,Kandy District Average,63
+NO2,Kandy,2015,AVG,Maligaawa Junction / Temple of Tooth,37
+NO2,Kandy,2015,AVG,Super Market Junction / Clock Tower,67
+NO2,Kandy,2015,AVG,Ampitiya Junction / E. L. Senanayake,41
+NO2,Kandy,2015,AVG,Childrens Park,55
+NO2,Kandy,2015,AVG,Wels Park,91
+NO2,Kandy,2015,AVG,Goodshed Junction / Post Office,72
+NO2,Kandy,2015,AVG,Colombo Street / George E. Silva,45
+NO2,Kandy,2015,AVG,Kandy Municipal Council,54
+NO2,Kandy,2015,AVG,High School Junction / B.C.A.S. School,58
+NO2,Kandy,2015,AVG,Gatambe Junction / Gatambe Temple,47
+NO2,Kandy,2015,AVG,Kandy District Average,57
+NO2,Kandy,2015,JAN,Maligaawa Junction / Temple of Tooth,12
+NO2,Kandy,2015,JAN,Super Market Junction / Clock Tower,48
+NO2,Kandy,2015,JAN,Ampitiya Junction / E. L. Senanayake,24
+NO2,Kandy,2015,JAN,Childrens Park,18
+NO2,Kandy,2015,JAN,Wels Park,37
+NO2,Kandy,2015,JAN,Goodshed Junction / Post Office,55
+NO2,Kandy,2015,JAN,Colombo Street / George E. Silva,14
+NO2,Kandy,2015,JAN,Kandy Municipal Council,23
+NO2,Kandy,2015,JAN,High School Junction / B.C.A.S. School,28
+NO2,Kandy,2015,JAN,Gatambe Junction / Gatambe Temple,27
+NO2,Kandy,2015,JAN,Kandy District Average,29
+NO2,Kandy,2015,FEB,Maligaawa Junction / Temple of Tooth,21
+NO2,Kandy,2015,FEB,Super Market Junction / Clock Tower,69
+NO2,Kandy,2015,FEB,Ampitiya Junction / E. L. Senanayake,35
+NO2,Kandy,2015,FEB,Childrens Park,24
+NO2,Kandy,2015,FEB,Wels Park,60
+NO2,Kandy,2015,FEB,Goodshed Junction / Post Office,69
+NO2,Kandy,2015,FEB,Colombo Street / George E. Silva,26
+NO2,Kandy,2015,FEB,Kandy Municipal Council,31
+NO2,Kandy,2015,FEB,High School Junction / B.C.A.S. School,61
+NO2,Kandy,2015,FEB,Gatambe Junction / Gatambe Temple,51
+NO2,Kandy,2015,FEB,Kandy District Average,45
+NO2,Kandy,2015,MAR,Maligaawa Junction / Temple of Tooth,20
+NO2,Kandy,2015,MAR,Super Market Junction / Clock Tower,33
+NO2,Kandy,2015,MAR,Ampitiya Junction / E. L. Senanayake,32
+NO2,Kandy,2015,MAR,Childrens Park,23
+NO2,Kandy,2015,MAR,Wels Park,51
+NO2,Kandy,2015,MAR,Goodshed Junction / Post Office,32
+NO2,Kandy,2015,MAR,Colombo Street / George E. Silva,25
+NO2,Kandy,2015,MAR,Kandy Municipal Council,31
+NO2,Kandy,2015,MAR,High School Junction / B.C.A.S. School,28
+NO2,Kandy,2015,MAR,Gatambe Junction / Gatambe Temple,43
+NO2,Kandy,2015,MAR,Kandy District Average,32
+NO2,Kandy,2015,APR,Maligaawa Junction / Temple of Tooth,19
+NO2,Kandy,2015,APR,Super Market Junction / Clock Tower,48
+NO2,Kandy,2015,APR,Ampitiya Junction / E. L. Senanayake,22
+NO2,Kandy,2015,APR,Childrens Park,36
+NO2,Kandy,2015,APR,Wels Park,41
+NO2,Kandy,2015,APR,Goodshed Junction / Post Office,30
+NO2,Kandy,2015,APR,Colombo Street / George E. Silva,19
+NO2,Kandy,2015,APR,Kandy Municipal Council,25
+NO2,Kandy,2015,APR,High School Junction / B.C.A.S. School,27
+NO2,Kandy,2015,APR,Gatambe Junction / Gatambe Temple,14
+NO2,Kandy,2015,APR,Kandy District Average,28
+NO2,Kandy,2015,MAY,Maligaawa Junction / Temple of Tooth,26
+NO2,Kandy,2015,MAY,Super Market Junction / Clock Tower,57
+NO2,Kandy,2015,MAY,Ampitiya Junction / E. L. Senanayake,29
+NO2,Kandy,2015,MAY,Childrens Park,20
+NO2,Kandy,2015,MAY,Wels Park,59
+NO2,Kandy,2015,MAY,Goodshed Junction / Post Office,37
+NO2,Kandy,2015,MAY,Colombo Street / George E. Silva,27
+NO2,Kandy,2015,MAY,Kandy Municipal Council,32
+NO2,Kandy,2015,MAY,High School Junction / B.C.A.S. School,31
+NO2,Kandy,2015,MAY,Gatambe Junction / Gatambe Temple,49
+NO2,Kandy,2015,MAY,Kandy District Average,37
+NO2,Kandy,2015,JUN,Maligaawa Junction / Temple of Tooth,26
+NO2,Kandy,2015,JUN,Super Market Junction / Clock Tower,40
+NO2,Kandy,2015,JUN,Ampitiya Junction / E. L. Senanayake,32
+NO2,Kandy,2015,JUN,Childrens Park,21
+NO2,Kandy,2015,JUN,Wels Park,53
+NO2,Kandy,2015,JUN,Goodshed Junction / Post Office,42
+NO2,Kandy,2015,JUN,Colombo Street / George E. Silva,21
+NO2,Kandy,2015,JUN,Kandy Municipal Council,30
+NO2,Kandy,2015,JUN,High School Junction / B.C.A.S. School,37
+NO2,Kandy,2015,JUN,Gatambe Junction / Gatambe Temple,40
+NO2,Kandy,2015,JUN,Kandy District Average,34
+NO2,Kandy,2015,AUG,Maligaawa Junction / Temple of Tooth,37
+NO2,Kandy,2015,AUG,Super Market Junction / Clock Tower,76
+NO2,Kandy,2015,AUG,Ampitiya Junction / E. L. Senanayake,36
+NO2,Kandy,2015,AUG,Childrens Park,29
+NO2,Kandy,2015,AUG,Wels Park,78
+NO2,Kandy,2015,AUG,Goodshed Junction / Post Office,45
+NO2,Kandy,2015,AUG,Colombo Street / George E. Silva,22
+NO2,Kandy,2015,AUG,Kandy Municipal Council,25
+NO2,Kandy,2015,AUG,High School Junction / B.C.A.S. School,57
+NO2,Kandy,2015,AUG,Gatambe Junction / Gatambe Temple,47
+NO2,Kandy,2015,AUG,Kandy District Average,45
+NO2,Kandy,2015,SEP,Maligaawa Junction / Temple of Tooth,32
+NO2,Kandy,2015,SEP,Super Market Junction / Clock Tower,54
+NO2,Kandy,2015,SEP,Ampitiya Junction / E. L. Senanayake,33
+NO2,Kandy,2015,SEP,Childrens Park,34
+NO2,Kandy,2015,SEP,Wels Park,57
+NO2,Kandy,2015,SEP,Goodshed Junction / Post Office,32
+NO2,Kandy,2015,SEP,Colombo Street / George E. Silva,18
+NO2,Kandy,2015,SEP,Kandy Municipal Council,18
+NO2,Kandy,2015,SEP,High School Junction / B.C.A.S. School,48
+NO2,Kandy,2015,SEP,Gatambe Junction / Gatambe Temple,35
+NO2,Kandy,2015,SEP,Kandy District Average,36
+NO2,Kandy,2015,OCT,Maligaawa Junction / Temple of Tooth,20
+NO2,Kandy,2015,OCT,Super Market Junction / Clock Tower,42
+NO2,Kandy,2015,OCT,Ampitiya Junction / E. L. Senanayake,55
+NO2,Kandy,2015,OCT,Childrens Park,47
+NO2,Kandy,2015,OCT,Wels Park,43
+NO2,Kandy,2015,OCT,Goodshed Junction / Post Office,49
+NO2,Kandy,2015,OCT,Colombo Street / George E. Silva,11
+NO2,Kandy,2015,OCT,Kandy Municipal Council,12
+NO2,Kandy,2015,OCT,High School Junction / B.C.A.S. School,25
+NO2,Kandy,2015,OCT,Gatambe Junction / Gatambe Temple,43
+NO2,Kandy,2015,OCT,Kandy District Average,35
+NO2,Kandy,2015,NOV,Maligaawa Junction / Temple of Tooth,30
+NO2,Kandy,2015,NOV,Super Market Junction / Clock Tower,39
+NO2,Kandy,2015,NOV,Ampitiya Junction / E. L. Senanayake,28
+NO2,Kandy,2015,NOV,Childrens Park,41
+NO2,Kandy,2015,NOV,Wels Park,39
+NO2,Kandy,2015,NOV,Goodshed Junction / Post Office,42
+NO2,Kandy,2015,NOV,Colombo Street / George E. Silva,12
+NO2,Kandy,2015,NOV,Kandy Municipal Council,31
+NO2,Kandy,2015,NOV,High School Junction / B.C.A.S. School,19
+NO2,Kandy,2015,NOV,Gatambe Junction / Gatambe Temple,36
+NO2,Kandy,2015,NOV,Kandy District Average,32
+NO2,Kandy,2015,DEC,Maligaawa Junction / Temple of Tooth,37
+NO2,Kandy,2015,DEC,Super Market Junction / Clock Tower,95
+NO2,Kandy,2015,DEC,Ampitiya Junction / E. L. Senanayake,46
+NO2,Kandy,2015,DEC,Childrens Park,29
+NO2,Kandy,2015,DEC,Wels Park,78
+NO2,Kandy,2015,DEC,Goodshed Junction / Post Office,39
+NO2,Kandy,2015,DEC,Colombo Street / George E. Silva,65
+NO2,Kandy,2015,DEC,Kandy Municipal Council,37
+NO2,Kandy,2015,DEC,High School Junction / B.C.A.S. School,50
+NO2,Kandy,2015,DEC,Gatambe Junction / Gatambe Temple,23
+NO2,Kandy,2015,DEC,Kandy District Average,50
+NO2,Kandy,2016,AVG,Maligaawa Junction / Temple of Tooth,26
+NO2,Kandy,2016,AVG,Super Market Junction / Clock Tower,54
+NO2,Kandy,2016,AVG,Ampitiya Junction / E. L. Senanayake,33
+NO2,Kandy,2016,AVG,Childrens Park,28
+NO2,Kandy,2016,AVG,Wels Park,54
+NO2,Kandy,2016,AVG,Goodshed Junction / Post Office,42
+NO2,Kandy,2016,AVG,Colombo Street / George E. Silva,23
+NO2,Kandy,2016,AVG,Kandy Municipal Council,26
+NO2,Kandy,2016,AVG,High School Junction / B.C.A.S. School,36
+NO2,Kandy,2016,AVG,Gatambe Junction / Gatambe Temple,37
+NO2,Kandy,2016,AVG,Kandy District Average,36
+NO2,Kandy,2016,JAN,Maligaawa Junction / Temple of Tooth,19
+NO2,Kandy,2016,JAN,Super Market Junction / Clock Tower,54
+NO2,Kandy,2016,JAN,Ampitiya Junction / E. L. Senanayake,36
+NO2,Kandy,2016,JAN,Childrens Park,29
+NO2,Kandy,2016,JAN,Wels Park,59
+NO2,Kandy,2016,JAN,Goodshed Junction / Post Office,57
+NO2,Kandy,2016,JAN,Colombo Street / George E. Silva,22
+NO2,Kandy,2016,JAN,Kandy Municipal Council,36
+NO2,Kandy,2016,JAN,High School Junction / B.C.A.S. School,51
+NO2,Kandy,2016,JAN,Gatambe Junction / Gatambe Temple,34
+NO2,Kandy,2016,JAN,Kandy District Average,40
+NO2,Kandy,2016,FEB,Maligaawa Junction / Temple of Tooth,30
+NO2,Kandy,2016,FEB,Super Market Junction / Clock Tower,61
+NO2,Kandy,2016,FEB,Ampitiya Junction / E. L. Senanayake,37
+NO2,Kandy,2016,FEB,Childrens Park,29
+NO2,Kandy,2016,FEB,Wels Park,62
+NO2,Kandy,2016,FEB,Goodshed Junction / Post Office,60
+NO2,Kandy,2016,FEB,Colombo Street / George E. Silva,29
+NO2,Kandy,2016,FEB,Kandy Municipal Council,39
+NO2,Kandy,2016,FEB,High School Junction / B.C.A.S. School,50
+NO2,Kandy,2016,FEB,Gatambe Junction / Gatambe Temple,49
+NO2,Kandy,2016,FEB,Kandy District Average,45
+NO2,Kandy,2016,MAR,Maligaawa Junction / Temple of Tooth,33
+NO2,Kandy,2016,MAR,Super Market Junction / Clock Tower,60
+NO2,Kandy,2016,MAR,Ampitiya Junction / E. L. Senanayake,33
+NO2,Kandy,2016,MAR,Childrens Park,31
+NO2,Kandy,2016,MAR,Wels Park,72
+NO2,Kandy,2016,MAR,Goodshed Junction / Post Office,62
+NO2,Kandy,2016,MAR,Colombo Street / George E. Silva,32
+NO2,Kandy,2016,MAR,Kandy Municipal Council,29
+NO2,Kandy,2016,MAR,High School Junction / B.C.A.S. School,52
+NO2,Kandy,2016,MAR,Gatambe Junction / Gatambe Temple,57
+NO2,Kandy,2016,MAR,Kandy District Average,46
+NO2,Kandy,2016,APR,Maligaawa Junction / Temple of Tooth,28
+NO2,Kandy,2016,APR,Super Market Junction / Clock Tower,63
+NO2,Kandy,2016,APR,Ampitiya Junction / E. L. Senanayake,30
+NO2,Kandy,2016,APR,Childrens Park,29
+NO2,Kandy,2016,APR,Wels Park,74
+NO2,Kandy,2016,APR,Goodshed Junction / Post Office,54
+NO2,Kandy,2016,APR,Colombo Street / George E. Silva,28
+NO2,Kandy,2016,APR,Kandy Municipal Council,31
+NO2,Kandy,2016,APR,High School Junction / B.C.A.S. School,57
+NO2,Kandy,2016,APR,Gatambe Junction / Gatambe Temple,45
+NO2,Kandy,2016,APR,Kandy District Average,44
+NO2,Kandy,2016,MAY,Maligaawa Junction / Temple of Tooth,27
+NO2,Kandy,2016,MAY,Super Market Junction / Clock Tower,60
+NO2,Kandy,2016,MAY,Ampitiya Junction / E. L. Senanayake,29
+NO2,Kandy,2016,MAY,Childrens Park,34
+NO2,Kandy,2016,MAY,Wels Park,60
+NO2,Kandy,2016,MAY,Goodshed Junction / Post Office,38
+NO2,Kandy,2016,MAY,Colombo Street / George E. Silva,23
+NO2,Kandy,2016,MAY,Kandy Municipal Council,23
+NO2,Kandy,2016,MAY,High School Junction / B.C.A.S. School,54
+NO2,Kandy,2016,MAY,Gatambe Junction / Gatambe Temple,36
+NO2,Kandy,2016,MAY,Kandy District Average,38
+NO2,Kandy,2016,JUN,Maligaawa Junction / Temple of Tooth,19
+NO2,Kandy,2016,JUN,Super Market Junction / Clock Tower,44
+NO2,Kandy,2016,JUN,Ampitiya Junction / E. L. Senanayake,36
+NO2,Kandy,2016,JUN,Childrens Park,36
+NO2,Kandy,2016,JUN,Wels Park,84
+NO2,Kandy,2016,JUN,Goodshed Junction / Post Office,47
+NO2,Kandy,2016,JUN,Colombo Street / George E. Silva,20
+NO2,Kandy,2016,JUN,Kandy Municipal Council,39
+NO2,Kandy,2016,JUN,High School Junction / B.C.A.S. School,53
+NO2,Kandy,2016,JUN,Gatambe Junction / Gatambe Temple,34
+NO2,Kandy,2016,JUN,Kandy District Average,41
+NO2,Kandy,2016,AUG,Maligaawa Junction / Temple of Tooth,27
+NO2,Kandy,2016,AUG,Super Market Junction / Clock Tower,49
+NO2,Kandy,2016,AUG,Ampitiya Junction / E. L. Senanayake,42
+NO2,Kandy,2016,AUG,Childrens Park,34
+NO2,Kandy,2016,AUG,Wels Park,59
+NO2,Kandy,2016,AUG,Goodshed Junction / Post Office,62
+NO2,Kandy,2016,AUG,Colombo Street / George E. Silva,23
+NO2,Kandy,2016,AUG,Kandy Municipal Council,35
+NO2,Kandy,2016,AUG,High School Junction / B.C.A.S. School,45
+NO2,Kandy,2016,AUG,Gatambe Junction / Gatambe Temple,49
+NO2,Kandy,2016,AUG,Kandy District Average,43
+NO2,Kandy,2016,SEP,Maligaawa Junction / Temple of Tooth,25
+NO2,Kandy,2016,SEP,Super Market Junction / Clock Tower,43
+NO2,Kandy,2016,SEP,Ampitiya Junction / E. L. Senanayake,31
+NO2,Kandy,2016,SEP,Childrens Park,22
+NO2,Kandy,2016,SEP,Wels Park,64
+NO2,Kandy,2016,SEP,Goodshed Junction / Post Office,54
+NO2,Kandy,2016,SEP,Colombo Street / George E. Silva,22
+NO2,Kandy,2016,SEP,Kandy Municipal Council,24
+NO2,Kandy,2016,SEP,High School Junction / B.C.A.S. School,32
+NO2,Kandy,2016,SEP,Gatambe Junction / Gatambe Temple,38
+NO2,Kandy,2016,SEP,Kandy District Average,36
+NO2,Kandy,2016,OCT,Maligaawa Junction / Temple of Tooth,25
+NO2,Kandy,2016,OCT,Super Market Junction / Clock Tower,52
+NO2,Kandy,2016,OCT,Ampitiya Junction / E. L. Senanayake,25
+NO2,Kandy,2016,OCT,Childrens Park,25
+NO2,Kandy,2016,OCT,Wels Park,41
+NO2,Kandy,2016,OCT,Goodshed Junction / Post Office,34
+NO2,Kandy,2016,OCT,Colombo Street / George E. Silva,21
+NO2,Kandy,2016,OCT,Kandy Municipal Council,27
+NO2,Kandy,2016,OCT,High School Junction / B.C.A.S. School,39
+NO2,Kandy,2016,OCT,Gatambe Junction / Gatambe Temple,40
+NO2,Kandy,2016,OCT,Kandy District Average,33
+NO2,Kandy,2016,NOV,Maligaawa Junction / Temple of Tooth,49
+NO2,Kandy,2016,NOV,Super Market Junction / Clock Tower,44
+NO2,Kandy,2016,NOV,Ampitiya Junction / E. L. Senanayake,31
+NO2,Kandy,2016,NOV,Childrens Park,29
+NO2,Kandy,2016,NOV,Wels Park,50
+NO2,Kandy,2016,NOV,Goodshed Junction / Post Office,36
+NO2,Kandy,2016,NOV,Colombo Street / George E. Silva,23
+NO2,Kandy,2016,NOV,Kandy Municipal Council,30
+NO2,Kandy,2016,NOV,High School Junction / B.C.A.S. School,49
+NO2,Kandy,2016,NOV,Gatambe Junction / Gatambe Temple,44
+NO2,Kandy,2016,NOV,Kandy District Average,39
+NO2,Kandy,2016,DEC,Maligaawa Junction / Temple of Tooth,14
+NO2,Kandy,2016,DEC,Super Market Junction / Clock Tower,75
+NO2,Kandy,2016,DEC,Ampitiya Junction / E. L. Senanayake,42
+NO2,Kandy,2016,DEC,Childrens Park,24
+NO2,Kandy,2016,DEC,Wels Park,54
+NO2,Kandy,2016,DEC,Goodshed Junction / Post Office,60
+NO2,Kandy,2016,DEC,Colombo Street / George E. Silva,25
+NO2,Kandy,2016,DEC,Kandy Municipal Council,38
+NO2,Kandy,2016,DEC,High School Junction / B.C.A.S. School,45
+NO2,Kandy,2016,DEC,Gatambe Junction / Gatambe Temple,35
+NO2,Kandy,2016,DEC,Kandy District Average,41
+NO2,Kandy,2017,AVG,Maligaawa Junction / Temple of Tooth,28
+NO2,Kandy,2017,AVG,Super Market Junction / Clock Tower,54
+NO2,Kandy,2017,AVG,Ampitiya Junction / E. L. Senanayake,33
+NO2,Kandy,2017,AVG,Childrens Park,29
+NO2,Kandy,2017,AVG,Wels Park,60
+NO2,Kandy,2017,AVG,Goodshed Junction / Post Office,52
+NO2,Kandy,2017,AVG,Colombo Street / George E. Silva,25
+NO2,Kandy,2017,AVG,Kandy Municipal Council,32
+NO2,Kandy,2017,AVG,High School Junction / B.C.A.S. School,46
+NO2,Kandy,2017,AVG,Gatambe Junction / Gatambe Temple,42
+NO2,Kandy,2017,AVG,Kandy District Average,40
+NO2,Gampaha,,JAN,Kirindiwita,5
+NO2,Gampaha,,JAN,Pahalagama,24
+NO2,Gampaha,,JAN,Asgiriya,5
+NO2,Gampaha,,JAN,Oruthota Road,41
+NO2,Gampaha,,JAN,Oruthota,26
+NO2,Gampaha,,JAN,Gampaha Railway,98
+NO2,Gampaha,,JAN,Gampaha Police Station,21
+NO2,Gampaha,,JAN,Vilabada Road,12
+NO2,Gampaha,,JAN,Gampaha Hospital,33
+NO2,Gampaha,,JAN,Miriswaththa,12
+NO2,Gampaha,,JAN,Gampaha District Average,27
+NO2,Gampaha,,FEB,Kirindiwita,23
+NO2,Gampaha,,FEB,Pahalagama,38
+NO2,Gampaha,,FEB,Asgiriya,20
+NO2,Gampaha,,FEB,Oruthota Road,42
+NO2,Gampaha,,FEB,Oruthota,29
+NO2,Gampaha,,FEB,Gampaha Railway,93
+NO2,Gampaha,,FEB,Gampaha Police Station,48
+NO2,Gampaha,,FEB,Vilabada Road,15
+NO2,Gampaha,,FEB,Gampaha Hospital,19
+NO2,Gampaha,,FEB,Miriswaththa,69
+NO2,Gampaha,,FEB,Gampaha District Average,25
+NO2,Gampaha,,MAR,Kirindiwita,19
+NO2,Gampaha,,MAR,Pahalagama,41
+NO2,Gampaha,,MAR,Asgiriya,19
+NO2,Gampaha,,MAR,Oruthota Road,47
+NO2,Gampaha,,MAR,Oruthota,39
+NO2,Gampaha,,MAR,Gampaha Railway,88
+NO2,Gampaha,,MAR,Gampaha Police Station,44
+NO2,Gampaha,,MAR,Vilabada Road,25
+NO2,Gampaha,,MAR,Gampaha Hospital,45
+NO2,Gampaha,,MAR,Miriswaththa,70
+NO2,Gampaha,,MAR,Gampaha District Average,28
+NO2,Gampaha,,APR,Kirindiwita,35
+NO2,Gampaha,,APR,Pahalagama,64
+NO2,Gampaha,,APR,Asgiriya,30
+NO2,Gampaha,,APR,Oruthota Road,64
+NO2,Gampaha,,APR,Oruthota,52
+NO2,Gampaha,,APR,Gampaha Railway,83
+NO2,Gampaha,,APR,Gampaha Police Station,62
+NO2,Gampaha,,APR,Vilabada Road,34
+NO2,Gampaha,,APR,Gampaha Hospital,67
+NO2,Gampaha,,APR,Miriswaththa,115
+NO2,Gampaha,,APR,Gampaha District Average,35
+NO2,Gampaha,,MAY,Kirindiwita,22
+NO2,Gampaha,,MAY,Pahalagama,41
+NO2,Gampaha,,MAY,Asgiriya,23
+NO2,Gampaha,,MAY,Oruthota Road,25
+NO2,Gampaha,,MAY,Oruthota,40
+NO2,Gampaha,,MAY,Gampaha Railway,88
+NO2,Gampaha,,MAY,Gampaha Police Station,50
+NO2,Gampaha,,MAY,Vilabada Road,60
+NO2,Gampaha,,MAY,Gampaha Hospital,61
+NO2,Gampaha,,MAY,Miriswaththa,93
+NO2,Gampaha,,MAY,Gampaha District Average,35
+NO2,Gampaha,,JUN,Kirindiwita,21
+NO2,Gampaha,,JUN,Pahalagama,52
+NO2,Gampaha,,JUN,Asgiriya,27
+NO2,Gampaha,,JUN,Oruthota Road,67
+NO2,Gampaha,,JUN,Oruthota,68
+NO2,Gampaha,,JUN,Gampaha Railway,65
+NO2,Gampaha,,JUN,Gampaha Police Station,46
+NO2,Gampaha,,JUN,Vilabada Road,25
+NO2,Gampaha,,JUN,Gampaha Hospital,63
+NO2,Gampaha,,JUN,Miriswaththa,63
+NO2,Gampaha,,JUN,Gampaha District Average,27
+NO2,Gampaha,,AUG,Kirindiwita,19
+NO2,Gampaha,,AUG,Pahalagama,39
+NO2,Gampaha,,AUG,Asgiriya,22
+NO2,Gampaha,,AUG,Oruthota Road,53
+NO2,Gampaha,,AUG,Oruthota,50
+NO2,Gampaha,,AUG,Gampaha Railway,57
+NO2,Gampaha,,AUG,Gampaha Police Station,48
+NO2,Gampaha,,AUG,Vilabada Road,24
+NO2,Gampaha,,AUG,Gampaha Hospital,54
+NO2,Gampaha,,AUG,Miriswaththa,146
+NO2,Gampaha,,AUG,Gampaha District Average,50
+NO2,Gampaha,,SEP,Kirindiwita,21
+NO2,Gampaha,,SEP,Pahalagama,55
+NO2,Gampaha,,SEP,Asgiriya,23
+NO2,Gampaha,,SEP,Oruthota Road,83
+NO2,Gampaha,,SEP,Oruthota,32
+NO2,Gampaha,,SEP,Gampaha Railway,59
+NO2,Gampaha,,SEP,Gampaha Police Station,54
+NO2,Gampaha,,SEP,Vilabada Road,31
+NO2,Gampaha,,SEP,Gampaha Hospital,64
+NO2,Gampaha,,SEP,Miriswaththa,32
+NO2,Gampaha,,SEP,Gampaha District Average,63
+NO2,Gampaha,,OCT,Kirindiwita,28
+NO2,Gampaha,,OCT,Pahalagama,52
+NO2,Gampaha,,OCT,Asgiriya,28
+NO2,Gampaha,,OCT,Oruthota Road,81
+NO2,Gampaha,,OCT,Oruthota,47
+NO2,Gampaha,,OCT,Gampaha Railway,89
+NO2,Gampaha,,OCT,Gampaha Police Station,69
+NO2,Gampaha,,OCT,Vilabada Road,25
+NO2,Gampaha,,OCT,Gampaha Hospital,81
+NO2,Gampaha,,OCT,Miriswaththa,70
+NO2,Gampaha,,OCT,Gampaha District Average,63
+NO2,Gampaha,,NOV,Kirindiwita,32
+NO2,Gampaha,,NOV,Pahalagama,42
+NO2,Gampaha,,NOV,Asgiriya,26
+NO2,Gampaha,,NOV,Oruthota Road,82
+NO2,Gampaha,,NOV,Oruthota,50
+NO2,Gampaha,,NOV,Gampaha Railway,48
+NO2,Gampaha,,NOV,Gampaha Police Station,59
+NO2,Gampaha,,NOV,Vilabada Road,26
+NO2,Gampaha,,NOV,Gampaha Hospital,77
+NO2,Gampaha,,NOV,Miriswaththa,33
+NO2,Gampaha,,NOV,Gampaha District Average,69
+NO2,Gampaha,,DEC,Kirindiwita,20
+NO2,Gampaha,,DEC,Pahalagama,45
+NO2,Gampaha,,DEC,Asgiriya,23
+NO2,Gampaha,,DEC,Oruthota Road,50
+NO2,Gampaha,,DEC,Oruthota,60
+NO2,Gampaha,,DEC,Gampaha Railway,29
+NO2,Gampaha,,DEC,Gampaha Police Station,37
+NO2,Gampaha,,DEC,Vilabada Road,28
+NO2,Gampaha,,DEC,Gampaha Hospital,40
+NO2,Gampaha,,DEC,Miriswaththa,49
+NO2,Gampaha,,DEC,Gampaha District Average,43
+NO2,Gampaha,2013,AVG,Kirindiwita,22
+NO2,Gampaha,2013,AVG,Pahalagama,45
+NO2,Gampaha,2013,AVG,Asgiriya,22
+NO2,Gampaha,2013,AVG,Oruthota Road,58
+NO2,Gampaha,2013,AVG,Oruthota,46
+NO2,Gampaha,2013,AVG,Gampaha Railway,71
+NO2,Gampaha,2013,AVG,Gampaha Police Station,49
+NO2,Gampaha,2013,AVG,Vilabada Road,27
+NO2,Gampaha,2013,AVG,Gampaha Hospital,55
+NO2,Gampaha,2013,AVG,Miriswaththa,68
+NO2,Gampaha,2013,AVG,Gampaha District Average,41
+NO2,Gampaha,2013,JAN,Kirindiwita,10
+NO2,Gampaha,2013,JAN,Pahalagama,25
+NO2,Gampaha,2013,JAN,Asgiriya,13
+NO2,Gampaha,2013,JAN,Oruthota Road,40
+NO2,Gampaha,2013,JAN,Oruthota,40
+NO2,Gampaha,2013,JAN,Gampaha Railway,19
+NO2,Gampaha,2013,JAN,Gampaha Police Station,27
+NO2,Gampaha,2013,JAN,Vilabada Road,18
+NO2,Gampaha,2013,JAN,Gampaha Hospital,30
+NO2,Gampaha,2013,JAN,Miriswaththa,19
+NO2,Gampaha,2013,JAN,Gampaha District Average,33
+NO2,Gampaha,2013,FEB,Kirindiwita,19
+NO2,Gampaha,2013,FEB,Pahalagama,47
+NO2,Gampaha,2013,FEB,Asgiriya,35
+NO2,Gampaha,2013,FEB,Oruthota Road,77
+NO2,Gampaha,2013,FEB,Oruthota,39
+NO2,Gampaha,2013,FEB,Gampaha Railway,35
+NO2,Gampaha,2013,FEB,Gampaha Police Station,50
+NO2,Gampaha,2013,FEB,Vilabada Road,38
+NO2,Gampaha,2013,FEB,Gampaha Hospital,57
+NO2,Gampaha,2013,FEB,Miriswaththa,35
+NO2,Gampaha,2013,FEB,Gampaha District Average,59
+NO2,Gampaha,2013,MAR,Kirindiwita,30
+NO2,Gampaha,2013,MAR,Pahalagama,80
+NO2,Gampaha,2013,MAR,Asgiriya,56
+NO2,Gampaha,2013,MAR,Oruthota Road,125
+NO2,Gampaha,2013,MAR,Oruthota,63
+NO2,Gampaha,2013,MAR,Gampaha Railway,64
+NO2,Gampaha,2013,MAR,Gampaha Police Station,84
+NO2,Gampaha,2013,MAR,Vilabada Road,64
+NO2,Gampaha,2013,MAR,Gampaha Hospital,92
+NO2,Gampaha,2013,MAR,Miriswaththa,83
+NO2,Gampaha,2013,MAR,Gampaha District Average,61
+NO2,Gampaha,2013,APR,Kirindiwita,24
+NO2,Gampaha,2013,APR,Pahalagama,34
+NO2,Gampaha,2013,APR,Asgiriya,29
+NO2,Gampaha,2013,APR,Oruthota Road,29
+NO2,Gampaha,2013,APR,Oruthota,37
+NO2,Gampaha,2013,APR,Gampaha Railway,38
+NO2,Gampaha,2013,APR,Gampaha Police Station,22
+NO2,Gampaha,2013,APR,Vilabada Road,74
+NO2,Gampaha,2013,APR,Gampaha Hospital,35
+NO2,Gampaha,2013,APR,Miriswaththa,38
+NO2,Gampaha,2013,APR,Gampaha District Average,82
+NO2,Gampaha,2013,MAY,Kirindiwita,31
+NO2,Gampaha,2013,MAY,Pahalagama,36
+NO2,Gampaha,2013,MAY,Asgiriya,35
+NO2,Gampaha,2013,MAY,Oruthota Road,37
+NO2,Gampaha,2013,MAY,Oruthota,43
+NO2,Gampaha,2013,MAY,Gampaha Railway,46
+NO2,Gampaha,2013,MAY,Gampaha Police Station,47
+NO2,Gampaha,2013,MAY,Vilabada Road,82
+NO2,Gampaha,2013,MAY,Gampaha Hospital,39
+NO2,Gampaha,2013,MAY,Miriswaththa,40
+NO2,Gampaha,2013,MAY,Gampaha District Average,56
+NO2,Gampaha,2013,JUN,Kirindiwita,24
+NO2,Gampaha,2013,JUN,Pahalagama,15
+NO2,Gampaha,2013,JUN,Asgiriya,29
+NO2,Gampaha,2013,JUN,Oruthota Road,30
+NO2,Gampaha,2013,JUN,Oruthota,34
+NO2,Gampaha,2013,JUN,Gampaha Railway,39
+NO2,Gampaha,2013,JUN,Gampaha Police Station,31
+NO2,Gampaha,2013,JUN,Vilabada Road,60
+NO2,Gampaha,2013,JUN,Gampaha Hospital,30
+NO2,Gampaha,2013,JUN,Miriswaththa,30
+NO2,Gampaha,2013,JUN,Gampaha District Average,20
+NO2,Gampaha,2013,AUG,Kirindiwita,36
+NO2,Gampaha,2013,AUG,Pahalagama,49
+NO2,Gampaha,2013,AUG,Asgiriya,46
+NO2,Gampaha,2013,AUG,Oruthota Road,53
+NO2,Gampaha,2013,AUG,Oruthota,54
+NO2,Gampaha,2013,AUG,Gampaha Railway,60
+NO2,Gampaha,2013,AUG,Gampaha Police Station,51
+NO2,Gampaha,2013,AUG,Vilabada Road,81
+NO2,Gampaha,2013,AUG,Gampaha Hospital,92
+NO2,Gampaha,2013,AUG,Miriswaththa,111
+NO2,Gampaha,2013,AUG,Gampaha District Average,89
+NO2,Gampaha,2013,SEP,Kirindiwita,14
+NO2,Gampaha,2013,SEP,Pahalagama,33
+NO2,Gampaha,2013,SEP,Asgiriya,14
+NO2,Gampaha,2013,SEP,Oruthota Road,37
+NO2,Gampaha,2013,SEP,Oruthota,46
+NO2,Gampaha,2013,SEP,Gampaha Railway,46
+NO2,Gampaha,2013,SEP,Gampaha Police Station,28
+NO2,Gampaha,2013,SEP,Vilabada Road,14
+NO2,Gampaha,2013,SEP,Gampaha Hospital,33
+NO2,Gampaha,2013,SEP,Miriswaththa,55
+NO2,Gampaha,2013,SEP,Gampaha District Average,17
+NO2,Gampaha,2013,OCT,Kirindiwita,13
+NO2,Gampaha,2013,OCT,Pahalagama,32
+NO2,Gampaha,2013,OCT,Asgiriya,14
+NO2,Gampaha,2013,OCT,Oruthota Road,26
+NO2,Gampaha,2013,OCT,Oruthota,19
+NO2,Gampaha,2013,OCT,Gampaha Railway,25
+NO2,Gampaha,2013,OCT,Gampaha Police Station,28
+NO2,Gampaha,2013,OCT,Vilabada Road,12
+NO2,Gampaha,2013,OCT,Gampaha Hospital,37
+NO2,Gampaha,2013,OCT,Miriswaththa,56
+NO2,Gampaha,2013,OCT,Gampaha District Average,18
+NO2,Gampaha,2013,NOV,Kirindiwita,18
+NO2,Gampaha,2013,NOV,Pahalagama,28
+NO2,Gampaha,2013,NOV,Asgiriya,11
+NO2,Gampaha,2013,NOV,Oruthota Road,29
+NO2,Gampaha,2013,NOV,Oruthota,21
+NO2,Gampaha,2013,NOV,Gampaha Railway,26
+NO2,Gampaha,2013,NOV,Gampaha Police Station,32
+NO2,Gampaha,2013,NOV,Vilabada Road,13
+NO2,Gampaha,2013,NOV,Gampaha Hospital,31
+NO2,Gampaha,2013,NOV,Miriswaththa,65
+NO2,Gampaha,2013,NOV,Gampaha District Average,15
+NO2,Gampaha,2013,DEC,Kirindiwita,15
+NO2,Gampaha,2013,DEC,Pahalagama,24
+NO2,Gampaha,2013,DEC,Asgiriya,10
+NO2,Gampaha,2013,DEC,Oruthota Road,32
+NO2,Gampaha,2013,DEC,Oruthota,20
+NO2,Gampaha,2013,DEC,Gampaha Railway,37
+NO2,Gampaha,2013,DEC,Gampaha Police Station,24
+NO2,Gampaha,2013,DEC,Vilabada Road,8
+NO2,Gampaha,2013,DEC,Gampaha Hospital,29
+NO2,Gampaha,2013,DEC,Miriswaththa,64
+NO2,Gampaha,2013,DEC,Gampaha District Average,11
+NO2,Gampaha,2014,AVG,Kirindiwita,22
+NO2,Gampaha,2014,AVG,Pahalagama,36
+NO2,Gampaha,2014,AVG,Asgiriya,27
+NO2,Gampaha,2014,AVG,Oruthota Road,45
+NO2,Gampaha,2014,AVG,Oruthota,38
+NO2,Gampaha,2014,AVG,Gampaha Railway,39
+NO2,Gampaha,2014,AVG,Gampaha Police Station,39
+NO2,Gampaha,2014,AVG,Vilabada Road,44
+NO2,Gampaha,2014,AVG,Gampaha Hospital,45
+NO2,Gampaha,2014,AVG,Miriswaththa,53
+NO2,Gampaha,2014,AVG,Gampaha District Average,42
+NO2,Gampaha,2014,JAN,Kirindiwita,24
+NO2,Gampaha,2014,JAN,Pahalagama,34
+NO2,Gampaha,2014,JAN,Asgiriya,17
+NO2,Gampaha,2014,JAN,Oruthota Road,53
+NO2,Gampaha,2014,JAN,Oruthota,38
+NO2,Gampaha,2014,JAN,Gampaha Railway,53
+NO2,Gampaha,2014,JAN,Gampaha Police Station,42
+NO2,Gampaha,2014,JAN,Vilabada Road,16
+NO2,Gampaha,2014,JAN,Gampaha Hospital,50
+NO2,Gampaha,2014,JAN,Miriswaththa,70
+NO2,Gampaha,2014,JAN,Gampaha District Average,25
+NO2,Gampaha,2014,FEB,Kirindiwita,22
+NO2,Gampaha,2014,FEB,Pahalagama,31
+NO2,Gampaha,2014,FEB,Asgiriya,16
+NO2,Gampaha,2014,FEB,Oruthota Road,49
+NO2,Gampaha,2014,FEB,Oruthota,36
+NO2,Gampaha,2014,FEB,Gampaha Railway,49
+NO2,Gampaha,2014,FEB,Gampaha Police Station,39
+NO2,Gampaha,2014,FEB,Vilabada Road,15
+NO2,Gampaha,2014,FEB,Gampaha Hospital,47
+NO2,Gampaha,2014,FEB,Miriswaththa,65
+NO2,Gampaha,2014,FEB,Gampaha District Average,23
+NO2,Gampaha,2014,MAY,Kirindiwita,12
+NO2,Gampaha,2014,MAY,Pahalagama,10
+NO2,Gampaha,2014,MAY,Asgiriya,25
+NO2,Gampaha,2014,MAY,Oruthota Road,15
+NO2,Gampaha,2014,MAY,Oruthota,20
+NO2,Gampaha,2014,MAY,Gampaha Railway,33
+NO2,Gampaha,2014,MAY,Gampaha Police Station,43
+NO2,Gampaha,2014,MAY,Vilabada Road,15
+NO2,Gampaha,2014,MAY,Gampaha Hospital,29
+NO2,Gampaha,2014,MAY,Miriswaththa,57
+NO2,Gampaha,2014,MAY,Gampaha District Average,15
+NO2,Gampaha,2014,JUN,Kirindiwita,11
+NO2,Gampaha,2014,JUN,Pahalagama,9
+NO2,Gampaha,2014,JUN,Asgiriya,22
+NO2,Gampaha,2014,JUN,Oruthota Road,13
+NO2,Gampaha,2014,JUN,Oruthota,18
+NO2,Gampaha,2014,JUN,Gampaha Railway,29
+NO2,Gampaha,2014,JUN,Gampaha Police Station,38
+NO2,Gampaha,2014,JUN,Vilabada Road,13
+NO2,Gampaha,2014,JUN,Gampaha Hospital,26
+NO2,Gampaha,2014,JUN,Miriswaththa,51
+NO2,Gampaha,2014,JUN,Gampaha District Average,14
+NO2,Gampaha,2014,JUL,Kirindiwita,8
+NO2,Gampaha,2014,JUL,Pahalagama,21
+NO2,Gampaha,2014,JUL,Asgiriya,12
+NO2,Gampaha,2014,JUL,Oruthota Road,25
+NO2,Gampaha,2014,JUL,Oruthota,18
+NO2,Gampaha,2014,JUL,Gampaha Railway,30
+NO2,Gampaha,2014,JUL,Gampaha Police Station,27
+NO2,Gampaha,2014,JUL,Vilabada Road,12
+NO2,Gampaha,2014,JUL,Gampaha Hospital,29
+NO2,Gampaha,2014,JUL,Miriswaththa,39
+NO2,Gampaha,2014,JUL,Gampaha District Average,12
+NO2,Gampaha,2014,AUG,Kirindiwita,12
+NO2,Gampaha,2014,AUG,Pahalagama,23
+NO2,Gampaha,2014,AUG,Asgiriya,20
+NO2,Gampaha,2014,AUG,Oruthota Road,15
+NO2,Gampaha,2014,AUG,Oruthota,18
+NO2,Gampaha,2014,AUG,Gampaha Railway,32
+NO2,Gampaha,2014,AUG,Gampaha Police Station,26
+NO2,Gampaha,2014,AUG,Vilabada Road,15
+NO2,Gampaha,2014,AUG,Gampaha Hospital,32
+NO2,Gampaha,2014,AUG,Miriswaththa,17
+NO2,Gampaha,2014,AUG,Gampaha District Average,49
+NO2,Gampaha,2014,SEP,Kirindiwita,24
+NO2,Gampaha,2014,SEP,Pahalagama,46
+NO2,Gampaha,2014,SEP,Asgiriya,39
+NO2,Gampaha,2014,SEP,Oruthota Road,31
+NO2,Gampaha,2014,SEP,Oruthota,35
+NO2,Gampaha,2014,SEP,Gampaha Railway,63
+NO2,Gampaha,2014,SEP,Gampaha Police Station,51
+NO2,Gampaha,2014,SEP,Vilabada Road,30
+NO2,Gampaha,2014,SEP,Gampaha Hospital,64
+NO2,Gampaha,2014,SEP,Miriswaththa,33
+NO2,Gampaha,2014,SEP,Gampaha District Average,38
+NO2,Gampaha,2014,OCT,Kirindiwita,13
+NO2,Gampaha,2014,OCT,Pahalagama,32
+NO2,Gampaha,2014,OCT,Asgiriya,14
+NO2,Gampaha,2014,OCT,Oruthota Road,26
+NO2,Gampaha,2014,OCT,Oruthota,19
+NO2,Gampaha,2014,OCT,Gampaha Railway,35
+NO2,Gampaha,2014,OCT,Gampaha Police Station,28
+NO2,Gampaha,2014,OCT,Vilabada Road,12
+NO2,Gampaha,2014,OCT,Gampaha Hospital,37
+NO2,Gampaha,2014,OCT,Miriswaththa,56
+NO2,Gampaha,2014,OCT,Gampaha District Average,18
+NO2,Gampaha,2014,NOV,Kirindiwita,21
+NO2,Gampaha,2014,NOV,Pahalagama,13
+NO2,Gampaha,2014,NOV,Asgiriya,20
+NO2,Gampaha,2014,NOV,Oruthota Road,54
+NO2,Gampaha,2014,NOV,Oruthota,34
+NO2,Gampaha,2014,NOV,Gampaha Railway,47
+NO2,Gampaha,2014,NOV,Gampaha Police Station,42
+NO2,Gampaha,2014,NOV,Vilabada Road,8
+NO2,Gampaha,2014,NOV,Gampaha Hospital,49
+NO2,Gampaha,2014,NOV,Miriswaththa,21
+NO2,Gampaha,2014,NOV,Gampaha District Average,79
+NO2,Gampaha,2014,DEC,Kirindiwita,25
+NO2,Gampaha,2014,DEC,Pahalagama,15
+NO2,Gampaha,2014,DEC,Asgiriya,23
+NO2,Gampaha,2014,DEC,Oruthota Road,62
+NO2,Gampaha,2014,DEC,Oruthota,39
+NO2,Gampaha,2014,DEC,Gampaha Railway,54
+NO2,Gampaha,2014,DEC,Gampaha Police Station,48
+NO2,Gampaha,2014,DEC,Vilabada Road,9
+NO2,Gampaha,2014,DEC,Gampaha Hospital,56
+NO2,Gampaha,2014,DEC,Miriswaththa,24
+NO2,Gampaha,2014,DEC,Gampaha District Average,90
+NO2,Gampaha,2015,AVG,Kirindiwita,17
+NO2,Gampaha,2015,AVG,Pahalagama,24
+NO2,Gampaha,2015,AVG,Asgiriya,20
+NO2,Gampaha,2015,AVG,Oruthota Road,35
+NO2,Gampaha,2015,AVG,Oruthota,28
+NO2,Gampaha,2015,AVG,Gampaha Railway,42
+NO2,Gampaha,2015,AVG,Gampaha Police Station,38
+NO2,Gampaha,2015,AVG,Vilabada Road,15
+NO2,Gampaha,2015,AVG,Gampaha Hospital,41
+NO2,Gampaha,2015,AVG,Miriswaththa,47
+NO2,Gampaha,2015,AVG,Gampaha District Average,33
+NO2,Gampaha,2015,JAN,Kirindiwita,15
+NO2,Gampaha,2015,JAN,Pahalagama,41
+NO2,Gampaha,2015,JAN,Asgiriya,8
+NO2,Gampaha,2015,JAN,Oruthota Road,32
+NO2,Gampaha,2015,JAN,Oruthota,21
+NO2,Gampaha,2015,JAN,Gampaha Railway,32
+NO2,Gampaha,2015,JAN,Gampaha Police Station,20
+NO2,Gampaha,2015,JAN,Vilabada Road,18
+NO2,Gampaha,2015,JAN,Gampaha Hospital,33
+NO2,Gampaha,2015,JAN,Miriswaththa,15
+NO2,Gampaha,2015,JAN,Gampaha District Average,65
+NO2,Gampaha,2015,FEB,Kirindiwita,32
+NO2,Gampaha,2015,FEB,Pahalagama,33
+NO2,Gampaha,2015,FEB,Asgiriya,11
+NO2,Gampaha,2015,FEB,Oruthota Road,38
+NO2,Gampaha,2015,FEB,Oruthota,32
+NO2,Gampaha,2015,FEB,Gampaha Railway,21
+NO2,Gampaha,2015,FEB,Gampaha Police Station,30
+NO2,Gampaha,2015,FEB,Vilabada Road,14
+NO2,Gampaha,2015,FEB,Gampaha Hospital,71
+NO2,Gampaha,2015,FEB,Miriswaththa,29
+NO2,Gampaha,2015,FEB,Gampaha District Average,28
+NO2,Gampaha,2015,MAR,Kirindiwita,18
+NO2,Gampaha,2015,MAR,Pahalagama,45
+NO2,Gampaha,2015,MAR,Asgiriya,17
+NO2,Gampaha,2015,MAR,Oruthota Road,45
+NO2,Gampaha,2015,MAR,Oruthota,32
+NO2,Gampaha,2015,MAR,Gampaha Railway,40
+NO2,Gampaha,2015,MAR,Gampaha Police Station,42
+NO2,Gampaha,2015,MAR,Vilabada Road,17
+NO2,Gampaha,2015,MAR,Gampaha Hospital,43
+NO2,Gampaha,2015,MAR,Miriswaththa,22
+NO2,Gampaha,2015,MAR,Gampaha District Average,63
+NO2,Gampaha,2015,APR,Kirindiwita,16
+NO2,Gampaha,2015,APR,Pahalagama,33
+NO2,Gampaha,2015,APR,Asgiriya,18
+NO2,Gampaha,2015,APR,Oruthota Road,37
+NO2,Gampaha,2015,APR,Oruthota,22
+NO2,Gampaha,2015,APR,Gampaha Railway,38
+NO2,Gampaha,2015,APR,Gampaha Police Station,33
+NO2,Gampaha,2015,APR,Vilabada Road,16
+NO2,Gampaha,2015,APR,Gampaha Hospital,31
+NO2,Gampaha,2015,APR,Miriswaththa,18
+NO2,Gampaha,2015,APR,Gampaha District Average,56
+NO2,Gampaha,2015,MAY,Kirindiwita,14
+NO2,Gampaha,2015,MAY,Pahalagama,17
+NO2,Gampaha,2015,MAY,Asgiriya,12
+NO2,Gampaha,2015,MAY,Oruthota Road,33
+NO2,Gampaha,2015,MAY,Oruthota,24
+NO2,Gampaha,2015,MAY,Gampaha Railway,46
+NO2,Gampaha,2015,MAY,Gampaha Police Station,32
+NO2,Gampaha,2015,MAY,Vilabada Road,18
+NO2,Gampaha,2015,MAY,Gampaha Hospital,22
+NO2,Gampaha,2015,MAY,Miriswaththa,25
+NO2,Gampaha,2015,MAY,Gampaha District Average,68
+NO2,Gampaha,2015,JUN,Kirindiwita,11
+NO2,Gampaha,2015,JUN,Pahalagama,22
+NO2,Gampaha,2015,JUN,Asgiriya,15
+NO2,Gampaha,2015,JUN,Oruthota Road,31
+NO2,Gampaha,2015,JUN,Oruthota,23
+NO2,Gampaha,2015,JUN,Gampaha Railway,36
+NO2,Gampaha,2015,JUN,Gampaha Police Station,46
+NO2,Gampaha,2015,JUN,Vilabada Road,14
+NO2,Gampaha,2015,JUN,Gampaha Hospital,30
+NO2,Gampaha,2015,JUN,Miriswaththa,29
+NO2,Gampaha,2015,JUN,Gampaha District Average,47
+NO2,Gampaha,2015,AUG,Kirindiwita,9
+NO2,Gampaha,2015,AUG,Pahalagama,27
+NO2,Gampaha,2015,AUG,Asgiriya,14
+NO2,Gampaha,2015,AUG,Oruthota Road,33
+NO2,Gampaha,2015,AUG,Oruthota,20
+NO2,Gampaha,2015,AUG,Gampaha Railway,33
+NO2,Gampaha,2015,AUG,Gampaha Police Station,23
+NO2,Gampaha,2015,AUG,Vilabada Road,22
+NO2,Gampaha,2015,AUG,Gampaha Hospital,23
+NO2,Gampaha,2015,AUG,Miriswaththa,22
+NO2,Gampaha,2015,AUG,Gampaha District Average,42
+NO2,Gampaha,2015,SEP,Kirindiwita,14
+NO2,Gampaha,2015,SEP,Pahalagama,34
+NO2,Gampaha,2015,SEP,Asgiriya,17
+NO2,Gampaha,2015,SEP,Oruthota Road,33
+NO2,Gampaha,2015,SEP,Oruthota,25
+NO2,Gampaha,2015,SEP,Gampaha Railway,40
+NO2,Gampaha,2015,SEP,Gampaha Police Station,21
+NO2,Gampaha,2015,SEP,Vilabada Road,35
+NO2,Gampaha,2015,SEP,Gampaha Hospital,40
+NO2,Gampaha,2015,SEP,Miriswaththa,57
+NO2,Gampaha,2015,SEP,Gampaha District Average,41
+NO2,Gampaha,2015,OCT,Kirindiwita,17
+NO2,Gampaha,2015,OCT,Pahalagama,38
+NO2,Gampaha,2015,OCT,Asgiriya,19
+NO2,Gampaha,2015,OCT,Oruthota Road,38
+NO2,Gampaha,2015,OCT,Oruthota,29
+NO2,Gampaha,2015,OCT,Gampaha Railway,40
+NO2,Gampaha,2015,OCT,Gampaha Police Station,16
+NO2,Gampaha,2015,OCT,Vilabada Road,18
+NO2,Gampaha,2015,OCT,Gampaha Hospital,41
+NO2,Gampaha,2015,OCT,Miriswaththa,54
+NO2,Gampaha,2015,OCT,Gampaha District Average,20
+NO2,Gampaha,2015,NOV,Kirindiwita,14
+NO2,Gampaha,2015,NOV,Pahalagama,27
+NO2,Gampaha,2015,NOV,Asgiriya,14
+NO2,Gampaha,2015,NOV,Oruthota Road,27
+NO2,Gampaha,2015,NOV,Oruthota,20
+NO2,Gampaha,2015,NOV,Gampaha Railway,29
+NO2,Gampaha,2015,NOV,Gampaha Police Station,12
+NO2,Gampaha,2015,NOV,Vilabada Road,13
+NO2,Gampaha,2015,NOV,Gampaha Hospital,29
+NO2,Gampaha,2015,NOV,Miriswaththa,36
+NO2,Gampaha,2015,NOV,Gampaha District Average,15
+NO2,Gampaha,2015,DEC,Kirindiwita,24
+NO2,Gampaha,2015,DEC,Pahalagama,42
+NO2,Gampaha,2015,DEC,Asgiriya,21
+NO2,Gampaha,2015,DEC,Oruthota Road,46
+NO2,Gampaha,2015,DEC,Oruthota,30
+NO2,Gampaha,2015,DEC,Gampaha Railway,38
+NO2,Gampaha,2015,DEC,Gampaha Police Station,29
+NO2,Gampaha,2015,DEC,Vilabada Road,27
+NO2,Gampaha,2015,DEC,Gampaha Hospital,34
+NO2,Gampaha,2015,DEC,Miriswaththa,58
+NO2,Gampaha,2015,DEC,Gampaha District Average,20
+NO2,Gampaha,2016,AVG,Kirindiwita,16
+NO2,Gampaha,2016,AVG,Pahalagama,33
+NO2,Gampaha,2016,AVG,Asgiriya,15
+NO2,Gampaha,2016,AVG,Oruthota Road,36
+NO2,Gampaha,2016,AVG,Oruthota,25
+NO2,Gampaha,2016,AVG,Gampaha Railway,36
+NO2,Gampaha,2016,AVG,Gampaha Police Station,28
+NO2,Gampaha,2016,AVG,Vilabada Road,19
+NO2,Gampaha,2016,AVG,Gampaha Hospital,36
+NO2,Gampaha,2016,AVG,Miriswaththa,35
+NO2,Gampaha,2016,AVG,Gampaha District Average,43
+NO2,Gampaha,2016,JAN,Kirindiwita,34
+NO2,Gampaha,2016,JAN,Pahalagama,45
+NO2,Gampaha,2016,JAN,Asgiriya,20
+NO2,Gampaha,2016,JAN,Oruthota Road,48
+NO2,Gampaha,2016,JAN,Oruthota,40
+NO2,Gampaha,2016,JAN,Gampaha Railway,43
+NO2,Gampaha,2016,JAN,Gampaha Police Station,41
+NO2,Gampaha,2016,JAN,Vilabada Road,22
+NO2,Gampaha,2016,JAN,Gampaha Hospital,47
+NO2,Gampaha,2016,JAN,Miriswaththa,33
+NO2,Gampaha,2016,JAN,Gampaha District Average,61
+NO2,Gampaha,2016,FEB,Kirindiwita,26
+NO2,Gampaha,2016,FEB,Pahalagama,44
+NO2,Gampaha,2016,FEB,Asgiriya,23
+NO2,Gampaha,2016,FEB,Oruthota Road,49
+NO2,Gampaha,2016,FEB,Oruthota,46
+NO2,Gampaha,2016,FEB,Gampaha Railway,46
+NO2,Gampaha,2016,FEB,Gampaha Police Station,41
+NO2,Gampaha,2016,FEB,Vilabada Road,27
+NO2,Gampaha,2016,FEB,Gampaha Hospital,53
+NO2,Gampaha,2016,FEB,Miriswaththa,23
+NO2,Gampaha,2016,FEB,Gampaha District Average,69
+NO2,Gampaha,2016,MAR,Kirindiwita,19
+NO2,Gampaha,2016,MAR,Pahalagama,42
+NO2,Gampaha,2016,MAR,Asgiriya,14
+NO2,Gampaha,2016,MAR,Oruthota Road,31
+NO2,Gampaha,2016,MAR,Oruthota,47
+NO2,Gampaha,2016,MAR,Gampaha Railway,40
+NO2,Gampaha,2016,MAR,Gampaha Police Station,38
+NO2,Gampaha,2016,MAR,Vilabada Road,18
+NO2,Gampaha,2016,MAR,Gampaha Hospital,42
+NO2,Gampaha,2016,MAR,Miriswaththa,22
+NO2,Gampaha,2016,MAR,Gampaha District Average,67
+NO2,Gampaha,2016,APR,Kirindiwita,17
+NO2,Gampaha,2016,APR,Pahalagama,38
+NO2,Gampaha,2016,APR,Asgiriya,17
+NO2,Gampaha,2016,APR,Oruthota Road,29
+NO2,Gampaha,2016,APR,Oruthota,48
+NO2,Gampaha,2016,APR,Gampaha Railway,40
+NO2,Gampaha,2016,APR,Gampaha Police Station,30
+NO2,Gampaha,2016,APR,Vilabada Road,25
+NO2,Gampaha,2016,APR,Gampaha Hospital,41
+NO2,Gampaha,2016,APR,Miriswaththa,21
+NO2,Gampaha,2016,APR,Gampaha District Average,54
+NO2,Gampaha,2016,MAY,Kirindiwita,14
+NO2,Gampaha,2016,MAY,Pahalagama,17
+NO2,Gampaha,2016,MAY,Asgiriya,9
+NO2,Gampaha,2016,MAY,Oruthota Road,37
+NO2,Gampaha,2016,MAY,Oruthota,27
+NO2,Gampaha,2016,MAY,Gampaha Railway,39
+NO2,Gampaha,2016,MAY,Gampaha Police Station,34
+NO2,Gampaha,2016,MAY,Vilabada Road,20
+NO2,Gampaha,2016,MAY,Gampaha Hospital,42
+NO2,Gampaha,2016,MAY,Miriswaththa,22
+NO2,Gampaha,2016,MAY,Gampaha District Average,69
+NO2,Gampaha,2016,JUN,Kirindiwita,14
+NO2,Gampaha,2016,JUN,Pahalagama,28
+NO2,Gampaha,2016,JUN,Asgiriya,17
+NO2,Gampaha,2016,JUN,Oruthota Road,33
+NO2,Gampaha,2016,JUN,Oruthota,32
+NO2,Gampaha,2016,JUN,Gampaha Railway,37
+NO2,Gampaha,2016,JUN,Gampaha Police Station,32
+NO2,Gampaha,2016,JUN,Vilabada Road,18
+NO2,Gampaha,2016,JUN,Gampaha Hospital,37
+NO2,Gampaha,2016,JUN,Miriswaththa,22
+NO2,Gampaha,2016,JUN,Gampaha District Average,57
+NO2,Gampaha,2016,AUG,Kirindiwita,12
+NO2,Gampaha,2016,AUG,Pahalagama,34
+NO2,Gampaha,2016,AUG,Asgiriya,22
+NO2,Gampaha,2016,AUG,Oruthota Road,37
+NO2,Gampaha,2016,AUG,Oruthota,25
+NO2,Gampaha,2016,AUG,Gampaha Railway,37
+NO2,Gampaha,2016,AUG,Gampaha Police Station,32
+NO2,Gampaha,2016,AUG,Vilabada Road,17
+NO2,Gampaha,2016,AUG,Gampaha Hospital,35
+NO2,Gampaha,2016,AUG,Miriswaththa,20
+NO2,Gampaha,2016,AUG,Gampaha District Average,50
+NO2,Gampaha,2016,SEP,Kirindiwita,13
+NO2,Gampaha,2016,SEP,Pahalagama,31
+NO2,Gampaha,2016,SEP,Asgiriya,27
+NO2,Gampaha,2016,SEP,Oruthota Road,31
+NO2,Gampaha,2016,SEP,Oruthota,20
+NO2,Gampaha,2016,SEP,Gampaha Railway,35
+NO2,Gampaha,2016,SEP,Gampaha Police Station,28
+NO2,Gampaha,2016,SEP,Vilabada Road,17
+NO2,Gampaha,2016,SEP,Gampaha Hospital,29
+NO2,Gampaha,2016,SEP,Miriswaththa,18
+NO2,Gampaha,2016,SEP,Gampaha District Average,50
+NO2,Gampaha,2016,OCT,Kirindiwita,16
+NO2,Gampaha,2016,OCT,Pahalagama,33
+NO2,Gampaha,2016,OCT,Asgiriya,12
+NO2,Gampaha,2016,OCT,Oruthota Road,39
+NO2,Gampaha,2016,OCT,Oruthota,23
+NO2,Gampaha,2016,OCT,Gampaha Railway,38
+NO2,Gampaha,2016,OCT,Gampaha Police Station,30
+NO2,Gampaha,2016,OCT,Vilabada Road,23
+NO2,Gampaha,2016,OCT,Gampaha Hospital,32
+NO2,Gampaha,2016,OCT,Miriswaththa,19
+NO2,Gampaha,2016,OCT,Gampaha District Average,59
+NO2,Gampaha,2016,NOV,Kirindiwita,19
+NO2,Gampaha,2016,NOV,Pahalagama,38
+NO2,Gampaha,2016,NOV,Asgiriya,15
+NO2,Gampaha,2016,NOV,Oruthota Road,39
+NO2,Gampaha,2016,NOV,Oruthota,27
+NO2,Gampaha,2016,NOV,Gampaha Railway,39
+NO2,Gampaha,2016,NOV,Gampaha Police Station,33
+NO2,Gampaha,2016,NOV,Vilabada Road,24
+NO2,Gampaha,2016,NOV,Gampaha Hospital,44
+NO2,Gampaha,2016,NOV,Miriswaththa,27
+NO2,Gampaha,2016,NOV,Gampaha District Average,44
+NO2,Gampaha,2016,DEC,Kirindiwita,27
+NO2,Gampaha,2016,DEC,Pahalagama,48
+NO2,Gampaha,2016,DEC,Asgiriya,31
+NO2,Gampaha,2016,DEC,Oruthota Road,40
+NO2,Gampaha,2016,DEC,Oruthota,37
+NO2,Gampaha,2016,DEC,Gampaha Railway,46
+NO2,Gampaha,2016,DEC,Gampaha Police Station,33
+NO2,Gampaha,2016,DEC,Vilabada Road,24
+NO2,Gampaha,2016,DEC,Gampaha Hospital,44
+NO2,Gampaha,2016,DEC,Miriswaththa,27
+NO2,Gampaha,2016,DEC,Gampaha District Average,48
+NO2,Gampaha,2017,AVG,Kirindiwita,18
+NO2,Gampaha,2017,AVG,Pahalagama,36
+NO2,Gampaha,2017,AVG,Asgiriya,19
+NO2,Gampaha,2017,AVG,Oruthota Road,36
+NO2,Gampaha,2017,AVG,Oruthota,33
+NO2,Gampaha,2017,AVG,Gampaha Railway,40
+NO2,Gampaha,2017,AVG,Gampaha Police Station,33
+NO2,Gampaha,2017,AVG,Vilabada Road,21
+NO2,Gampaha,2017,AVG,Gampaha Hospital,40
+NO2,Gampaha,2017,AVG,Miriswaththa,23
+NO2,Gampaha,2017,AVG,Gampaha District Average,57
+NO2,Kaluthara,,JAN,Aluthgama,5
+NO2,Kaluthara,,JAN,Kaluthara Bodiya Car Park,24
+NO2,Kaluthara,,JAN,Palathota Junction,5
+NO2,Kaluthara,,JAN,Nagoda Junction,41
+NO2,Kaluthara,,JAN,Katukurunda Junction,26
+NO2,Kaluthara,,JAN,Kaluthara Urban Council,98
+NO2,Kaluthara,,JAN,Kaluthara District Average,21
+NO2,Kaluthara,,FEB,Aluthgama,23
+NO2,Kaluthara,,FEB,Kaluthara Bodiya Car Park,38
+NO2,Kaluthara,,FEB,Palathota Junction,20
+NO2,Kaluthara,,FEB,Nagoda Junction,42
+NO2,Kaluthara,,FEB,Katukurunda Junction,29
+NO2,Kaluthara,,FEB,Kaluthara Urban Council,93
+NO2,Kaluthara,,FEB,Kaluthara District Average,48
+NO2,Kaluthara,,MAR,Aluthgama,19
+NO2,Kaluthara,,MAR,Kaluthara Bodiya Car Park,41
+NO2,Kaluthara,,MAR,Palathota Junction,19
+NO2,Kaluthara,,MAR,Nagoda Junction,47
+NO2,Kaluthara,,MAR,Katukurunda Junction,39
+NO2,Kaluthara,,MAR,Kaluthara Urban Council,88
+NO2,Kaluthara,,MAR,Kaluthara District Average,44
+NO2,Kaluthara,,APR,Aluthgama,35
+NO2,Kaluthara,,APR,Kaluthara Bodiya Car Park,64
+NO2,Kaluthara,,APR,Palathota Junction,30
+NO2,Kaluthara,,APR,Nagoda Junction,64
+NO2,Kaluthara,,APR,Katukurunda Junction,52
+NO2,Kaluthara,,APR,Kaluthara Urban Council,83
+NO2,Kaluthara,,APR,Kaluthara District Average,62
+NO2,Kaluthara,,MAY,Aluthgama,22
+NO2,Kaluthara,,MAY,Kaluthara Bodiya Car Park,41
+NO2,Kaluthara,,MAY,Palathota Junction,23
+NO2,Kaluthara,,MAY,Nagoda Junction,25
+NO2,Kaluthara,,MAY,Katukurunda Junction,40
+NO2,Kaluthara,,MAY,Kaluthara Urban Council,88
+NO2,Kaluthara,,MAY,Kaluthara District Average,50
+NO2,Kaluthara,,JUN,Aluthgama,21
+NO2,Kaluthara,,JUN,Kaluthara Bodiya Car Park,52
+NO2,Kaluthara,,JUN,Palathota Junction,27
+NO2,Kaluthara,,JUN,Nagoda Junction,67
+NO2,Kaluthara,,JUN,Katukurunda Junction,68
+NO2,Kaluthara,,JUN,Kaluthara Urban Council,65
+NO2,Kaluthara,,JUN,Kaluthara District Average,46
+NO2,Kaluthara,,AUG,Aluthgama,19
+NO2,Kaluthara,,AUG,Kaluthara Bodiya Car Park,39
+NO2,Kaluthara,,AUG,Palathota Junction,22
+NO2,Kaluthara,,AUG,Nagoda Junction,53
+NO2,Kaluthara,,AUG,Katukurunda Junction,50
+NO2,Kaluthara,,AUG,Kaluthara Urban Council,57
+NO2,Kaluthara,,AUG,Kaluthara District Average,48
+NO2,Kaluthara,,SEP,Aluthgama,21
+NO2,Kaluthara,,SEP,Kaluthara Bodiya Car Park,55
+NO2,Kaluthara,,SEP,Palathota Junction,23
+NO2,Kaluthara,,SEP,Nagoda Junction,83
+NO2,Kaluthara,,SEP,Katukurunda Junction,32
+NO2,Kaluthara,,SEP,Kaluthara Urban Council,59
+NO2,Kaluthara,,SEP,Kaluthara District Average,54
+NO2,Kaluthara,,OCT,Aluthgama,28
+NO2,Kaluthara,,OCT,Kaluthara Bodiya Car Park,52
+NO2,Kaluthara,,OCT,Palathota Junction,28
+NO2,Kaluthara,,OCT,Nagoda Junction,81
+NO2,Kaluthara,,OCT,Katukurunda Junction,47
+NO2,Kaluthara,,OCT,Kaluthara Urban Council,89
+NO2,Kaluthara,,OCT,Kaluthara District Average,69
+NO2,Kaluthara,,NOV,Aluthgama,32
+NO2,Kaluthara,,NOV,Kaluthara Bodiya Car Park,42
+NO2,Kaluthara,,NOV,Palathota Junction,26
+NO2,Kaluthara,,NOV,Nagoda Junction,82
+NO2,Kaluthara,,NOV,Katukurunda Junction,50
+NO2,Kaluthara,,NOV,Kaluthara Urban Council,48
+NO2,Kaluthara,,NOV,Kaluthara District Average,59
+NO2,Kaluthara,,DEC,Aluthgama,20
+NO2,Kaluthara,,DEC,Kaluthara Bodiya Car Park,45
+NO2,Kaluthara,,DEC,Palathota Junction,23
+NO2,Kaluthara,,DEC,Nagoda Junction,50
+NO2,Kaluthara,,DEC,Katukurunda Junction,60
+NO2,Kaluthara,,DEC,Kaluthara Urban Council,29
+NO2,Kaluthara,,DEC,Kaluthara District Average,37
+NO2,Kaluthara,2013,AVG,Aluthgama,22
+NO2,Kaluthara,2013,AVG,Kaluthara Bodiya Car Park,45
+NO2,Kaluthara,2013,AVG,Palathota Junction,22
+NO2,Kaluthara,2013,AVG,Nagoda Junction,58
+NO2,Kaluthara,2013,AVG,Katukurunda Junction,46
+NO2,Kaluthara,2013,AVG,Kaluthara Urban Council,71
+NO2,Kaluthara,2013,AVG,Kaluthara District Average,49
+NO2,Kaluthara,2013,JAN,Aluthgama,10
+NO2,Kaluthara,2013,JAN,Kaluthara Bodiya Car Park,25
+NO2,Kaluthara,2013,JAN,Palathota Junction,13
+NO2,Kaluthara,2013,JAN,Nagoda Junction,40
+NO2,Kaluthara,2013,JAN,Katukurunda Junction,40
+NO2,Kaluthara,2013,JAN,Kaluthara Urban Council,19
+NO2,Kaluthara,2013,JAN,Kaluthara District Average,27
+NO2,Kaluthara,2013,FEB,Aluthgama,19
+NO2,Kaluthara,2013,FEB,Kaluthara Bodiya Car Park,47
+NO2,Kaluthara,2013,FEB,Palathota Junction,35
+NO2,Kaluthara,2013,FEB,Nagoda Junction,77
+NO2,Kaluthara,2013,FEB,Katukurunda Junction,39
+NO2,Kaluthara,2013,FEB,Kaluthara Urban Council,35
+NO2,Kaluthara,2013,FEB,Kaluthara District Average,50
+NO2,Kaluthara,2013,MAR,Aluthgama,30
+NO2,Kaluthara,2013,MAR,Kaluthara Bodiya Car Park,80
+NO2,Kaluthara,2013,MAR,Palathota Junction,56
+NO2,Kaluthara,2013,MAR,Nagoda Junction,125
+NO2,Kaluthara,2013,MAR,Katukurunda Junction,63
+NO2,Kaluthara,2013,MAR,Kaluthara Urban Council,64
+NO2,Kaluthara,2013,MAR,Kaluthara District Average,84
+NO2,Kaluthara,2013,APR,Aluthgama,24
+NO2,Kaluthara,2013,APR,Kaluthara Bodiya Car Park,34
+NO2,Kaluthara,2013,APR,Palathota Junction,29
+NO2,Kaluthara,2013,APR,Nagoda Junction,29
+NO2,Kaluthara,2013,APR,Katukurunda Junction,37
+NO2,Kaluthara,2013,APR,Kaluthara Urban Council,38
+NO2,Kaluthara,2013,APR,Kaluthara District Average,22
+NO2,Kaluthara,2013,MAY,Aluthgama,31
+NO2,Kaluthara,2013,MAY,Kaluthara Bodiya Car Park,36
+NO2,Kaluthara,2013,MAY,Palathota Junction,35
+NO2,Kaluthara,2013,MAY,Nagoda Junction,37
+NO2,Kaluthara,2013,MAY,Katukurunda Junction,43
+NO2,Kaluthara,2013,MAY,Kaluthara Urban Council,46
+NO2,Kaluthara,2013,MAY,Kaluthara District Average,47
+NO2,Kaluthara,2013,JUN,Aluthgama,24
+NO2,Kaluthara,2013,JUN,Kaluthara Bodiya Car Park,15
+NO2,Kaluthara,2013,JUN,Palathota Junction,29
+NO2,Kaluthara,2013,JUN,Nagoda Junction,30
+NO2,Kaluthara,2013,JUN,Katukurunda Junction,34
+NO2,Kaluthara,2013,JUN,Kaluthara Urban Council,39
+NO2,Kaluthara,2013,JUN,Kaluthara District Average,31
+NO2,Kaluthara,2013,AUG,Aluthgama,36
+NO2,Kaluthara,2013,AUG,Kaluthara Bodiya Car Park,49
+NO2,Kaluthara,2013,AUG,Palathota Junction,46
+NO2,Kaluthara,2013,AUG,Nagoda Junction,53
+NO2,Kaluthara,2013,AUG,Katukurunda Junction,54
+NO2,Kaluthara,2013,AUG,Kaluthara Urban Council,60
+NO2,Kaluthara,2013,AUG,Kaluthara District Average,51
+NO2,Kaluthara,2013,SEP,Aluthgama,14
+NO2,Kaluthara,2013,SEP,Kaluthara Bodiya Car Park,33
+NO2,Kaluthara,2013,SEP,Palathota Junction,14
+NO2,Kaluthara,2013,SEP,Nagoda Junction,37
+NO2,Kaluthara,2013,SEP,Katukurunda Junction,46
+NO2,Kaluthara,2013,SEP,Kaluthara Urban Council,46
+NO2,Kaluthara,2013,SEP,Kaluthara District Average,28
+NO2,Kaluthara,2013,OCT,Aluthgama,13
+NO2,Kaluthara,2013,OCT,Kaluthara Bodiya Car Park,32
+NO2,Kaluthara,2013,OCT,Palathota Junction,14
+NO2,Kaluthara,2013,OCT,Nagoda Junction,26
+NO2,Kaluthara,2013,OCT,Katukurunda Junction,19
+NO2,Kaluthara,2013,OCT,Kaluthara Urban Council,25
+NO2,Kaluthara,2013,OCT,Kaluthara District Average,28
+NO2,Kaluthara,2013,NOV,Aluthgama,18
+NO2,Kaluthara,2013,NOV,Kaluthara Bodiya Car Park,28
+NO2,Kaluthara,2013,NOV,Palathota Junction,11
+NO2,Kaluthara,2013,NOV,Nagoda Junction,29
+NO2,Kaluthara,2013,NOV,Katukurunda Junction,21
+NO2,Kaluthara,2013,NOV,Kaluthara Urban Council,26
+NO2,Kaluthara,2013,NOV,Kaluthara District Average,32
+NO2,Kaluthara,2013,DEC,Aluthgama,15
+NO2,Kaluthara,2013,DEC,Kaluthara Bodiya Car Park,24
+NO2,Kaluthara,2013,DEC,Palathota Junction,10
+NO2,Kaluthara,2013,DEC,Nagoda Junction,32
+NO2,Kaluthara,2013,DEC,Katukurunda Junction,20
+NO2,Kaluthara,2013,DEC,Kaluthara Urban Council,37
+NO2,Kaluthara,2013,DEC,Kaluthara District Average,24
+NO2,Kaluthara,2014,AVG,Aluthgama,22
+NO2,Kaluthara,2014,AVG,Kaluthara Bodiya Car Park,36
+NO2,Kaluthara,2014,AVG,Palathota Junction,27
+NO2,Kaluthara,2014,AVG,Nagoda Junction,45
+NO2,Kaluthara,2014,AVG,Katukurunda Junction,38
+NO2,Kaluthara,2014,AVG,Kaluthara Urban Council,39
+NO2,Kaluthara,2014,AVG,Kaluthara District Average,39
+NO2,Kaluthara,2014,JAN,Aluthgama,24
+NO2,Kaluthara,2014,JAN,Kaluthara Bodiya Car Park,34
+NO2,Kaluthara,2014,JAN,Palathota Junction,17
+NO2,Kaluthara,2014,JAN,Nagoda Junction,53
+NO2,Kaluthara,2014,JAN,Katukurunda Junction,38
+NO2,Kaluthara,2014,JAN,Kaluthara Urban Council,53
+NO2,Kaluthara,2014,JAN,Kaluthara District Average,42
+NO2,Kaluthara,2014,FEB,Aluthgama,22
+NO2,Kaluthara,2014,FEB,Kaluthara Bodiya Car Park,31
+NO2,Kaluthara,2014,FEB,Palathota Junction,16
+NO2,Kaluthara,2014,FEB,Nagoda Junction,49
+NO2,Kaluthara,2014,FEB,Katukurunda Junction,36
+NO2,Kaluthara,2014,FEB,Kaluthara Urban Council,49
+NO2,Kaluthara,2014,FEB,Kaluthara District Average,39
+NO2,Kaluthara,2014,MAY,Aluthgama,12
+NO2,Kaluthara,2014,MAY,Kaluthara Bodiya Car Park,10
+NO2,Kaluthara,2014,MAY,Palathota Junction,25
+NO2,Kaluthara,2014,MAY,Nagoda Junction,15
+NO2,Kaluthara,2014,MAY,Katukurunda Junction,20
+NO2,Kaluthara,2014,MAY,Kaluthara Urban Council,33
+NO2,Kaluthara,2014,MAY,Kaluthara District Average,43
+NO2,Kaluthara,2014,JUN,Aluthgama,11
+NO2,Kaluthara,2014,JUN,Kaluthara Bodiya Car Park,9
+NO2,Kaluthara,2014,JUN,Palathota Junction,22
+NO2,Kaluthara,2014,JUN,Nagoda Junction,13
+NO2,Kaluthara,2014,JUN,Katukurunda Junction,18
+NO2,Kaluthara,2014,JUN,Kaluthara Urban Council,29
+NO2,Kaluthara,2014,JUN,Kaluthara District Average,38
+NO2,Kaluthara,2014,JUL,Aluthgama,8
+NO2,Kaluthara,2014,JUL,Kaluthara Bodiya Car Park,21
+NO2,Kaluthara,2014,JUL,Palathota Junction,12
+NO2,Kaluthara,2014,JUL,Nagoda Junction,25
+NO2,Kaluthara,2014,JUL,Katukurunda Junction,18
+NO2,Kaluthara,2014,JUL,Kaluthara Urban Council,30
+NO2,Kaluthara,2014,JUL,Kaluthara District Average,27
+NO2,Kaluthara,2014,AUG,Aluthgama,12
+NO2,Kaluthara,2014,AUG,Kaluthara Bodiya Car Park,23
+NO2,Kaluthara,2014,AUG,Palathota Junction,20
+NO2,Kaluthara,2014,AUG,Nagoda Junction,15
+NO2,Kaluthara,2014,AUG,Katukurunda Junction,18
+NO2,Kaluthara,2014,AUG,Kaluthara Urban Council,32
+NO2,Kaluthara,2014,AUG,Kaluthara District Average,26
+NO2,Kaluthara,2014,SEP,Aluthgama,24
+NO2,Kaluthara,2014,SEP,Kaluthara Bodiya Car Park,46
+NO2,Kaluthara,2014,SEP,Palathota Junction,39
+NO2,Kaluthara,2014,SEP,Nagoda Junction,31
+NO2,Kaluthara,2014,SEP,Katukurunda Junction,35
+NO2,Kaluthara,2014,SEP,Kaluthara Urban Council,63
+NO2,Kaluthara,2014,SEP,Kaluthara District Average,51
+NO2,Kaluthara,2014,OCT,Aluthgama,13
+NO2,Kaluthara,2014,OCT,Kaluthara Bodiya Car Park,32
+NO2,Kaluthara,2014,OCT,Palathota Junction,14
+NO2,Kaluthara,2014,OCT,Nagoda Junction,26
+NO2,Kaluthara,2014,OCT,Katukurunda Junction,19
+NO2,Kaluthara,2014,OCT,Kaluthara Urban Council,35
+NO2,Kaluthara,2014,OCT,Kaluthara District Average,28
+NO2,Kaluthara,2014,NOV,Aluthgama,21
+NO2,Kaluthara,2014,NOV,Kaluthara Bodiya Car Park,13
+NO2,Kaluthara,2014,NOV,Palathota Junction,20
+NO2,Kaluthara,2014,NOV,Nagoda Junction,54
+NO2,Kaluthara,2014,NOV,Katukurunda Junction,34
+NO2,Kaluthara,2014,NOV,Kaluthara Urban Council,47
+NO2,Kaluthara,2014,NOV,Kaluthara District Average,42
+NO2,Kaluthara,2014,DEC,Aluthgama,25
+NO2,Kaluthara,2014,DEC,Kaluthara Bodiya Car Park,15
+NO2,Kaluthara,2014,DEC,Palathota Junction,23
+NO2,Kaluthara,2014,DEC,Nagoda Junction,62
+NO2,Kaluthara,2014,DEC,Katukurunda Junction,39
+NO2,Kaluthara,2014,DEC,Kaluthara Urban Council,54
+NO2,Kaluthara,2014,DEC,Kaluthara District Average,48
+NO2,Kaluthara,2015,AVG,Aluthgama,17
+NO2,Kaluthara,2015,AVG,Kaluthara Bodiya Car Park,24
+NO2,Kaluthara,2015,AVG,Palathota Junction,20
+NO2,Kaluthara,2015,AVG,Nagoda Junction,35
+NO2,Kaluthara,2015,AVG,Katukurunda Junction,28
+NO2,Kaluthara,2015,AVG,Kaluthara Urban Council,42
+NO2,Kaluthara,2015,AVG,Kaluthara District Average,38
+NO2,Kaluthara,2015,JAN,Aluthgama,15
+NO2,Kaluthara,2015,JAN,Kaluthara Bodiya Car Park,41
+NO2,Kaluthara,2015,JAN,Palathota Junction,8
+NO2,Kaluthara,2015,JAN,Nagoda Junction,32
+NO2,Kaluthara,2015,JAN,Katukurunda Junction,21
+NO2,Kaluthara,2015,JAN,Kaluthara Urban Council,32
+NO2,Kaluthara,2015,JAN,Kaluthara District Average,20
+NO2,Kaluthara,2015,FEB,Aluthgama,32
+NO2,Kaluthara,2015,FEB,Kaluthara Bodiya Car Park,33
+NO2,Kaluthara,2015,FEB,Palathota Junction,11
+NO2,Kaluthara,2015,FEB,Nagoda Junction,38
+NO2,Kaluthara,2015,FEB,Katukurunda Junction,32
+NO2,Kaluthara,2015,FEB,Kaluthara Urban Council,21
+NO2,Kaluthara,2015,FEB,Kaluthara District Average,30
+NO2,Kaluthara,2015,MAR,Aluthgama,18
+NO2,Kaluthara,2015,MAR,Kaluthara Bodiya Car Park,45
+NO2,Kaluthara,2015,MAR,Palathota Junction,17
+NO2,Kaluthara,2015,MAR,Nagoda Junction,45
+NO2,Kaluthara,2015,MAR,Katukurunda Junction,32
+NO2,Kaluthara,2015,MAR,Kaluthara Urban Council,40
+NO2,Kaluthara,2015,MAR,Kaluthara District Average,42
+NO2,Kaluthara,2015,APR,Aluthgama,16
+NO2,Kaluthara,2015,APR,Kaluthara Bodiya Car Park,33
+NO2,Kaluthara,2015,APR,Palathota Junction,18
+NO2,Kaluthara,2015,APR,Nagoda Junction,37
+NO2,Kaluthara,2015,APR,Katukurunda Junction,22
+NO2,Kaluthara,2015,APR,Kaluthara Urban Council,38
+NO2,Kaluthara,2015,APR,Kaluthara District Average,33
+NO2,Kaluthara,2015,MAY,Aluthgama,14
+NO2,Kaluthara,2015,MAY,Kaluthara Bodiya Car Park,17
+NO2,Kaluthara,2015,MAY,Palathota Junction,12
+NO2,Kaluthara,2015,MAY,Nagoda Junction,33
+NO2,Kaluthara,2015,MAY,Katukurunda Junction,24
+NO2,Kaluthara,2015,MAY,Kaluthara Urban Council,46
+NO2,Kaluthara,2015,MAY,Kaluthara District Average,32
+NO2,Kaluthara,2015,JUN,Aluthgama,11
+NO2,Kaluthara,2015,JUN,Kaluthara Bodiya Car Park,22
+NO2,Kaluthara,2015,JUN,Palathota Junction,15
+NO2,Kaluthara,2015,JUN,Nagoda Junction,31
+NO2,Kaluthara,2015,JUN,Katukurunda Junction,23
+NO2,Kaluthara,2015,JUN,Kaluthara Urban Council,36
+NO2,Kaluthara,2015,JUN,Kaluthara District Average,46
+NO2,Kaluthara,2015,AUG,Aluthgama,9
+NO2,Kaluthara,2015,AUG,Kaluthara Bodiya Car Park,27
+NO2,Kaluthara,2015,AUG,Palathota Junction,14
+NO2,Kaluthara,2015,AUG,Nagoda Junction,33
+NO2,Kaluthara,2015,AUG,Katukurunda Junction,20
+NO2,Kaluthara,2015,AUG,Kaluthara Urban Council,33
+NO2,Kaluthara,2015,AUG,Kaluthara District Average,23
+NO2,Kaluthara,2015,SEP,Aluthgama,14
+NO2,Kaluthara,2015,SEP,Kaluthara Bodiya Car Park,34
+NO2,Kaluthara,2015,SEP,Palathota Junction,17
+NO2,Kaluthara,2015,SEP,Nagoda Junction,33
+NO2,Kaluthara,2015,SEP,Katukurunda Junction,25
+NO2,Kaluthara,2015,SEP,Kaluthara Urban Council,40
+NO2,Kaluthara,2015,SEP,Kaluthara District Average,21
+NO2,Kaluthara,2015,OCT,Aluthgama,17
+NO2,Kaluthara,2015,OCT,Kaluthara Bodiya Car Park,38
+NO2,Kaluthara,2015,OCT,Palathota Junction,19
+NO2,Kaluthara,2015,OCT,Nagoda Junction,38
+NO2,Kaluthara,2015,OCT,Katukurunda Junction,29
+NO2,Kaluthara,2015,OCT,Kaluthara Urban Council,40
+NO2,Kaluthara,2015,OCT,Kaluthara District Average,16
+NO2,Kaluthara,2015,NOV,Aluthgama,14
+NO2,Kaluthara,2015,NOV,Kaluthara Bodiya Car Park,27
+NO2,Kaluthara,2015,NOV,Palathota Junction,14
+NO2,Kaluthara,2015,NOV,Nagoda Junction,27
+NO2,Kaluthara,2015,NOV,Katukurunda Junction,20
+NO2,Kaluthara,2015,NOV,Kaluthara Urban Council,29
+NO2,Kaluthara,2015,NOV,Kaluthara District Average,12
+NO2,Kaluthara,2015,DEC,Aluthgama,24
+NO2,Kaluthara,2015,DEC,Kaluthara Bodiya Car Park,42
+NO2,Kaluthara,2015,DEC,Palathota Junction,21
+NO2,Kaluthara,2015,DEC,Nagoda Junction,46
+NO2,Kaluthara,2015,DEC,Katukurunda Junction,30
+NO2,Kaluthara,2015,DEC,Kaluthara Urban Council,38
+NO2,Kaluthara,2015,DEC,Kaluthara District Average,29
+NO2,Kaluthara,2016,AVG,Aluthgama,16
+NO2,Kaluthara,2016,AVG,Kaluthara Bodiya Car Park,33
+NO2,Kaluthara,2016,AVG,Palathota Junction,15
+NO2,Kaluthara,2016,AVG,Nagoda Junction,36
+NO2,Kaluthara,2016,AVG,Katukurunda Junction,25
+NO2,Kaluthara,2016,AVG,Kaluthara Urban Council,36
+NO2,Kaluthara,2016,AVG,Kaluthara District Average,28
+NO2,Kaluthara,2016,JAN,Aluthgama,34
+NO2,Kaluthara,2016,JAN,Kaluthara Bodiya Car Park,45
+NO2,Kaluthara,2016,JAN,Palathota Junction,20
+NO2,Kaluthara,2016,JAN,Nagoda Junction,48
+NO2,Kaluthara,2016,JAN,Katukurunda Junction,40
+NO2,Kaluthara,2016,JAN,Kaluthara Urban Council,43
+NO2,Kaluthara,2016,JAN,Kaluthara District Average,41
+NO2,Kaluthara,2016,FEB,Aluthgama,26
+NO2,Kaluthara,2016,FEB,Kaluthara Bodiya Car Park,44
+NO2,Kaluthara,2016,FEB,Palathota Junction,23
+NO2,Kaluthara,2016,FEB,Nagoda Junction,49
+NO2,Kaluthara,2016,FEB,Katukurunda Junction,46
+NO2,Kaluthara,2016,FEB,Kaluthara Urban Council,46
+NO2,Kaluthara,2016,FEB,Kaluthara District Average,41
+NO2,Kaluthara,2016,MAR,Aluthgama,19
+NO2,Kaluthara,2016,MAR,Kaluthara Bodiya Car Park,42
+NO2,Kaluthara,2016,MAR,Palathota Junction,14
+NO2,Kaluthara,2016,MAR,Nagoda Junction,31
+NO2,Kaluthara,2016,MAR,Katukurunda Junction,47
+NO2,Kaluthara,2016,MAR,Kaluthara Urban Council,40
+NO2,Kaluthara,2016,MAR,Kaluthara District Average,38
+NO2,Kaluthara,2016,APR,Aluthgama,17
+NO2,Kaluthara,2016,APR,Kaluthara Bodiya Car Park,38
+NO2,Kaluthara,2016,APR,Palathota Junction,17
+NO2,Kaluthara,2016,APR,Nagoda Junction,29
+NO2,Kaluthara,2016,APR,Katukurunda Junction,48
+NO2,Kaluthara,2016,APR,Kaluthara Urban Council,40
+NO2,Kaluthara,2016,APR,Kaluthara District Average,30
+NO2,Kaluthara,2016,MAY,Aluthgama,14
+NO2,Kaluthara,2016,MAY,Kaluthara Bodiya Car Park,17
+NO2,Kaluthara,2016,MAY,Palathota Junction,9
+NO2,Kaluthara,2016,MAY,Nagoda Junction,37
+NO2,Kaluthara,2016,MAY,Katukurunda Junction,27
+NO2,Kaluthara,2016,MAY,Kaluthara Urban Council,39
+NO2,Kaluthara,2016,MAY,Kaluthara District Average,34
+NO2,Kaluthara,2016,JUN,Aluthgama,14
+NO2,Kaluthara,2016,JUN,Kaluthara Bodiya Car Park,28
+NO2,Kaluthara,2016,JUN,Palathota Junction,17
+NO2,Kaluthara,2016,JUN,Nagoda Junction,33
+NO2,Kaluthara,2016,JUN,Katukurunda Junction,32
+NO2,Kaluthara,2016,JUN,Kaluthara Urban Council,37
+NO2,Kaluthara,2016,JUN,Kaluthara District Average,32
+NO2,Kaluthara,2016,AUG,Aluthgama,12
+NO2,Kaluthara,2016,AUG,Kaluthara Bodiya Car Park,34
+NO2,Kaluthara,2016,AUG,Palathota Junction,22
+NO2,Kaluthara,2016,AUG,Nagoda Junction,37
+NO2,Kaluthara,2016,AUG,Katukurunda Junction,25
+NO2,Kaluthara,2016,AUG,Kaluthara Urban Council,37
+NO2,Kaluthara,2016,AUG,Kaluthara District Average,32
+NO2,Kaluthara,2016,SEP,Aluthgama,13
+NO2,Kaluthara,2016,SEP,Kaluthara Bodiya Car Park,31
+NO2,Kaluthara,2016,SEP,Palathota Junction,27
+NO2,Kaluthara,2016,SEP,Nagoda Junction,31
+NO2,Kaluthara,2016,SEP,Katukurunda Junction,20
+NO2,Kaluthara,2016,SEP,Kaluthara Urban Council,35
+NO2,Kaluthara,2016,SEP,Kaluthara District Average,28
+NO2,Kaluthara,2016,OCT,Aluthgama,16
+NO2,Kaluthara,2016,OCT,Kaluthara Bodiya Car Park,33
+NO2,Kaluthara,2016,OCT,Palathota Junction,12
+NO2,Kaluthara,2016,OCT,Nagoda Junction,39
+NO2,Kaluthara,2016,OCT,Katukurunda Junction,23
+NO2,Kaluthara,2016,OCT,Kaluthara Urban Council,38
+NO2,Kaluthara,2016,OCT,Kaluthara District Average,30
+NO2,Kaluthara,2016,NOV,Aluthgama,19
+NO2,Kaluthara,2016,NOV,Kaluthara Bodiya Car Park,38
+NO2,Kaluthara,2016,NOV,Palathota Junction,15
+NO2,Kaluthara,2016,NOV,Nagoda Junction,39
+NO2,Kaluthara,2016,NOV,Katukurunda Junction,27
+NO2,Kaluthara,2016,NOV,Kaluthara Urban Council,39
+NO2,Kaluthara,2016,NOV,Kaluthara District Average,33
+NO2,Kaluthara,2016,DEC,Aluthgama,27
+NO2,Kaluthara,2016,DEC,Kaluthara Bodiya Car Park,48
+NO2,Kaluthara,2016,DEC,Palathota Junction,31
+NO2,Kaluthara,2016,DEC,Nagoda Junction,40
+NO2,Kaluthara,2016,DEC,Katukurunda Junction,37
+NO2,Kaluthara,2016,DEC,Kaluthara Urban Council,46
+NO2,Kaluthara,2016,DEC,Kaluthara District Average,33
+NO2,Kaluthara,2017,AVG,Aluthgama,18
+NO2,Kaluthara,2017,AVG,Kaluthara Bodiya Car Park,36
+NO2,Kaluthara,2017,AVG,Palathota Junction,19
+NO2,Kaluthara,2017,AVG,Nagoda Junction,36
+NO2,Kaluthara,2017,AVG,Katukurunda Junction,33
+NO2,Kaluthara,2017,AVG,Kaluthara Urban Council,40
+NO2,Kaluthara,2017,AVG,Kaluthara District Average,33
+NO2,Galle,,JAN,Richmond Hill Road,38
+NO2,Galle,,JAN,Havelock Place,21
+NO2,Galle,,JAN,Galle Bus Stand,101
+NO2,Galle,,JAN,Galle Fort,32
+NO2,Galle,,JAN,Talbot Town,28
+NO2,Galle,,JAN,Bandaranayaka Pedesage,40
+NO2,Galle,,JAN,Galle District Average,43
+NO2,Galle,,FEB,Richmond Hill Road,56
+NO2,Galle,,FEB,Havelock Place,23
+NO2,Galle,,FEB,Galle Bus Stand,115
+NO2,Galle,,FEB,Galle Fort,42
+NO2,Galle,,FEB,Talbot Town,48
+NO2,Galle,,FEB,Bandaranayaka Pedesage,48
+NO2,Galle,,FEB,Galle District Average,55
+NO2,Galle,,MAR,Richmond Hill Road,42
+NO2,Galle,,MAR,Havelock Place,19
+NO2,Galle,,MAR,Galle Bus Stand,80
+NO2,Galle,,MAR,Galle Fort,29
+NO2,Galle,,MAR,Talbot Town,43
+NO2,Galle,,MAR,Bandaranayaka Pedesage,39
+NO2,Galle,,MAR,Galle District Average,42
+NO2,Galle,,APR,Richmond Hill Road,44
+NO2,Galle,,APR,Havelock Place,30
+NO2,Galle,,APR,Galle Bus Stand,51
+NO2,Galle,,APR,Galle Fort,18
+NO2,Galle,,APR,Talbot Town,51
+NO2,Galle,,APR,Bandaranayaka Pedesage,24
+NO2,Galle,,APR,Galle District Average,36
+NO2,Galle,,MAY,Richmond Hill Road,46
+NO2,Galle,,MAY,Havelock Place,29
+NO2,Galle,,MAY,Galle Bus Stand,76
+NO2,Galle,,MAY,Galle Fort,26
+NO2,Galle,,MAY,Talbot Town,41
+NO2,Galle,,MAY,Bandaranayaka Pedesage,36
+NO2,Galle,,MAY,Galle District Average,42
+NO2,Galle,,JUN,Richmond Hill Road,40
+NO2,Galle,,JUN,Havelock Place,35
+NO2,Galle,,JUN,Galle Bus Stand,55
+NO2,Galle,,JUN,Galle Fort,25
+NO2,Galle,,JUN,Talbot Town,57
+NO2,Galle,,JUN,Bandaranayaka Pedesage,46
+NO2,Galle,,JUN,Galle District Average,43
+NO2,Galle,,AUG,Richmond Hill Road,45
+NO2,Galle,,AUG,Havelock Place,33
+NO2,Galle,,AUG,Galle Bus Stand,53
+NO2,Galle,,AUG,Galle Fort,22
+NO2,Galle,,AUG,Talbot Town,31
+NO2,Galle,,AUG,Bandaranayaka Pedesage,41
+NO2,Galle,,AUG,Galle District Average,38
+NO2,Galle,,SEP,Richmond Hill Road,41
+NO2,Galle,,SEP,Havelock Place,28
+NO2,Galle,,SEP,Galle Bus Stand,40
+NO2,Galle,,SEP,Galle Fort,16
+NO2,Galle,,SEP,Talbot Town,31
+NO2,Galle,,SEP,Bandaranayaka Pedesage,29
+NO2,Galle,,SEP,Galle District Average,31
+NO2,Galle,,OCT,Richmond Hill Road,44
+NO2,Galle,,OCT,Havelock Place,27
+NO2,Galle,,OCT,Galle Bus Stand,91
+NO2,Galle,,OCT,Galle Fort,14
+NO2,Galle,,OCT,Talbot Town,26
+NO2,Galle,,OCT,Bandaranayaka Pedesage,21
+NO2,Galle,,OCT,Galle District Average,37
+NO2,Galle,,NOV,Richmond Hill Road,90
+NO2,Galle,,NOV,Havelock Place,50
+NO2,Galle,,NOV,Galle Bus Stand,63
+NO2,Galle,,NOV,Galle Fort,37
+NO2,Galle,,NOV,Talbot Town,59
+NO2,Galle,,NOV,Bandaranayaka Pedesage,35
+NO2,Galle,,NOV,Galle District Average,56
+NO2,Galle,,DEC,Richmond Hill Road,65
+NO2,Galle,,DEC,Havelock Place,50
+NO2,Galle,,DEC,Galle Bus Stand,92
+NO2,Galle,,DEC,Galle Fort,12
+NO2,Galle,,DEC,Talbot Town,23
+NO2,Galle,,DEC,Bandaranayaka Pedesage,19
+NO2,Galle,,DEC,Galle District Average,44
+NO2,Galle,2013,AVG,Richmond Hill Road,49
+NO2,Galle,2013,AVG,Havelock Place,32
+NO2,Galle,2013,AVG,Galle Bus Stand,73
+NO2,Galle,2013,AVG,Galle Fort,24
+NO2,Galle,2013,AVG,Talbot Town,40
+NO2,Galle,2013,AVG,Bandaranayaka Pedesage,33
+NO2,Galle,2013,AVG,Galle District Average,42
+NO2,Galle,2013,JAN,Richmond Hill Road,66
+NO2,Galle,2013,JAN,Havelock Place,52
+NO2,Galle,2013,JAN,Galle Bus Stand,89
+NO2,Galle,2013,JAN,Galle Fort,22
+NO2,Galle,2013,JAN,Talbot Town,28
+NO2,Galle,2013,JAN,Bandaranayaka Pedesage,25
+NO2,Galle,2013,JAN,Galle District Average,47
+NO2,Galle,2013,FEB,Richmond Hill Road,103
+NO2,Galle,2013,FEB,Havelock Place,79
+NO2,Galle,2013,FEB,Galle Bus Stand,104
+NO2,Galle,2013,FEB,Galle Fort,48
+NO2,Galle,2013,FEB,Talbot Town,61
+NO2,Galle,2013,FEB,Bandaranayaka Pedesage,53
+NO2,Galle,2013,FEB,Galle District Average,75
+NO2,Galle,2013,MAR,Richmond Hill Road,66
+NO2,Galle,2013,MAR,Havelock Place,56
+NO2,Galle,2013,MAR,Galle Bus Stand,87
+NO2,Galle,2013,MAR,Galle Fort,46
+NO2,Galle,2013,MAR,Talbot Town,48
+NO2,Galle,2013,MAR,Bandaranayaka Pedesage,55
+NO2,Galle,2013,MAR,Galle District Average,60
+NO2,Galle,2013,APR,Richmond Hill Road,66
+NO2,Galle,2013,APR,Havelock Place,52
+NO2,Galle,2013,APR,Galle Bus Stand,89
+NO2,Galle,2013,APR,Galle Fort,22
+NO2,Galle,2013,APR,Talbot Town,28
+NO2,Galle,2013,APR,Bandaranayaka Pedesage,25
+NO2,Galle,2013,APR,Galle District Average,47
+NO2,Galle,2013,MAY,Richmond Hill Road,50
+NO2,Galle,2013,MAY,Havelock Place,41
+NO2,Galle,2013,MAY,Galle Bus Stand,64
+NO2,Galle,2013,MAY,Galle Fort,25
+NO2,Galle,2013,MAY,Talbot Town,31
+NO2,Galle,2013,MAY,Bandaranayaka Pedesage,27
+NO2,Galle,2013,MAY,Galle District Average,40
+NO2,Galle,2013,JUN,Richmond Hill Road,63
+NO2,Galle,2013,JUN,Havelock Place,51
+NO2,Galle,2013,JUN,Galle Bus Stand,81
+NO2,Galle,2013,JUN,Galle Fort,33
+NO2,Galle,2013,JUN,Talbot Town,38
+NO2,Galle,2013,JUN,Bandaranayaka Pedesage,34
+NO2,Galle,2013,JUN,Galle District Average,50
+NO2,Galle,2013,AUG,Richmond Hill Road,59
+NO2,Galle,2013,AUG,Havelock Place,56
+NO2,Galle,2013,AUG,Galle Bus Stand,76
+NO2,Galle,2013,AUG,Galle Fort,42
+NO2,Galle,2013,AUG,Talbot Town,48
+NO2,Galle,2013,AUG,Bandaranayaka Pedesage,45
+NO2,Galle,2013,AUG,Galle District Average,54
+NO2,Galle,2013,SEP,Richmond Hill Road,18
+NO2,Galle,2013,SEP,Havelock Place,39
+NO2,Galle,2013,SEP,Galle Bus Stand,27
+NO2,Galle,2013,SEP,Galle Fort,11
+NO2,Galle,2013,SEP,Talbot Town,15
+NO2,Galle,2013,SEP,Bandaranayaka Pedesage,17
+NO2,Galle,2013,SEP,Galle District Average,21
+NO2,Galle,2013,OCT,Richmond Hill Road,17
+NO2,Galle,2013,OCT,Havelock Place,23
+NO2,Galle,2013,OCT,Galle Bus Stand,38
+NO2,Galle,2013,OCT,Galle Fort,12
+NO2,Galle,2013,OCT,Talbot Town,12
+NO2,Galle,2013,OCT,Bandaranayaka Pedesage,14
+NO2,Galle,2013,OCT,Galle District Average,19
+NO2,Galle,2013,NOV,Richmond Hill Road,31
+NO2,Galle,2013,NOV,Havelock Place,33
+NO2,Galle,2013,NOV,Galle Bus Stand,43
+NO2,Galle,2013,NOV,Galle Fort,21
+NO2,Galle,2013,NOV,Talbot Town,19
+NO2,Galle,2013,NOV,Bandaranayaka Pedesage,26
+NO2,Galle,2013,NOV,Galle District Average,29
+NO2,Galle,2013,DEC,Richmond Hill Road,26
+NO2,Galle,2013,DEC,Havelock Place,52
+NO2,Galle,2013,DEC,Galle Bus Stand,53
+NO2,Galle,2013,DEC,Galle Fort,17
+NO2,Galle,2013,DEC,Talbot Town,15
+NO2,Galle,2013,DEC,Bandaranayaka Pedesage,22
+NO2,Galle,2013,DEC,Galle District Average,31
+NO2,Galle,2014,AVG,Richmond Hill Road,52
+NO2,Galle,2014,AVG,Havelock Place,49
+NO2,Galle,2014,AVG,Galle Bus Stand,69
+NO2,Galle,2014,AVG,Galle Fort,28
+NO2,Galle,2014,AVG,Talbot Town,31
+NO2,Galle,2014,AVG,Bandaranayaka Pedesage,31
+NO2,Galle,2014,AVG,Galle District Average,43
+NO2,Galle,2014,JAN,Richmond Hill Road,29
+NO2,Galle,2014,JAN,Havelock Place,30
+NO2,Galle,2014,JAN,Galle Bus Stand,38
+NO2,Galle,2014,JAN,Galle Fort,18
+NO2,Galle,2014,JAN,Talbot Town,17
+NO2,Galle,2014,JAN,Bandaranayaka Pedesage,18
+NO2,Galle,2014,JAN,Galle District Average,25
+NO2,Galle,2014,FEB,Richmond Hill Road,27
+NO2,Galle,2014,FEB,Havelock Place,28
+NO2,Galle,2014,FEB,Galle Bus Stand,35
+NO2,Galle,2014,FEB,Galle Fort,17
+NO2,Galle,2014,FEB,Talbot Town,15
+NO2,Galle,2014,FEB,Bandaranayaka Pedesage,17
+NO2,Galle,2014,FEB,Galle District Average,23
+NO2,Galle,2014,MAY,Richmond Hill Road,13
+NO2,Galle,2014,MAY,Havelock Place,42
+NO2,Galle,2014,MAY,Galle Bus Stand,25
+NO2,Galle,2014,MAY,Galle Fort,17
+NO2,Galle,2014,MAY,Talbot Town,8
+NO2,Galle,2014,MAY,Bandaranayaka Pedesage,15
+NO2,Galle,2014,MAY,Galle District Average,20
+NO2,Galle,2014,JUN,Richmond Hill Road,12
+NO2,Galle,2014,JUN,Havelock Place,38
+NO2,Galle,2014,JUN,Galle Bus Stand,22
+NO2,Galle,2014,JUN,Galle Fort,15
+NO2,Galle,2014,JUN,Talbot Town,7
+NO2,Galle,2014,JUN,Bandaranayaka Pedesage,13
+NO2,Galle,2014,JUN,Galle District Average,18
+NO2,Galle,2014,JUL,Richmond Hill Road,13
+NO2,Galle,2014,JUL,Havelock Place,21
+NO2,Galle,2014,JUL,Galle Bus Stand,21
+NO2,Galle,2014,JUL,Galle Fort,5
+NO2,Galle,2014,JUL,Talbot Town,11
+NO2,Galle,2014,JUL,Bandaranayaka Pedesage,10
+NO2,Galle,2014,JUL,Galle District Average,14
+NO2,Galle,2014,AUG,Richmond Hill Road,8
+NO2,Galle,2014,AUG,Havelock Place,16
+NO2,Galle,2014,AUG,Galle Bus Stand,20
+NO2,Galle,2014,AUG,Galle Fort,12
+NO2,Galle,2014,AUG,Talbot Town,8
+NO2,Galle,2014,AUG,Bandaranayaka Pedesage,15
+NO2,Galle,2014,AUG,Galle District Average,13
+NO2,Galle,2014,SEP,Richmond Hill Road,19
+NO2,Galle,2014,SEP,Havelock Place,21
+NO2,Galle,2014,SEP,Galle Bus Stand,34
+NO2,Galle,2014,SEP,Galle Fort,10
+NO2,Galle,2014,SEP,Talbot Town,17
+NO2,Galle,2014,SEP,Bandaranayaka Pedesage,17
+NO2,Galle,2014,SEP,Galle District Average,20
+NO2,Galle,2014,OCT,Richmond Hill Road,22
+NO2,Galle,2014,OCT,Havelock Place,15
+NO2,Galle,2014,OCT,Galle Bus Stand,34
+NO2,Galle,2014,OCT,Galle Fort,14
+NO2,Galle,2014,OCT,Talbot Town,18
+NO2,Galle,2014,OCT,Bandaranayaka Pedesage,19
+NO2,Galle,2014,OCT,Galle District Average,20
+NO2,Galle,2014,NOV,Richmond Hill Road,40
+NO2,Galle,2014,NOV,Havelock Place,26
+NO2,Galle,2014,NOV,Galle Bus Stand,63
+NO2,Galle,2014,NOV,Galle Fort,24
+NO2,Galle,2014,NOV,Talbot Town,34
+NO2,Galle,2014,NOV,Bandaranayaka Pedesage,21
+NO2,Galle,2014,NOV,Galle District Average,35
+NO2,Galle,2014,DEC,Richmond Hill Road,45
+NO2,Galle,2014,DEC,Havelock Place,29
+NO2,Galle,2014,DEC,Galle Bus Stand,71
+NO2,Galle,2014,DEC,Galle Fort,27
+NO2,Galle,2014,DEC,Talbot Town,39
+NO2,Galle,2014,DEC,Bandaranayaka Pedesage,24
+NO2,Galle,2014,DEC,Galle District Average,39
+NO2,Galle,2015,AVG,Richmond Hill Road,24
+NO2,Galle,2015,AVG,Havelock Place,27
+NO2,Galle,2015,AVG,Galle Bus Stand,38
+NO2,Galle,2015,AVG,Galle Fort,16
+NO2,Galle,2015,AVG,Talbot Town,18
+NO2,Galle,2015,AVG,Bandaranayaka Pedesage,16
+NO2,Galle,2015,AVG,Galle District Average,23
+NO2,Galle,2015,JAN,Richmond Hill Road,31
+NO2,Galle,2015,JAN,Havelock Place,20
+NO2,Galle,2015,JAN,Galle Bus Stand,53
+NO2,Galle,2015,JAN,Galle Fort,23
+NO2,Galle,2015,JAN,Talbot Town,25
+NO2,Galle,2015,JAN,Bandaranayaka Pedesage,17
+NO2,Galle,2015,JAN,Galle District Average,28
+NO2,Galle,2015,FEB,Richmond Hill Road,31
+NO2,Galle,2015,FEB,Havelock Place,26
+NO2,Galle,2015,FEB,Galle Bus Stand,48
+NO2,Galle,2015,FEB,Galle Fort,21
+NO2,Galle,2015,FEB,Talbot Town,25
+NO2,Galle,2015,FEB,Bandaranayaka Pedesage,20
+NO2,Galle,2015,FEB,Galle District Average,29
+NO2,Galle,2015,MAR,Richmond Hill Road,33
+NO2,Galle,2015,MAR,Havelock Place,28
+NO2,Galle,2015,MAR,Galle Bus Stand,53
+NO2,Galle,2015,MAR,Galle Fort,18
+NO2,Galle,2015,MAR,Talbot Town,12
+NO2,Galle,2015,MAR,Bandaranayaka Pedesage,15
+NO2,Galle,2015,MAR,Galle District Average,27
+NO2,Galle,2015,APR,Richmond Hill Road,25
+NO2,Galle,2015,APR,Havelock Place,18
+NO2,Galle,2015,APR,Galle Bus Stand,39
+NO2,Galle,2015,APR,Galle Fort,13
+NO2,Galle,2015,APR,Talbot Town,19
+NO2,Galle,2015,APR,Bandaranayaka Pedesage,16
+NO2,Galle,2015,APR,Galle District Average,22
+NO2,Galle,2015,MAY,Richmond Hill Road,25
+NO2,Galle,2015,MAY,Havelock Place,22
+NO2,Galle,2015,MAY,Galle Bus Stand,38
+NO2,Galle,2015,MAY,Galle Fort,11
+NO2,Galle,2015,MAY,Talbot Town,16
+NO2,Galle,2015,MAY,Bandaranayaka Pedesage,12
+NO2,Galle,2015,MAY,Galle District Average,21
+NO2,Galle,2015,JUN,Richmond Hill Road,31
+NO2,Galle,2015,JUN,Havelock Place,20
+NO2,Galle,2015,JUN,Galle Bus Stand,23
+NO2,Galle,2015,JUN,Galle Fort,16
+NO2,Galle,2015,JUN,Talbot Town,16
+NO2,Galle,2015,JUN,Bandaranayaka Pedesage,14
+NO2,Galle,2015,JUN,Galle District Average,20
+NO2,Galle,2015,AUG,Richmond Hill Road,16
+NO2,Galle,2015,AUG,Havelock Place,17
+NO2,Galle,2015,AUG,Galle Bus Stand,23
+NO2,Galle,2015,AUG,Galle Fort,15
+NO2,Galle,2015,AUG,Talbot Town,15
+NO2,Galle,2015,AUG,Bandaranayaka Pedesage,12
+NO2,Galle,2015,AUG,Galle District Average,16
+NO2,Galle,2015,SEP,Richmond Hill Road,16
+NO2,Galle,2015,SEP,Havelock Place,16
+NO2,Galle,2015,SEP,Galle Bus Stand,26
+NO2,Galle,2015,SEP,Galle Fort,27
+NO2,Galle,2015,SEP,Talbot Town,11
+NO2,Galle,2015,SEP,Bandaranayaka Pedesage,16
+NO2,Galle,2015,SEP,Galle District Average,19
+NO2,Galle,2015,OCT,Richmond Hill Road,31
+NO2,Galle,2015,OCT,Havelock Place,23
+NO2,Galle,2015,OCT,Galle Bus Stand,19
+NO2,Galle,2015,OCT,Galle Fort,31
+NO2,Galle,2015,OCT,Talbot Town,19
+NO2,Galle,2015,OCT,Bandaranayaka Pedesage,20
+NO2,Galle,2015,OCT,Galle District Average,24
+NO2,Galle,2015,NOV,Richmond Hill Road,20
+NO2,Galle,2015,NOV,Havelock Place,17
+NO2,Galle,2015,NOV,Galle Bus Stand,14
+NO2,Galle,2015,NOV,Galle Fort,23
+NO2,Galle,2015,NOV,Talbot Town,15
+NO2,Galle,2015,NOV,Bandaranayaka Pedesage,16
+NO2,Galle,2015,NOV,Galle District Average,18
+NO2,Galle,2015,DEC,Richmond Hill Road,28
+NO2,Galle,2015,DEC,Havelock Place,36
+NO2,Galle,2015,DEC,Galle Bus Stand,50
+NO2,Galle,2015,DEC,Galle Fort,27
+NO2,Galle,2015,DEC,Talbot Town,26
+NO2,Galle,2015,DEC,Bandaranayaka Pedesage,27
+NO2,Galle,2015,DEC,Galle District Average,32
+NO2,Galle,2016,AVG,Richmond Hill Road,26
+NO2,Galle,2016,AVG,Havelock Place,23
+NO2,Galle,2016,AVG,Galle Bus Stand,36
+NO2,Galle,2016,AVG,Galle Fort,21
+NO2,Galle,2016,AVG,Talbot Town,18
+NO2,Galle,2016,AVG,Bandaranayaka Pedesage,17
+NO2,Galle,2016,AVG,Galle District Average,23
+NO2,Galle,2016,JAN,Richmond Hill Road,37
+NO2,Galle,2016,JAN,Havelock Place,38
+NO2,Galle,2016,JAN,Galle Bus Stand,31
+NO2,Galle,2016,JAN,Galle Fort,22
+NO2,Galle,2016,JAN,Talbot Town,24
+NO2,Galle,2016,JAN,Bandaranayaka Pedesage,25
+NO2,Galle,2016,JAN,Galle District Average,30
+NO2,Galle,2016,FEB,Richmond Hill Road,44
+NO2,Galle,2016,FEB,Havelock Place,35
+NO2,Galle,2016,FEB,Galle Bus Stand,58
+NO2,Galle,2016,FEB,Galle Fort,21
+NO2,Galle,2016,FEB,Talbot Town,27
+NO2,Galle,2016,FEB,Bandaranayaka Pedesage,29
+NO2,Galle,2016,FEB,Galle District Average,36
+NO2,Galle,2016,MAR,Richmond Hill Road,36
+NO2,Galle,2016,MAR,Havelock Place,35
+NO2,Galle,2016,MAR,Galle Bus Stand,48
+NO2,Galle,2016,MAR,Galle Fort,18
+NO2,Galle,2016,MAR,Talbot Town,22
+NO2,Galle,2016,MAR,Bandaranayaka Pedesage,22
+NO2,Galle,2016,MAR,Galle District Average,30
+NO2,Galle,2016,APR,Richmond Hill Road,33
+NO2,Galle,2016,APR,Havelock Place,41
+NO2,Galle,2016,APR,Galle Bus Stand,45
+NO2,Galle,2016,APR,Galle Fort,12
+NO2,Galle,2016,APR,Talbot Town,21
+NO2,Galle,2016,APR,Bandaranayaka Pedesage,19
+NO2,Galle,2016,APR,Galle District Average,29
+NO2,Galle,2016,MAY,Richmond Hill Road,37
+NO2,Galle,2016,MAY,Havelock Place,39
+NO2,Galle,2016,MAY,Galle Bus Stand,51
+NO2,Galle,2016,MAY,Galle Fort,15
+NO2,Galle,2016,MAY,Talbot Town,30
+NO2,Galle,2016,MAY,Bandaranayaka Pedesage,23
+NO2,Galle,2016,MAY,Galle District Average,33
+NO2,Galle,2016,JUN,Richmond Hill Road,31
+NO2,Galle,2016,JUN,Havelock Place,39
+NO2,Galle,2016,JUN,Galle Bus Stand,52
+NO2,Galle,2016,JUN,Galle Fort,12
+NO2,Galle,2016,JUN,Talbot Town,16
+NO2,Galle,2016,JUN,Bandaranayaka Pedesage,17
+NO2,Galle,2016,JUN,Galle District Average,28
+NO2,Galle,2016,AUG,Richmond Hill Road,19
+NO2,Galle,2016,AUG,Havelock Place,16
+NO2,Galle,2016,AUG,Galle Bus Stand,29
+NO2,Galle,2016,AUG,Galle Fort,10
+NO2,Galle,2016,AUG,Talbot Town,17
+NO2,Galle,2016,AUG,Bandaranayaka Pedesage,17
+NO2,Galle,2016,AUG,Galle District Average,18
+NO2,Galle,2016,SEP,Richmond Hill Road,29
+NO2,Galle,2016,SEP,Havelock Place,22
+NO2,Galle,2016,SEP,Galle Bus Stand,24
+NO2,Galle,2016,SEP,Galle Fort,17
+NO2,Galle,2016,SEP,Talbot Town,19
+NO2,Galle,2016,SEP,Bandaranayaka Pedesage,15
+NO2,Galle,2016,SEP,Galle District Average,21
+NO2,Galle,2016,OCT,Richmond Hill Road,31
+NO2,Galle,2016,OCT,Havelock Place,20
+NO2,Galle,2016,OCT,Galle Bus Stand,33
+NO2,Galle,2016,OCT,Galle Fort,28
+NO2,Galle,2016,OCT,Talbot Town,26
+NO2,Galle,2016,OCT,Bandaranayaka Pedesage,16
+NO2,Galle,2016,OCT,Galle District Average,26
+NO2,Galle,2016,NOV,Richmond Hill Road,35
+NO2,Galle,2016,NOV,Havelock Place,17
+NO2,Galle,2016,NOV,Galle Bus Stand,47
+NO2,Galle,2016,NOV,Galle Fort,22
+NO2,Galle,2016,NOV,Talbot Town,24
+NO2,Galle,2016,NOV,Bandaranayaka Pedesage,20
+NO2,Galle,2016,NOV,Galle District Average,27
+NO2,Galle,2016,DEC,Richmond Hill Road,36
+NO2,Galle,2016,DEC,Havelock Place,21
+NO2,Galle,2016,DEC,Galle Bus Stand,39
+NO2,Galle,2016,DEC,Galle Fort,26
+NO2,Galle,2016,DEC,Talbot Town,22
+NO2,Galle,2016,DEC,Bandaranayaka Pedesage,23
+NO2,Galle,2016,DEC,Galle District Average,28
+NO2,Galle,2017,AVG,Richmond Hill Road,33
+NO2,Galle,2017,AVG,Havelock Place,29
+NO2,Galle,2017,AVG,Galle Bus Stand,40
+NO2,Galle,2017,AVG,Galle Fort,18
+NO2,Galle,2017,AVG,Talbot Town,22
+NO2,Galle,2017,AVG,Bandaranayaka Pedesage,20
+NO2,Galle,2017,AVG,Galle District Average,27
+NO2,Rathnapura,,JAN,Ratnapura Town,38
+NO2,Rathnapura,,JAN,Good Shed Road,21
+NO2,Rathnapura,,JAN,Kudugalwaththa,101
+NO2,Rathnapura,,JAN,Batugedara,32
+NO2,Rathnapura,,JAN,Ratnapura Police Station,28
+NO2,Rathnapura,,JAN,Duwagama,40
+NO2,Rathnapura,,JAN,Saman Dewalaya,43
+NO2,Rathnapura,,JAN,New Town,56
+NO2,Rathnapura,,JAN,Ratnapura District Average,32
+NO2,Rathnapura,,FEB,Ratnapura Town,56
+NO2,Rathnapura,,FEB,Good Shed Road,23
+NO2,Rathnapura,,FEB,Kudugalwaththa,115
+NO2,Rathnapura,,FEB,Batugedara,42
+NO2,Rathnapura,,FEB,Ratnapura Police Station,48
+NO2,Rathnapura,,FEB,Duwagama,48
+NO2,Rathnapura,,FEB,Saman Dewalaya,55
+NO2,Rathnapura,,FEB,New Town,75
+NO2,Rathnapura,,FEB,Ratnapura District Average,48
+NO2,Rathnapura,,MAR,Ratnapura Town,42
+NO2,Rathnapura,,MAR,Good Shed Road,19
+NO2,Rathnapura,,MAR,Kudugalwaththa,80
+NO2,Rathnapura,,MAR,Batugedara,29
+NO2,Rathnapura,,MAR,Ratnapura Police Station,43
+NO2,Rathnapura,,MAR,Duwagama,39
+NO2,Rathnapura,,MAR,Saman Dewalaya,42
+NO2,Rathnapura,,MAR,New Town,50
+NO2,Rathnapura,,MAR,Ratnapura District Average,56
+NO2,Rathnapura,,APR,Ratnapura Town,44
+NO2,Rathnapura,,APR,Good Shed Road,30
+NO2,Rathnapura,,APR,Kudugalwaththa,51
+NO2,Rathnapura,,APR,Batugedara,18
+NO2,Rathnapura,,APR,Ratnapura Police Station,51
+NO2,Rathnapura,,APR,Duwagama,24
+NO2,Rathnapura,,APR,Saman Dewalaya,36
+NO2,Rathnapura,,APR,New Town,37
+NO2,Rathnapura,,APR,Ratnapura District Average,70
+NO2,Rathnapura,,MAY,Ratnapura Town,46
+NO2,Rathnapura,,MAY,Good Shed Road,29
+NO2,Rathnapura,,MAY,Kudugalwaththa,76
+NO2,Rathnapura,,MAY,Batugedara,26
+NO2,Rathnapura,,MAY,Ratnapura Police Station,41
+NO2,Rathnapura,,MAY,Duwagama,36
+NO2,Rathnapura,,MAY,Saman Dewalaya,42
+NO2,Rathnapura,,MAY,New Town,45
+NO2,Rathnapura,,MAY,Ratnapura District Average,64
+NO2,Rathnapura,,JUN,Ratnapura Town,40
+NO2,Rathnapura,,JUN,Good Shed Road,35
+NO2,Rathnapura,,JUN,Kudugalwaththa,55
+NO2,Rathnapura,,JUN,Batugedara,25
+NO2,Rathnapura,,JUN,Ratnapura Police Station,57
+NO2,Rathnapura,,JUN,Duwagama,46
+NO2,Rathnapura,,JUN,Saman Dewalaya,43
+NO2,Rathnapura,,JUN,New Town,33
+NO2,Rathnapura,,JUN,Ratnapura District Average,84
+NO2,Rathnapura,,AUG,Ratnapura Town,45
+NO2,Rathnapura,,AUG,Good Shed Road,33
+NO2,Rathnapura,,AUG,Kudugalwaththa,53
+NO2,Rathnapura,,AUG,Batugedara,22
+NO2,Rathnapura,,AUG,Ratnapura Police Station,31
+NO2,Rathnapura,,AUG,Duwagama,41
+NO2,Rathnapura,,AUG,Saman Dewalaya,38
+NO2,Rathnapura,,AUG,New Town,33
+NO2,Rathnapura,,AUG,Ratnapura District Average,98
+NO2,Rathnapura,,SEP,Ratnapura Town,41
+NO2,Rathnapura,,SEP,Good Shed Road,28
+NO2,Rathnapura,,SEP,Kudugalwaththa,40
+NO2,Rathnapura,,SEP,Batugedara,16
+NO2,Rathnapura,,SEP,Ratnapura Police Station,31
+NO2,Rathnapura,,SEP,Duwagama,29
+NO2,Rathnapura,,SEP,Saman Dewalaya,31
+NO2,Rathnapura,,SEP,New Town,26
+NO2,Rathnapura,,SEP,Ratnapura District Average,71
+NO2,Rathnapura,,OCT,Ratnapura Town,44
+NO2,Rathnapura,,OCT,Good Shed Road,27
+NO2,Rathnapura,,OCT,Kudugalwaththa,91
+NO2,Rathnapura,,OCT,Batugedara,14
+NO2,Rathnapura,,OCT,Ratnapura Police Station,26
+NO2,Rathnapura,,OCT,Duwagama,21
+NO2,Rathnapura,,OCT,Saman Dewalaya,37
+NO2,Rathnapura,,OCT,New Town,33
+NO2,Rathnapura,,OCT,Ratnapura District Average,72
+NO2,Rathnapura,,NOV,Ratnapura Town,90
+NO2,Rathnapura,,NOV,Good Shed Road,50
+NO2,Rathnapura,,NOV,Kudugalwaththa,63
+NO2,Rathnapura,,NOV,Batugedara,37
+NO2,Rathnapura,,NOV,Ratnapura Police Station,59
+NO2,Rathnapura,,NOV,Duwagama,35
+NO2,Rathnapura,,NOV,Saman Dewalaya,56
+NO2,Rathnapura,,NOV,New Town,50
+NO2,Rathnapura,,NOV,Ratnapura District Average,97
+NO2,Rathnapura,,DEC,Ratnapura Town,65
+NO2,Rathnapura,,DEC,Good Shed Road,50
+NO2,Rathnapura,,DEC,Kudugalwaththa,92
+NO2,Rathnapura,,DEC,Batugedara,12
+NO2,Rathnapura,,DEC,Ratnapura Police Station,23
+NO2,Rathnapura,,DEC,Duwagama,19
+NO2,Rathnapura,,DEC,Saman Dewalaya,44
+NO2,Rathnapura,,DEC,New Town,34
+NO2,Rathnapura,,DEC,Ratnapura District Average,69
+NO2,Rathnapura,2013,AVG,Ratnapura Town,49
+NO2,Rathnapura,2013,AVG,Good Shed Road,32
+NO2,Rathnapura,2013,AVG,Kudugalwaththa,73
+NO2,Rathnapura,2013,AVG,Batugedara,24
+NO2,Rathnapura,2013,AVG,Ratnapura Police Station,40
+NO2,Rathnapura,2013,AVG,Duwagama,33
+NO2,Rathnapura,2013,AVG,Saman Dewalaya,42
+NO2,Rathnapura,2013,AVG,New Town,42
+NO2,Rathnapura,2013,AVG,Ratnapura District Average,69
+NO2,Rathnapura,2013,JAN,Ratnapura Town,66
+NO2,Rathnapura,2013,JAN,Good Shed Road,52
+NO2,Rathnapura,2013,JAN,Kudugalwaththa,89
+NO2,Rathnapura,2013,JAN,Batugedara,22
+NO2,Rathnapura,2013,JAN,Ratnapura Police Station,28
+NO2,Rathnapura,2013,JAN,Duwagama,25
+NO2,Rathnapura,2013,JAN,Saman Dewalaya,47
+NO2,Rathnapura,2013,JAN,New Town,46
+NO2,Rathnapura,2013,JAN,Ratnapura District Average,104
+NO2,Rathnapura,2013,FEB,Ratnapura Town,103
+NO2,Rathnapura,2013,FEB,Good Shed Road,79
+NO2,Rathnapura,2013,FEB,Kudugalwaththa,104
+NO2,Rathnapura,2013,FEB,Batugedara,48
+NO2,Rathnapura,2013,FEB,Ratnapura Police Station,61
+NO2,Rathnapura,2013,FEB,Duwagama,53
+NO2,Rathnapura,2013,FEB,Saman Dewalaya,75
+NO2,Rathnapura,2013,FEB,New Town,49
+NO2,Rathnapura,2013,FEB,Ratnapura District Average,134
+NO2,Rathnapura,2013,MAR,Ratnapura Town,66
+NO2,Rathnapura,2013,MAR,Good Shed Road,56
+NO2,Rathnapura,2013,MAR,Kudugalwaththa,87
+NO2,Rathnapura,2013,MAR,Batugedara,46
+NO2,Rathnapura,2013,MAR,Ratnapura Police Station,48
+NO2,Rathnapura,2013,MAR,Duwagama,55
+NO2,Rathnapura,2013,MAR,Saman Dewalaya,60
+NO2,Rathnapura,2013,MAR,New Town,40
+NO2,Rathnapura,2013,MAR,Ratnapura District Average,84
+NO2,Rathnapura,2013,APR,Ratnapura Town,66
+NO2,Rathnapura,2013,APR,Good Shed Road,52
+NO2,Rathnapura,2013,APR,Kudugalwaththa,89
+NO2,Rathnapura,2013,APR,Batugedara,22
+NO2,Rathnapura,2013,APR,Ratnapura Police Station,28
+NO2,Rathnapura,2013,APR,Duwagama,25
+NO2,Rathnapura,2013,APR,Saman Dewalaya,47
+NO2,Rathnapura,2013,APR,New Town,34
+NO2,Rathnapura,2013,APR,Ratnapura District Average,35
+NO2,Rathnapura,2013,MAY,Ratnapura Town,50
+NO2,Rathnapura,2013,MAY,Good Shed Road,41
+NO2,Rathnapura,2013,MAY,Kudugalwaththa,64
+NO2,Rathnapura,2013,MAY,Batugedara,25
+NO2,Rathnapura,2013,MAY,Ratnapura Police Station,31
+NO2,Rathnapura,2013,MAY,Duwagama,27
+NO2,Rathnapura,2013,MAY,Saman Dewalaya,40
+NO2,Rathnapura,2013,MAY,New Town,37
+NO2,Rathnapura,2013,MAY,Ratnapura District Average,37
+NO2,Rathnapura,2013,JUN,Ratnapura Town,63
+NO2,Rathnapura,2013,JUN,Good Shed Road,51
+NO2,Rathnapura,2013,JUN,Kudugalwaththa,81
+NO2,Rathnapura,2013,JUN,Batugedara,33
+NO2,Rathnapura,2013,JUN,Ratnapura Police Station,38
+NO2,Rathnapura,2013,JUN,Duwagama,34
+NO2,Rathnapura,2013,JUN,Saman Dewalaya,50
+NO2,Rathnapura,2013,JUN,New Town,35
+NO2,Rathnapura,2013,JUN,Ratnapura District Average,36
+NO2,Rathnapura,2013,AUG,Ratnapura Town,59
+NO2,Rathnapura,2013,AUG,Good Shed Road,56
+NO2,Rathnapura,2013,AUG,Kudugalwaththa,76
+NO2,Rathnapura,2013,AUG,Batugedara,42
+NO2,Rathnapura,2013,AUG,Ratnapura Police Station,48
+NO2,Rathnapura,2013,AUG,Duwagama,45
+NO2,Rathnapura,2013,AUG,Saman Dewalaya,54
+NO2,Rathnapura,2013,AUG,New Town,60
+NO2,Rathnapura,2013,AUG,Ratnapura District Average,47
+NO2,Rathnapura,2013,SEP,Ratnapura Town,18
+NO2,Rathnapura,2013,SEP,Good Shed Road,39
+NO2,Rathnapura,2013,SEP,Kudugalwaththa,27
+NO2,Rathnapura,2013,SEP,Batugedara,11
+NO2,Rathnapura,2013,SEP,Ratnapura Police Station,15
+NO2,Rathnapura,2013,SEP,Duwagama,17
+NO2,Rathnapura,2013,SEP,Saman Dewalaya,21
+NO2,Rathnapura,2013,SEP,New Town,19
+NO2,Rathnapura,2013,SEP,Ratnapura District Average,33
+NO2,Rathnapura,2013,OCT,Ratnapura Town,17
+NO2,Rathnapura,2013,OCT,Good Shed Road,23
+NO2,Rathnapura,2013,OCT,Kudugalwaththa,38
+NO2,Rathnapura,2013,OCT,Batugedara,12
+NO2,Rathnapura,2013,OCT,Ratnapura Police Station,12
+NO2,Rathnapura,2013,OCT,Duwagama,14
+NO2,Rathnapura,2013,OCT,Saman Dewalaya,19
+NO2,Rathnapura,2013,OCT,New Town,20
+NO2,Rathnapura,2013,OCT,Ratnapura District Average,35
+NO2,Rathnapura,2013,NOV,Ratnapura Town,31
+NO2,Rathnapura,2013,NOV,Good Shed Road,33
+NO2,Rathnapura,2013,NOV,Kudugalwaththa,43
+NO2,Rathnapura,2013,NOV,Batugedara,21
+NO2,Rathnapura,2013,NOV,Ratnapura Police Station,19
+NO2,Rathnapura,2013,NOV,Duwagama,26
+NO2,Rathnapura,2013,NOV,Saman Dewalaya,29
+NO2,Rathnapura,2013,NOV,New Town,19
+NO2,Rathnapura,2013,NOV,Ratnapura District Average,43
+NO2,Rathnapura,2013,DEC,Ratnapura Town,26
+NO2,Rathnapura,2013,DEC,Good Shed Road,52
+NO2,Rathnapura,2013,DEC,Kudugalwaththa,53
+NO2,Rathnapura,2013,DEC,Batugedara,17
+NO2,Rathnapura,2013,DEC,Ratnapura Police Station,15
+NO2,Rathnapura,2013,DEC,Duwagama,22
+NO2,Rathnapura,2013,DEC,Saman Dewalaya,31
+NO2,Rathnapura,2013,DEC,New Town,16
+NO2,Rathnapura,2013,DEC,Ratnapura District Average,41
+NO2,Rathnapura,2014,AVG,Ratnapura Town,52
+NO2,Rathnapura,2014,AVG,Good Shed Road,49
+NO2,Rathnapura,2014,AVG,Kudugalwaththa,69
+NO2,Rathnapura,2014,AVG,Batugedara,28
+NO2,Rathnapura,2014,AVG,Ratnapura Police Station,31
+NO2,Rathnapura,2014,AVG,Duwagama,31
+NO2,Rathnapura,2014,AVG,Saman Dewalaya,43
+NO2,Rathnapura,2014,AVG,New Town,34
+NO2,Rathnapura,2014,AVG,Ratnapura District Average,55
+NO2,Rathnapura,2014,JAN,Ratnapura Town,29
+NO2,Rathnapura,2014,JAN,Good Shed Road,30
+NO2,Rathnapura,2014,JAN,Kudugalwaththa,38
+NO2,Rathnapura,2014,JAN,Batugedara,18
+NO2,Rathnapura,2014,JAN,Ratnapura Police Station,17
+NO2,Rathnapura,2014,JAN,Duwagama,18
+NO2,Rathnapura,2014,JAN,Saman Dewalaya,25
+NO2,Rathnapura,2014,JAN,New Town,42
+NO2,Rathnapura,2014,JAN,Ratnapura District Average,71
+NO2,Rathnapura,2014,FEB,Ratnapura Town,27
+NO2,Rathnapura,2014,FEB,Good Shed Road,28
+NO2,Rathnapura,2014,FEB,Kudugalwaththa,35
+NO2,Rathnapura,2014,FEB,Batugedara,17
+NO2,Rathnapura,2014,FEB,Ratnapura Police Station,15
+NO2,Rathnapura,2014,FEB,Duwagama,17
+NO2,Rathnapura,2014,FEB,Saman Dewalaya,23
+NO2,Rathnapura,2014,FEB,New Town,39
+NO2,Rathnapura,2014,FEB,Ratnapura District Average,66
+NO2,Rathnapura,2014,MAY,Ratnapura Town,13
+NO2,Rathnapura,2014,MAY,Good Shed Road,42
+NO2,Rathnapura,2014,MAY,Kudugalwaththa,25
+NO2,Rathnapura,2014,MAY,Batugedara,17
+NO2,Rathnapura,2014,MAY,Ratnapura Police Station,8
+NO2,Rathnapura,2014,MAY,Duwagama,15
+NO2,Rathnapura,2014,MAY,Saman Dewalaya,20
+NO2,Rathnapura,2014,MAY,New Town,14
+NO2,Rathnapura,2014,MAY,Ratnapura District Average,34
+NO2,Rathnapura,2014,JUN,Ratnapura Town,12
+NO2,Rathnapura,2014,JUN,Good Shed Road,38
+NO2,Rathnapura,2014,JUN,Kudugalwaththa,22
+NO2,Rathnapura,2014,JUN,Batugedara,15
+NO2,Rathnapura,2014,JUN,Ratnapura Police Station,7
+NO2,Rathnapura,2014,JUN,Duwagama,13
+NO2,Rathnapura,2014,JUN,Saman Dewalaya,18
+NO2,Rathnapura,2014,JUN,New Town,12
+NO2,Rathnapura,2014,JUN,Ratnapura District Average,30
+NO2,Rathnapura,2014,JUL,Ratnapura Town,13
+NO2,Rathnapura,2014,JUL,Good Shed Road,21
+NO2,Rathnapura,2014,JUL,Kudugalwaththa,21
+NO2,Rathnapura,2014,JUL,Batugedara,5
+NO2,Rathnapura,2014,JUL,Ratnapura Police Station,11
+NO2,Rathnapura,2014,JUL,Duwagama,10
+NO2,Rathnapura,2014,JUL,Saman Dewalaya,14
+NO2,Rathnapura,2014,JUL,New Town,49
+NO2,Rathnapura,2014,JUL,Ratnapura District Average,9
+NO2,Rathnapura,2014,AUG,Ratnapura Town,8
+NO2,Rathnapura,2014,AUG,Good Shed Road,16
+NO2,Rathnapura,2014,AUG,Kudugalwaththa,20
+NO2,Rathnapura,2014,AUG,Batugedara,12
+NO2,Rathnapura,2014,AUG,Ratnapura Police Station,8
+NO2,Rathnapura,2014,AUG,Duwagama,15
+NO2,Rathnapura,2014,AUG,Saman Dewalaya,13
+NO2,Rathnapura,2014,AUG,New Town,24
+NO2,Rathnapura,2014,AUG,Ratnapura District Average,50
+NO2,Rathnapura,2014,SEP,Ratnapura Town,19
+NO2,Rathnapura,2014,SEP,Good Shed Road,21
+NO2,Rathnapura,2014,SEP,Kudugalwaththa,34
+NO2,Rathnapura,2014,SEP,Batugedara,10
+NO2,Rathnapura,2014,SEP,Ratnapura Police Station,17
+NO2,Rathnapura,2014,SEP,Duwagama,17
+NO2,Rathnapura,2014,SEP,Saman Dewalaya,20
+NO2,Rathnapura,2014,SEP,New Town,15
+NO2,Rathnapura,2014,SEP,Ratnapura District Average,30
+NO2,Rathnapura,2014,OCT,Ratnapura Town,22
+NO2,Rathnapura,2014,OCT,Good Shed Road,15
+NO2,Rathnapura,2014,OCT,Kudugalwaththa,34
+NO2,Rathnapura,2014,OCT,Batugedara,14
+NO2,Rathnapura,2014,OCT,Ratnapura Police Station,18
+NO2,Rathnapura,2014,OCT,Duwagama,19
+NO2,Rathnapura,2014,OCT,Saman Dewalaya,20
+NO2,Rathnapura,2014,OCT,New Town,9
+NO2,Rathnapura,2014,OCT,Ratnapura District Average,17
+NO2,Rathnapura,2014,NOV,Ratnapura Town,40
+NO2,Rathnapura,2014,NOV,Good Shed Road,26
+NO2,Rathnapura,2014,NOV,Kudugalwaththa,63
+NO2,Rathnapura,2014,NOV,Batugedara,24
+NO2,Rathnapura,2014,NOV,Ratnapura Police Station,34
+NO2,Rathnapura,2014,NOV,Duwagama,21
+NO2,Rathnapura,2014,NOV,Saman Dewalaya,35
+NO2,Rathnapura,2014,NOV,New Town,27
+NO2,Rathnapura,2014,NOV,Ratnapura District Average,32
+NO2,Rathnapura,2014,DEC,Ratnapura Town,45
+NO2,Rathnapura,2014,DEC,Good Shed Road,29
+NO2,Rathnapura,2014,DEC,Kudugalwaththa,71
+NO2,Rathnapura,2014,DEC,Batugedara,27
+NO2,Rathnapura,2014,DEC,Ratnapura Police Station,39
+NO2,Rathnapura,2014,DEC,Duwagama,24
+NO2,Rathnapura,2014,DEC,Saman Dewalaya,39
+NO2,Rathnapura,2014,DEC,New Town,31
+NO2,Rathnapura,2014,DEC,Ratnapura District Average,37
+NO2,Rathnapura,2015,AVG,Ratnapura Town,24
+NO2,Rathnapura,2015,AVG,Good Shed Road,27
+NO2,Rathnapura,2015,AVG,Kudugalwaththa,38
+NO2,Rathnapura,2015,AVG,Batugedara,16
+NO2,Rathnapura,2015,AVG,Ratnapura Police Station,18
+NO2,Rathnapura,2015,AVG,Duwagama,16
+NO2,Rathnapura,2015,AVG,Saman Dewalaya,23
+NO2,Rathnapura,2015,AVG,New Town,26
+NO2,Rathnapura,2015,AVG,Ratnapura District Average,38
+NO2,Rathnapura,2015,JAN,Ratnapura Town,31
+NO2,Rathnapura,2015,JAN,Good Shed Road,20
+NO2,Rathnapura,2015,JAN,Kudugalwaththa,53
+NO2,Rathnapura,2015,JAN,Batugedara,23
+NO2,Rathnapura,2015,JAN,Ratnapura Police Station,25
+NO2,Rathnapura,2015,JAN,Duwagama,17
+NO2,Rathnapura,2015,JAN,Saman Dewalaya,28
+NO2,Rathnapura,2015,JAN,New Town,19
+NO2,Rathnapura,2015,JAN,Ratnapura District Average,25
+NO2,Rathnapura,2015,FEB,Ratnapura Town,31
+NO2,Rathnapura,2015,FEB,Good Shed Road,26
+NO2,Rathnapura,2015,FEB,Kudugalwaththa,48
+NO2,Rathnapura,2015,FEB,Batugedara,21
+NO2,Rathnapura,2015,FEB,Ratnapura Police Station,25
+NO2,Rathnapura,2015,FEB,Duwagama,20
+NO2,Rathnapura,2015,FEB,Saman Dewalaya,29
+NO2,Rathnapura,2015,FEB,New Town,26
+NO2,Rathnapura,2015,FEB,Ratnapura District Average,33
+NO2,Rathnapura,2015,MAR,Ratnapura Town,33
+NO2,Rathnapura,2015,MAR,Good Shed Road,28
+NO2,Rathnapura,2015,MAR,Kudugalwaththa,53
+NO2,Rathnapura,2015,MAR,Batugedara,18
+NO2,Rathnapura,2015,MAR,Ratnapura Police Station,12
+NO2,Rathnapura,2015,MAR,Duwagama,15
+NO2,Rathnapura,2015,MAR,Saman Dewalaya,27
+NO2,Rathnapura,2015,MAR,New Town,26
+NO2,Rathnapura,2015,MAR,Ratnapura District Average,52
+NO2,Rathnapura,2015,APR,Ratnapura Town,25
+NO2,Rathnapura,2015,APR,Good Shed Road,18
+NO2,Rathnapura,2015,APR,Kudugalwaththa,39
+NO2,Rathnapura,2015,APR,Batugedara,13
+NO2,Rathnapura,2015,APR,Ratnapura Police Station,19
+NO2,Rathnapura,2015,APR,Duwagama,16
+NO2,Rathnapura,2015,APR,Saman Dewalaya,22
+NO2,Rathnapura,2015,APR,New Town,21
+NO2,Rathnapura,2015,APR,Ratnapura District Average,32
+NO2,Rathnapura,2015,MAY,Ratnapura Town,25
+NO2,Rathnapura,2015,MAY,Good Shed Road,22
+NO2,Rathnapura,2015,MAY,Kudugalwaththa,38
+NO2,Rathnapura,2015,MAY,Batugedara,11
+NO2,Rathnapura,2015,MAY,Ratnapura Police Station,16
+NO2,Rathnapura,2015,MAY,Duwagama,12
+NO2,Rathnapura,2015,MAY,Saman Dewalaya,21
+NO2,Rathnapura,2015,MAY,New Town,22
+NO2,Rathnapura,2015,MAY,Ratnapura District Average,30
+NO2,Rathnapura,2015,JUN,Ratnapura Town,31
+NO2,Rathnapura,2015,JUN,Good Shed Road,20
+NO2,Rathnapura,2015,JUN,Kudugalwaththa,23
+NO2,Rathnapura,2015,JUN,Batugedara,16
+NO2,Rathnapura,2015,JUN,Ratnapura Police Station,16
+NO2,Rathnapura,2015,JUN,Duwagama,14
+NO2,Rathnapura,2015,JUN,Saman Dewalaya,20
+NO2,Rathnapura,2015,JUN,New Town,21
+NO2,Rathnapura,2015,JUN,Ratnapura District Average,30
+NO2,Rathnapura,2015,AUG,Ratnapura Town,16
+NO2,Rathnapura,2015,AUG,Good Shed Road,17
+NO2,Rathnapura,2015,AUG,Kudugalwaththa,23
+NO2,Rathnapura,2015,AUG,Batugedara,15
+NO2,Rathnapura,2015,AUG,Ratnapura Police Station,15
+NO2,Rathnapura,2015,AUG,Duwagama,12
+NO2,Rathnapura,2015,AUG,Saman Dewalaya,16
+NO2,Rathnapura,2015,AUG,New Town,26
+NO2,Rathnapura,2015,AUG,Ratnapura District Average,29
+NO2,Rathnapura,2015,SEP,Ratnapura Town,16
+NO2,Rathnapura,2015,SEP,Good Shed Road,16
+NO2,Rathnapura,2015,SEP,Kudugalwaththa,26
+NO2,Rathnapura,2015,SEP,Batugedara,27
+NO2,Rathnapura,2015,SEP,Ratnapura Police Station,11
+NO2,Rathnapura,2015,SEP,Duwagama,16
+NO2,Rathnapura,2015,SEP,Saman Dewalaya,19
+NO2,Rathnapura,2015,SEP,New Town,31
+NO2,Rathnapura,2015,SEP,Ratnapura District Average,42
+NO2,Rathnapura,2015,OCT,Ratnapura Town,31
+NO2,Rathnapura,2015,OCT,Good Shed Road,23
+NO2,Rathnapura,2015,OCT,Kudugalwaththa,19
+NO2,Rathnapura,2015,OCT,Batugedara,31
+NO2,Rathnapura,2015,OCT,Ratnapura Police Station,19
+NO2,Rathnapura,2015,OCT,Duwagama,20
+NO2,Rathnapura,2015,OCT,Saman Dewalaya,24
+NO2,Rathnapura,2015,OCT,New Town,21
+NO2,Rathnapura,2015,OCT,Ratnapura District Average,40
+NO2,Rathnapura,2015,NOV,Ratnapura Town,20
+NO2,Rathnapura,2015,NOV,Good Shed Road,17
+NO2,Rathnapura,2015,NOV,Kudugalwaththa,14
+NO2,Rathnapura,2015,NOV,Batugedara,23
+NO2,Rathnapura,2015,NOV,Ratnapura Police Station,15
+NO2,Rathnapura,2015,NOV,Duwagama,16
+NO2,Rathnapura,2015,NOV,Saman Dewalaya,18
+NO2,Rathnapura,2015,NOV,New Town,28
+NO2,Rathnapura,2015,NOV,Ratnapura District Average,63
+NO2,Rathnapura,2015,DEC,Ratnapura Town,28
+NO2,Rathnapura,2015,DEC,Good Shed Road,36
+NO2,Rathnapura,2015,DEC,Kudugalwaththa,50
+NO2,Rathnapura,2015,DEC,Batugedara,27
+NO2,Rathnapura,2015,DEC,Ratnapura Police Station,26
+NO2,Rathnapura,2015,DEC,Duwagama,27
+NO2,Rathnapura,2015,DEC,Saman Dewalaya,32
+NO2,Rathnapura,2015,DEC,New Town,37
+NO2,Rathnapura,2015,DEC,Ratnapura District Average,31
+NO2,Rathnapura,2016,AVG,Ratnapura Town,26
+NO2,Rathnapura,2016,AVG,Good Shed Road,23
+NO2,Rathnapura,2016,AVG,Kudugalwaththa,36
+NO2,Rathnapura,2016,AVG,Batugedara,21
+NO2,Rathnapura,2016,AVG,Ratnapura Police Station,18
+NO2,Rathnapura,2016,AVG,Duwagama,17
+NO2,Rathnapura,2016,AVG,Saman Dewalaya,23
+NO2,Rathnapura,2016,AVG,New Town,25
+NO2,Rathnapura,2016,AVG,Ratnapura District Average,36
+NO2,Rathnapura,2016,JAN,Ratnapura Town,37
+NO2,Rathnapura,2016,JAN,Good Shed Road,38
+NO2,Rathnapura,2016,JAN,Kudugalwaththa,31
+NO2,Rathnapura,2016,JAN,Batugedara,22
+NO2,Rathnapura,2016,JAN,Ratnapura Police Station,24
+NO2,Rathnapura,2016,JAN,Duwagama,25
+NO2,Rathnapura,2016,JAN,Saman Dewalaya,30
+NO2,Rathnapura,2016,JAN,New Town,33
+NO2,Rathnapura,2016,JAN,Ratnapura District Average,43
+NO2,Rathnapura,2016,FEB,Ratnapura Town,44
+NO2,Rathnapura,2016,FEB,Good Shed Road,35
+NO2,Rathnapura,2016,FEB,Kudugalwaththa,58
+NO2,Rathnapura,2016,FEB,Batugedara,21
+NO2,Rathnapura,2016,FEB,Ratnapura Police Station,27
+NO2,Rathnapura,2016,FEB,Duwagama,29
+NO2,Rathnapura,2016,FEB,Saman Dewalaya,36
+NO2,Rathnapura,2016,FEB,New Town,35
+NO2,Rathnapura,2016,FEB,Ratnapura District Average,31
+NO2,Rathnapura,2016,MAR,Ratnapura Town,36
+NO2,Rathnapura,2016,MAR,Good Shed Road,35
+NO2,Rathnapura,2016,MAR,Kudugalwaththa,48
+NO2,Rathnapura,2016,MAR,Batugedara,18
+NO2,Rathnapura,2016,MAR,Ratnapura Police Station,22
+NO2,Rathnapura,2016,MAR,Duwagama,22
+NO2,Rathnapura,2016,MAR,Saman Dewalaya,30
+NO2,Rathnapura,2016,MAR,New Town,28
+NO2,Rathnapura,2016,MAR,Ratnapura District Average,45
+NO2,Rathnapura,2016,APR,Ratnapura Town,33
+NO2,Rathnapura,2016,APR,Good Shed Road,41
+NO2,Rathnapura,2016,APR,Kudugalwaththa,45
+NO2,Rathnapura,2016,APR,Batugedara,12
+NO2,Rathnapura,2016,APR,Ratnapura Police Station,21
+NO2,Rathnapura,2016,APR,Duwagama,19
+NO2,Rathnapura,2016,APR,Saman Dewalaya,29
+NO2,Rathnapura,2016,APR,New Town,28
+NO2,Rathnapura,2016,APR,Ratnapura District Average,28
+NO2,Rathnapura,2016,MAY,Ratnapura Town,37
+NO2,Rathnapura,2016,MAY,Good Shed Road,39
+NO2,Rathnapura,2016,MAY,Kudugalwaththa,51
+NO2,Rathnapura,2016,MAY,Batugedara,15
+NO2,Rathnapura,2016,MAY,Ratnapura Police Station,30
+NO2,Rathnapura,2016,MAY,Duwagama,23
+NO2,Rathnapura,2016,MAY,Saman Dewalaya,33
+NO2,Rathnapura,2016,MAY,New Town,20
+NO2,Rathnapura,2016,MAY,Ratnapura District Average,31
+NO2,Rathnapura,2016,JUN,Ratnapura Town,31
+NO2,Rathnapura,2016,JUN,Good Shed Road,39
+NO2,Rathnapura,2016,JUN,Kudugalwaththa,52
+NO2,Rathnapura,2016,JUN,Batugedara,12
+NO2,Rathnapura,2016,JUN,Ratnapura Police Station,16
+NO2,Rathnapura,2016,JUN,Duwagama,17
+NO2,Rathnapura,2016,JUN,Saman Dewalaya,28
+NO2,Rathnapura,2016,JUN,New Town,19
+NO2,Rathnapura,2016,JUN,Ratnapura District Average,45
+NO2,Rathnapura,2016,AUG,Ratnapura Town,19
+NO2,Rathnapura,2016,AUG,Good Shed Road,16
+NO2,Rathnapura,2016,AUG,Kudugalwaththa,29
+NO2,Rathnapura,2016,AUG,Batugedara,10
+NO2,Rathnapura,2016,AUG,Ratnapura Police Station,17
+NO2,Rathnapura,2016,AUG,Duwagama,17
+NO2,Rathnapura,2016,AUG,Saman Dewalaya,18
+NO2,Rathnapura,2016,AUG,New Town,17
+NO2,Rathnapura,2016,AUG,Ratnapura District Average,51
+NO2,Rathnapura,2016,SEP,Ratnapura Town,29
+NO2,Rathnapura,2016,SEP,Good Shed Road,22
+NO2,Rathnapura,2016,SEP,Kudugalwaththa,24
+NO2,Rathnapura,2016,SEP,Batugedara,17
+NO2,Rathnapura,2016,SEP,Ratnapura Police Station,19
+NO2,Rathnapura,2016,SEP,Duwagama,15
+NO2,Rathnapura,2016,SEP,Saman Dewalaya,21
+NO2,Rathnapura,2016,SEP,New Town,25
+NO2,Rathnapura,2016,SEP,Ratnapura District Average,26
+NO2,Rathnapura,2016,OCT,Ratnapura Town,31
+NO2,Rathnapura,2016,OCT,Good Shed Road,20
+NO2,Rathnapura,2016,OCT,Kudugalwaththa,33
+NO2,Rathnapura,2016,OCT,Batugedara,28
+NO2,Rathnapura,2016,OCT,Ratnapura Police Station,26
+NO2,Rathnapura,2016,OCT,Duwagama,16
+NO2,Rathnapura,2016,OCT,Saman Dewalaya,26
+NO2,Rathnapura,2016,OCT,New Town,37
+NO2,Rathnapura,2016,OCT,Ratnapura District Average,28
+NO2,Rathnapura,2016,NOV,Ratnapura Town,35
+NO2,Rathnapura,2016,NOV,Good Shed Road,17
+NO2,Rathnapura,2016,NOV,Kudugalwaththa,47
+NO2,Rathnapura,2016,NOV,Batugedara,22
+NO2,Rathnapura,2016,NOV,Ratnapura Police Station,24
+NO2,Rathnapura,2016,NOV,Duwagama,20
+NO2,Rathnapura,2016,NOV,Saman Dewalaya,27
+NO2,Rathnapura,2016,NOV,New Town,37
+NO2,Rathnapura,2016,NOV,Ratnapura District Average,27
+NO2,Rathnapura,2016,DEC,Ratnapura Town,36
+NO2,Rathnapura,2016,DEC,Good Shed Road,21
+NO2,Rathnapura,2016,DEC,Kudugalwaththa,39
+NO2,Rathnapura,2016,DEC,Batugedara,26
+NO2,Rathnapura,2016,DEC,Ratnapura Police Station,22
+NO2,Rathnapura,2016,DEC,Duwagama,23
+NO2,Rathnapura,2016,DEC,Saman Dewalaya,28
+NO2,Rathnapura,2016,DEC,New Town,51
+NO2,Rathnapura,2016,DEC,Ratnapura District Average,36
+NO2,Rathnapura,2017,AVG,Ratnapura Town,33
+NO2,Rathnapura,2017,AVG,Good Shed Road,29
+NO2,Rathnapura,2017,AVG,Kudugalwaththa,40
+NO2,Rathnapura,2017,AVG,Batugedara,18
+NO2,Rathnapura,2017,AVG,Ratnapura Police Station,22
+NO2,Rathnapura,2017,AVG,Duwagama,20
+NO2,Rathnapura,2017,AVG,Saman Dewalaya,27
+NO2,Rathnapura,2017,AVG,New Town,29
+NO2,Rathnapura,2017,AVG,Ratnapura District Average,35
