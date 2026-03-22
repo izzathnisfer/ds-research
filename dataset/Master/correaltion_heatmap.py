@@ -1,11 +1,14 @@
 # Create a correlation heatmap from the dataset
 
+from pathlib import Path
+
 import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load dataset
-file_path = r"C:\Users\ASUS\Desktop\DS project\dataset\Master\sri_lanka_master_monthly_dataset_not_cleaned.csv"
-df = pd.read_csv(file_path)
+base_dir = Path(__file__).resolve().parent
+file_path = base_dir / "V_2_sri_lanka_master_monthly_dataset_not_cleaned.xlsx"
+df = pd.read_excel(file_path)
 
 # Select numeric columns only
 numeric_df = df.select_dtypes(include=['number'])
@@ -26,7 +29,7 @@ plt.title("Correlation Heatmap")
 plt.tight_layout()
 
 # Save figure
-output_path = r"C:\Users\ASUS\Desktop\DS project\dataset\Master\correlation_heatmap.png"
+output_path = base_dir / "correlation_heatmap.png"
 plt.savefig(output_path)
 
 output_path
